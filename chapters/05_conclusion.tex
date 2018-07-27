@@ -1,0 +1,64 @@
+\chapter{Conclusion and Discussion}\label{chapter:8}
+
+\section*{Conclusion}
+The study focuses on the present state of IPv6 and its performance for Netflix. We focus on the performance metrics such as \textit{success rate, TCP connect times, throughput, stall rate etc} and the benefits of ISP content caches
+for Netflix using data collected by longitudinal dual-stack SamKnows probes towards the Netflix OCA servers. We also analyzed the speedtest dataset, which includes measurements towards M-Lab servers.
+
+\subparagraph{RQ 1. How does IPv6 performance compare with IPv4 for Netflix?}
+
+
+We started by analyzing the \textit{error occurrence rate} and showed that occurrence rate for error mostly lies between 15\%-45\% for a single day, also the errors are evenly
+distributed across each probe and it’s not that only some probes are generating errors. Coming to the success rate, the median success rate was around 100\% for the whole duration over IPv4 and IPv6. Also, around 79\% of the probes
+achieve a success rate of more than 90\% for IPv4, while for IPv6, only around 63\% of the probes were able to achieve this success rate. We also got to know that most of the results are influenced by \textit{residential} probes, as out of 100 probes 79 are residential.
+The results show that a Happy Eyeballs (HE) race during initial TCP connection establishment leads to a strong (around 93\%) preference over IPv6. 
+However, even though clients prefer streaming videos over IPv6, worse performance over IPv6 than over IPv4 was observed, whereby consistent higher TCP connection establishment times and pre-buffering duration ($\sim$40 ms or more) were witnessed over IPv6. Similarly, consistent lower achieved throughput over IPv6 was also observed. Less than 10\% stall rates over both address families were observed. All these findings are discussed in chapter \ref{chapet:4}.
+
+\subparagraph{RQ 2. How beneficial are the ISP content caches? How do the performance over IPv4 and IPv6 compare in accessing these caches?}
+
+
+Chapter \ref{chapter:5} discusses the benefits of ISP content caches for Netflix. As content delivery is becoming very important, and chapter \ref{chapter:Related Work} also discusses the trend about Internet network topology and that it is becoming "flat", content caches are being deployed within the ISPs to improve user experience by improving content delivery performance. We observed that ISP content caches do have an impact on the latency and throughput, and as per the results it was observed that content caches lead to reduced TCP connect times and Pre-buffering duration. 
+ A latency of around 10-20 ms and higher pre-buffering durations (around 0-750ms or more) are observed for Netflix over IPv4 and IPv6 as compared to ISP Content caches.
+ Also, Content caches achieved higher throughput (around 66\% of the times) as compared to Netflix over both IPv4 and IPv6.
+ 
+\subparagraph{RQ 3. How do IPv4 and IPv6 Speedtest results compare for Netflix and Measurement Lab?}
+ 
+ 
+As Speedtest is becoming a commercial way of checking QoS of broadbands, we analyzed the speedtest measurements towards M-Lab servers and Netflix OCA servers in chapter \ref{chapter:6}. 
+The comparison between M-Lab and Netflix speedtest reveals that the speedtest is better towards M-Lab servers than towards Netflix OCA servers. Around 59\% of the times, M-Lab achieved higher speedtest over Netflix
+for both the address families i.e. IPv4 and IPv6. We did find out that the path length (TTL) to M-Lab servers is comparatively less than the TTL to Netflix OCA servers, indicating that shorter path lengths correlate with a higher speed for M-Lab. 
+ 
+ 
+ \subparagraph{RQ 4. How do path length, latency, and delay compare over IPv4 and IPv6 for Netflix?}
+ 
+ 
+From the traceroute measurements towards Netflix, it was observed that content caches had reduced path lengths, TCP connect times and Pre-buffering durations, and can be reached within 5 hops and 21ms.
+Also, the fraction of median TTL over IPv6 being shorter, equal or faster to IPv4 are somewhat same. We observed that the pre-buffering duration was around 1801 ms over IPv4 for a cache hit, and 2428 ms when there was a cache miss for 90\% of the measurements. 
+For IPv6, the pre-buffering duration was 1992 ms for a cache hit, and 2752 ms when there was a cache miss for 90\% of the measurements. An interesting aspect we looked into is the intermediate
+hops along the path. Considering AS types, the results showed that \textit{Transit/Access} and \textit{Content} Ases can be separated around a TTL value of 5, which signifies that, a Netflix traceroute
+measurement is likely to be an ISP cache if it ends in less than 5 hops. 
+
+
+\subsection*{Limitations}
+
+The study faces few limitations as most of the probes are situated in Europe (60) and America (32), the results are biased towards these regions. One thing to note here is that the state of present IPv6 deployment is centered around these regions, but it may change in the future. 
+Also, splitting the observations by Region or Network type goes down significantly and therefore, we cannot conclude the performance of IPv6 based on regions or Network type.
+Thus, a more general view of IPv6 connectivity cannot be studied. 
+ 
+Our analysis is also limited by \textit{paris-traceroute} which has a drawback such as non-cooperative routers or slow processing of ICMP packets \cite{viet}, which may not give the actual path length and latency aspects.
+Also, some routers assign lower priority to ICMP packets, which may impact the actual TCP connect times and pre-buffering duration. Also, few residential probes changed their ISP providers (around 10\%) and thus this may have impacted our content cache analysis, but we did check this and the overall picture remain the same.  
+
+The identification of caches is limited to the criteria of matching of source ASN and destination ASN. There could be caches deployed in different ASN of an ISP or could be placed in peers of the ISP.
+Also, as \cite{openconnect} suggests, Netflix tends to place their OCAs at Internet Exchange Points which could also be a cache. CDN providers also place caches outside the ISPs as well.
+However, the goal of this study was not to identify such caches but to measure the latency and delay when a cache was hit.
+
+
+\subsection*{Future Work} 
+Overcoming the limitations described in the last section could be one of the reasons to carry out future studies related to Netflix performance over IPv6. More probes could be set up all over the world especially to regions
+where there are fewer probes like in Africa or in Western Pacific. This will reduce the geographical bias that we faced in our study. Another aspect could be to diversify the probes based on network type.
+
+We faced some question while analyzing, like why is the pre-buffering duration higher over IPv6, given be it a Netflix CDN or an ISP cache. This could be looked into more detailed, by analyzing the pre-buffering duration by different geographical regions, or by a timeline. 
+It could be that a certain Geographical region is causing this higher pre-buffering duration for IPv6. Also to further study here is, that TCP connect times are congruent over both address family's whenever a cache is hit, it would be good to explore why this doesn't happen for the Pre-buffering duration. 
+
+The data was collected via fixed-line connections \cite{viet}, collecting data from Mobile or IoT devices could provide great insights into the performance of IPv6. The selected probes Internet Service Provider can be made static so that the research results don't get alter if the
+user changes her ISP. Furthermore, better aggregation techniques could be looked up to filter and select the important data points. Cache identification is one such important factor where better techniques to look up the caches can be used.
+In the end, increase in IPv6 adoption by the Internet Service Providers and the content providers will provide immense knowledge about its performance as compared to IPv4. As an increase in IPv6 traffic will provide more insights about its functioning under heavy load.

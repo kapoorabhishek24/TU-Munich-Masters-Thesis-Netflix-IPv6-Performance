@@ -1,0 +1,42 @@
+AS-SSI - Netflix Streaming Services Inc.                                        2827
+BSKYB-BROADBAND-AS - Sky UK Limited                                               48
+BT-UK-AS - British Telecommunications PLC                                         38
+TELENOR-NEXTEL - Telenor Norge AS                                                 30
+TEKSAVVY - TekSavvy Solutions                                                     23
+BELGACOM-SKYNET-AS - Proximus NV                                                  22
+EIRCOM - Eircom Limited                                                            8
+INTERNODE-AS Internode Pty Ltd                                                     7
+GET-NO - Get AS                                                                    7
+PLUSNET - British Telecommunications PLC                                           6
+NEXTGENTEL - NextGenTel AS                                                         6
+COMHEM-SWEDEN - Com Hem AB                                                         6
+ALTIBOX_AS - Altibox AS                                                            6
+AS-VOBIZ - vanoppen.biz LLC                                                        6
+ASN-CATCHCOM - Broadnet AS                                                         6
+ALLST-15290 - Allstream Corp.                                                      6
+XS4ALL-NL - Xs4all Internet BV                                                     6
+SNAP-NZ-AS Snap Internet Limited                                                   5
+BEANFIELD - Beanfield Technologies Inc.                                            5
+RCN-AS - RCN                                                                       5
+AUREON-5056 - Aureon Network Services                                              5
+ASBRUTELE - Brutele SC                                                             4
+SUNRISE - Sunrise Communications AG                                                4
+CALLPLUS-NZ-AP CallPlus Services Limited                                           4
+CENTURYLINK-US-LEGACY-QWEST - Qwest Communications Company                         3
+BREDBAND2 - Bredband2 AB                                                           3
+WAIA-TRANSIT-AP Western Australian Internet Association                            2
+NORDUNET - NORDUnet                                                                2
+MNET-AS - M-net Telekommunikations GmbH                                            2
+PENNREN - KINBER                                                                   2
+EWETEL - EWE TEL GmbH                                                              2
+MOBILEONELTD-AS-AP MobileOne Ltd. Mobile/Internet Service Provider Singapore       2
+INIT7 - Init7 (Switzerland) Ltd.                                                   2
+G8 NETWORKS LTDA                                                                   1
+T-MOBILE-AS21928 - T-Mobile USA                                                    1
+NMAX - Nmax                                                                        1
+PREMIER-COMMUNICATIONS - Premier Communications                                    1
+WEBFOCO TELECOMUNICACOES LTDA                                                      1
+TBNet Informatica LTDA                                                             1
+ASSOCIAÇÃO NACIONAL PARA INCLUSÃO DIGITAL - ANID                                   1
+PSC-EXT - Pittsburgh Supercomputing Center                                         1
+TEKSAVVY-WEST - TekSavvy Solutions                                                 1

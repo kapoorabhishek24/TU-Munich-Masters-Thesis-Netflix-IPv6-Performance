@@ -1,0 +1,35 @@
+AS-SSI - Netflix Streaming Services Inc.                                        2785
+BSKYB-BROADBAND-AS - Sky UK Limited                                               45
+BT-UK-AS - British Telecommunications PLC                                         39
+TELENOR-NEXTEL - Telenor Norge AS                                                 30
+TEKSAVVY - TekSavvy Solutions                                                     23
+BELGACOM-SKYNET-AS - Proximus NV                                                  21
+ALGAR TELECOM S/A                                                                  8
+GET-NO - Get AS                                                                    7
+COMHEM-SWEDEN - Com Hem AB                                                         7
+PLUSNET - British Telecommunications PLC                                           6
+ALTIBOX_AS - Altibox AS                                                            6
+SNAP-NZ-AS Snap Internet Limited                                                   6
+XS4ALL-NL - Xs4all Internet BV                                                     6
+EIRCOM - Eircom Limited                                                            6
+AS-VOBIZ - vanoppen.biz LLC                                                        6
+AUREON-5056 - Aureon Network Services                                              5
+NEXTGENTEL - NextGenTel AS                                                         5
+BEANFIELD - Beanfield Technologies Inc.                                            5
+BREDBAND2 - Bredband2 AB                                                           4
+ASBRUTELE - Brutele SC                                                             4
+SUNRISE - Sunrise Communications AG                                                4
+INTERNODE-AS Internode Pty Ltd                                                     4
+UUNET - MCI Communications Services                                                3
+ASN-IINET iiNet Limited                                                            2
+NORDUNET - NORDUnet                                                                2
+TPG-INTERNET-AP TPG Telecom Limited                                                2
+INIT7 - Init7 (Switzerland) Ltd.                                                   2
+MNET-AS - M-net Telekommunikations GmbH                                            2
+PENNREN - KINBER                                                                   2
+MOBILEONELTD-AS-AP MobileOne Ltd. Mobile/Internet Service Provider Singapore       2
+WAIA-TRANSIT-AP Western Australian Internet Association                            1
+PREMIER-COMMUNICATIONS - Premier Communications                                    1
+Rede Connect Telecom                                                               1
+CALLPLUS-NZ-AP CallPlus Services Limited                                           1
+TEKSAVVY-WEST - TekSavvy Solutions                                                 1

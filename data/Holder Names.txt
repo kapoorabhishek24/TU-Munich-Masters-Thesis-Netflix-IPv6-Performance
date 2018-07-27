@@ -1,0 +1,59 @@
+There are total 6174 distinct IPs (address field) in the dataset and those numbers signify the number of IPs belonging to the particular ASes.
+
+So, the content is mostly served from 
+
+OK, so ~90% of the destination IP endpoints belong to NETFLIX. Can you split
+the numbers by v4 and v6? -
+
+
+OK, so this is evenly distributed. This can be added in the thesis PDF. Yet,
+another aspect I wonder is how many times a destination IP is hit.
+
+
+AS-SSI - Netflix Streaming Services Inc.                                        5612
+BSKYB-BROADBAND-AS - Sky UK Limited                                               93
+BT-UK-AS - British Telecommunications PLC                                         77
+TELENOR-NEXTEL - Telenor Norge AS                                                 60
+TEKSAVVY - TekSavvy Solutions                                                     46
+BELGACOM-SKYNET-AS - Proximus NV                                                  43
+EIRCOM - Eircom Limited                                                           14
+GET-NO - Get AS                                                                   14
+COMHEM-SWEDEN - Com Hem AB                                                        13
+XS4ALL-NL - Xs4all Internet BV                                                    12
+ALTIBOX_AS - Altibox AS                                                           12
+AS-VOBIZ - vanoppen.biz LLC                                                       12
+PLUSNET - British Telecommunications PLC                                          12
+INTERNODE-AS Internode Pty Ltd                                                    11
+SNAP-NZ-AS Snap Internet Limited                                                  11
+NEXTGENTEL - NextGenTel AS                                                        11
+BEANFIELD - Beanfield Technologies Inc.                                           10
+AUREON-5056 - Aureon Network Services                                             10
+ALGAR TELECOM S/A                                                                  8
+SUNRISE - Sunrise Communications AG                                                8
+ASBRUTELE - Brutele SC                                                             8
+BREDBAND2 - Bredband2 AB                                                           7
+ALLST-15290 - Allstream Corp.                                                      6
+ASN-CATCHCOM - Broadnet AS                                                         6
+CALLPLUS-NZ-AP CallPlus Services Limited                                           5
+RCN-AS - RCN                                                                       5
+MOBILEONELTD-AS-AP MobileOne Ltd. Mobile/Internet Service Provider Singapore       4
+MNET-AS - M-net Telekommunikations GmbH                                            4
+INIT7 - Init7 (Switzerland) Ltd.                                                   4
+NORDUNET - NORDUnet                                                                4
+PENNREN - KINBER                                                                   4
+CENTURYLINK-US-LEGACY-QWEST - Qwest Communications Company                         3
+WAIA-TRANSIT-AP Western Australian Internet Association                            3
+UUNET - MCI Communications Services                                                3
+TEKSAVVY-WEST - TekSavvy Solutions                                                 2
+ASN-IINET iiNet Limited                                                            2
+TPG-INTERNET-AP TPG Telecom Limited                                                2
+PREMIER-COMMUNICATIONS - Premier Communications                                    2
+EWETEL - EWE TEL GmbH                                                              2
+NMAX - Nmax                                                                        1
+ASSOCIAÇÃO NACIONAL PARA INCLUSÃO DIGITAL - ANID                                   1
+PSC-EXT - Pittsburgh Supercomputing Center                                         1
+T-MOBILE-AS21928 - T-Mobile USA                                                    1
+WEBFOCO TELECOMUNICACOES LTDA                                                      1
+G8 NETWORKS LTDA                                                                   1
+TBNet Informatica LTDA                                                             1
+Rede Connect Telecom                                                               1

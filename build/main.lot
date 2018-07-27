@@ -1,0 +1,111 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {american}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.1}{\ignorespaces Schema of the \textit {Netflix} table\relax }}{19}{table.caption.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.2}{\ignorespaces Overview of Errors (error and error\_msg field)\relax }}{20}{table.caption.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.3}{\ignorespaces ASN Holder Names\relax }}{21}{table.caption.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.4}{\ignorespaces Continuing \cref {table:asnname}\relax }}{22}{table.caption.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.5}{\ignorespaces Schema of the \textit {traceroute and traceroute-filtered} table\relax }}{23}{table.caption.22}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.6}{\ignorespaces Overview of possible stop reasons (status values) for scamper\relax }}{23}{table.caption.23}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.7}{\ignorespaces Schema of the \textit {dst\_asn\_mapping} table\relax }}{24}{table.caption.24}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.8}{\ignorespaces Schema of the \textit {src\_asn\_mapping} table\relax }}{24}{table.caption.25}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.9}{\ignorespaces Schema of the \textit {endpoint\_asn\_mapping} table\relax }}{24}{table.caption.26}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.10}{\ignorespaces Schema of the \textit {as\_types} table\relax }}{25}{table.caption.27}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.11}{\ignorespaces Schema of the \textit {hostnames} table\relax }}{25}{table.caption.28}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.12}{\ignorespaces Schema of \textit {completed-traceroute} table\relax }}{26}{table.caption.29}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.13}{\ignorespaces Schema of \textit {traceroute\_v4 and traceroute\_v6} tables\relax }}{27}{table.caption.30}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.14}{\ignorespaces Schema of \textit {deltas} table (difference of \textit {traceroute\_v4} and \textit {traceroute\_v6} tables)\relax }}{27}{table.caption.31}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.15}{\ignorespaces Schema of \textit {path\_medians\_v4 and path\_medians\_v6} tables\relax }}{28}{table.caption.32}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.16}{\ignorespaces Schema of \textit {pair\_medians} table\relax }}{28}{table.caption.33}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.17}{\ignorespaces Schema of \textit {pair\_medians\_meta} table\relax }}{29}{table.caption.34}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.18}{\ignorespaces Schema of the \textit {httpgetmt} table\relax }}{30}{table.caption.35}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.19}{\ignorespaces Schema of the \textit {httpgetmt6} table\relax }}{30}{table.caption.36}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.20}{\ignorespaces Schema of the \textit {traceroute and traceroute-filtered} table\relax }}{31}{table.caption.37}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.21}{\ignorespaces Schema of the \textit {dst\_asn\_mapping} table\relax }}{31}{table.caption.38}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.22}{\ignorespaces Schema of the \textit {src\_asn\_mapping} table\relax }}{32}{table.caption.39}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.23}{\ignorespaces Schema of the \textit {endpoint\_asn\_mapping} table\relax }}{32}{table.caption.40}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.24}{\ignorespaces Schema of the \textit {as\_types} table\relax }}{32}{table.caption.41}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.25}{\ignorespaces Schema of the \textit {hostnames} table\relax }}{33}{table.caption.42}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.26}{\ignorespaces Schema of \textit {completed-traceroutemlab} table\relax }}{34}{table.caption.43}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.27}{\ignorespaces Schema of \textit {traceroute\_v4 and traceroute\_v6} tables\relax }}{34}{table.caption.44}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.28}{\ignorespaces Schema of \textit {deltas} table (difference of \textit {traceroute\_v4} and \textit {traceroute\_v6} tables)\relax }}{35}{table.caption.45}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.29}{\ignorespaces Schema of \textit {path\_medians\_v4 and path\_medians\_v6} tables\relax }}{35}{table.caption.46}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.30}{\ignorespaces Schema of \textit {pair\_medians} table\relax }}{36}{table.caption.47}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 3.31}{\ignorespaces Schema of \textit {pair\_medians\_meta} table\relax }}{36}{table.caption.48}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 4.1}{\ignorespaces Precentage of Different Errors\relax }}{39}{table.caption.51}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 4.2}{\ignorespaces Regions with Number of Probes\relax }}{43}{table.caption.57}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 4.3}{\ignorespaces Network Types with Number of Probes\relax }}{45}{table.caption.61}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 9.1}{\ignorespaces Python Packages used for this Study\relax }}{109}{table.caption.138}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax 9.2}{\ignorespaces Python Packages used for this Study\relax }}{110}{table.caption.139}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax A.1}{\ignorespaces AS Names for IPv4 Addresses\relax }}{113}{table.caption.141}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax A.2}{\ignorespaces Continuing \cref {table:asnipv4}\relax }}{114}{table.caption.142}
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {\relax A.3}{\ignorespaces AS Name for IPv6 Addresses\relax }}{115}{table.caption.143}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }

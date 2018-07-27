@@ -1,0 +1,41 @@
+\BOOKMARK [0][-]{chapter*.1}{Declaration}{}% 1
+\BOOKMARK [0][-]{chapter*.2}{Acknowledgments}{}% 2
+\BOOKMARK [0][-]{chapter*.3}{Abstract}{}% 3
+\BOOKMARK [0][-]{toc.0}{Contents}{}% 4
+\BOOKMARK [0][-]{chapter*.5}{List of Figures}{}% 5
+\BOOKMARK [0][-]{chapter*.6}{List of Tables}{}% 6
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 7
+\BOOKMARK [1][-]{section.1.1}{Motivation}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.2}{Research Questions}{chapter.1}% 9
+\BOOKMARK [1][-]{section.1.3}{Research Contribution}{chapter.1}% 10
+\BOOKMARK [0][-]{chapter.2}{Related Work}{}% 11
+\BOOKMARK [0][-]{chapter.3}{Datasets}{}% 12
+\BOOKMARK [1][-]{section.3.1}{Methodology}{chapter.3}% 13
+\BOOKMARK [1][-]{section.3.2}{Netflix Dataset Overview}{chapter.3}% 14
+\BOOKMARK [1][-]{section.3.3}{SpeedTest Dataset Overview}{chapter.3}% 15
+\BOOKMARK [0][-]{chapter.4}{IPv4 vs IPv6 - Which Performs Better?}{}% 16
+\BOOKMARK [1][-]{section.4.1}{Error and Success Rate}{chapter.4}% 17
+\BOOKMARK [1][-]{section.4.2}{IPv6 Preference}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.3}{Latency and Delay}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.4}{Throughput}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.5}{Stall Events}{chapter.4}% 21
+\BOOKMARK [0][-]{chapter.5}{Benefits of ISP Content Caches}{}% 22
+\BOOKMARK [1][-]{section.5.1}{SKY UK Limted}{chapter.5}% 23
+\BOOKMARK [1][-]{section.5.2}{All ISPs Together}{chapter.5}% 24
+\BOOKMARK [0][-]{chapter.6}{Who Connects Better - M-Lab or Netflix?}{}% 25
+\BOOKMARK [0][-]{chapter.7}{Does Path length impact Latency for Netflix?}{}% 26
+\BOOKMARK [1][-]{section.7.1}{Temporal Analysis}{chapter.7}% 27
+\BOOKMARK [1][-]{section.7.2}{Path Length and Latency Comparison}{chapter.7}% 28
+\BOOKMARK [1][-]{section.7.3}{Path Latency and Latency Deltas}{chapter.7}% 29
+\BOOKMARK [1][-]{section.7.4}{Content Caches}{chapter.7}% 30
+\BOOKMARK [1][-]{section.7.5}{Path Analysis}{chapter.7}% 31
+\BOOKMARK [0][-]{chapter.8}{Conclusion and Discussion}{}% 32
+\BOOKMARK [0][-]{chapter.9}{Reproducibility Considerations}{}% 33
+\BOOKMARK [0][-]{section*.140}{Appendices}{}% 34
+\BOOKMARK [0][-]{appendix.A}{Dataset}{}% 35
+\BOOKMARK [0][-]{appendix.B}{Data Analysis}{}% 36
+\BOOKMARK [1][-]{subsection.B.0.1}{Error and Success Rate}{appendix.B}% 37
+\BOOKMARK [2][-]{subsection.B.0.2}{IPv6 Preference}{subsection.B.0.1}% 38
+\BOOKMARK [2][-]{subsection.B.0.3}{Latency and Delays}{subsection.B.0.1}% 39
+\BOOKMARK [2][-]{subsection.B.0.4}{Benifits of ISP Content Caches}{subsection.B.0.1}% 40
+\BOOKMARK [0][-]{chapter*.166}{Bibliography}{}% 41

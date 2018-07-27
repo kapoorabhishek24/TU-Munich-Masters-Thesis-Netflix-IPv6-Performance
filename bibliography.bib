@@ -1,0 +1,1434 @@
+@article{bajpaimeasuring,
+  author    = {Vaibhav Bajpai and
+               Saba Ahsan and
+               J{\"{u}}rgen Sch{\"{o}}nw{\"{a}}lder and
+               J{\"{o}}rg Ott},
+  title     = {Measuring YouTube Content Delivery over IPv6},
+  journal   = {Computer Communication Review},
+  volume    = {47},
+  number    = {5},
+  pages     = {2--11},
+  year      = {2017},
+  url       = {http://doi.acm.org/10.1145/3155055.3155057},
+  doi       = {10.1145/3155055.3155057},
+  timestamp = {Wed, 22 Nov 2017 17:24:54 +0100},
+  biburl    = {http://dblp.org/rec/bib/journals/ccr/BajpaiASO17},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+%-----------
+@inproceedings{bajpaipam,
+  author    = {Saba Ahsan and
+               Vaibhav Bajpai and
+               J{\"{o}}rg Ott and
+               J{\"{u}}rgen Sch{\"{o}}nw{\"{a}}lder},
+  title     = {Measuring YouTube from Dual-Stacked Hosts},
+  booktitle = {Passive and Active Measurement - 16th International Conference, {PAM} 2015, New York, NY, USA, March 19-20, 2015, Proceedings},
+  pages     = {249--261},
+  year      = {2015},
+  crossref  = {DBLP:conf/pam/2015},
+  url       = {https://doi.org/10.1007/978-3-319-15509-8_19},
+  doi       = {10.1007/978-3-319-15509-8_19},
+  timestamp = {Mon, 05 Jun 2017 12:43:35 +0200},
+  biburl    = {http://dblp.org/rec/bib/conf/pam/AhsanBOS15},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+%----------------
+@article{openconnect,
+  author    = {Timm B{\"{o}}ttger and
+               F{\'{e}}lix Cuadrado and
+               Gareth Tyson and
+               Ignacio Castro and
+               Steve Uhlig},
+  title     = {Open Connect Everywhere: {A} Glimpse at the Internet Ecosystem through
+               the Lens of the Netflix {CDN}},
+  journal   = {CoRR},
+  volume    = {abs/1606.05519},
+  year      = {2016},
+  url       = {http://arxiv.org/abs/1606.05519},
+  archivePrefix = {arXiv},
+  eprint    = {1606.05519},
+  timestamp = {Wed, 07 Jun 2017 14:42:20 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/BottgerCTCU16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%-------------------  
+@online{gv6,
+author = {Google},
+title  = {IPv6 Adoption Statistics},
+date   = {2017-11-15},
+url    = {https://www.google.com/intl/en/ipv6/statistics.html}
+}
+%------------------------
+@misc{rfc6555,
+  author="D. Wing and A. Yourtchenko",
+  title="{Happy Eyeballs: Success with Dual-Stack Hosts}",
+  howpublished="RFC 6555 (Proposed Standard)",
+  series="Internet Request for Comments",
+  type="RFC",
+  number="6555",
+  pages="1--15",
+  year=2012,
+  month=apr,
+  issn="2070-1721",
+  publisher="RFC Editor",
+  institution="RFC Editor",
+  organization="RFC Editor",
+  address="Fremont, CA, USA",
+    note="Obsoleted by RFC 8305",
+url="https://www.rfc-editor.org/rfc/rfc6555.txt",
+  key="RFC 6555",
+  abstract={When a server's IPv4 path and protocol are working, but the server's IPv6 path and protocol are not working, a dual-stack client application experiences significant connection delay compared to an IPv4-only client.  This is undesirable because it causes the dual- stack client to have a worse user experience.  This document specifies requirements for algorithms that reduce this user-visible delay and provides an algorithm. [STANDARDS-TRACK]},
+  keywords="",
+  doi="10.17487/RFC6555",
+  }
+%----------------
+@misc{rfc6724,
+  author="D. {Thaler (Ed.)} and R. Draves and A. Matsumoto and T. Chown",
+  title="{Default Address Selection for Internet Protocol Version 6 (IPv6)}",
+  howpublished="RFC 6724 (Proposed Standard)",
+  series="Internet Request for Comments",
+  type="RFC",
+  number="6724",
+  pages="1--32",
+  year=2012,
+  month=sep,
+  issn="2070-1721",
+  publisher="RFC Editor",
+  institution="RFC Editor",
+  organization="RFC Editor",
+  address="Fremont, CA, USA",
+  url="https://www.rfc-editor.org/rfc/rfc6724.txt",
+  key="RFC 6724",
+  abstract={This document describes two algorithms, one for source address selection and one for destination address selection. The algorithms specify default behavior for all Internet Protocol version 6 (IPv6) implementations. They do not override choices made by applications or upper-layer protocols, nor do they preclude the development of more advanced mechanisms for address selection. The two algorithms share a common context, including an optional mechanism for allowing administrators to provide policy that can override the default behavior. In dual-stack implementations, the destination address selection algorithm can consider both IPv4 and IPv6 addresses -- depending on the available source addresses, the algorithm might prefer IPv6 addresses over IPv4 addresses, or vice versa. Default address selection as defined in this specification applies to all IPv6 nodes, including both hosts and routers. This document obsoletes RFC 3484. [STANDARDS-TRACK]},
+  keywords="source, destination, sort, sorting",
+  doi="10.17487/RFC6724",
+  }
+%-------------------
+@misc{rfc4380,
+  author="C. Huitema",
+  title="{Teredo: Tunneling IPv6 over UDP through Network Address Translations (NATs)}",
+  howpublished="RFC 4380 (Proposed Standard)",
+  series="Internet Request for Comments",
+  type="RFC",
+  number="4380",
+  pages="1--53",
+  year=2006,
+  month=feb,
+  issn="2070-1721",
+  publisher="RFC Editor",
+  institution="RFC Editor",
+  organization="RFC Editor",
+  address="Fremont, CA, USA",
+    note="Updated by RFCs 5991, 6081",
+url="https://www.rfc-editor.org/rfc/rfc4380.txt",
+  key="RFC 4380",
+  abstract={We propose here a service that enables nodes located behind one or more IPv4 Network Address Translations (NATs) to obtain IPv6 connectivity by tunneling packets over UDP; we call this the Teredo service.  Running the service requires the help of ``Teredo servers'' and ``Teredo relays''.  The Teredo servers are stateless, and only have to manage a small fraction of the traffic between Teredo clients; the Teredo relays act as IPv6 routers between the Teredo service and the ``native'' IPv6 Internet.  The relays can also provide interoperability with hosts using other transition mechanisms such as ``6to4''. [STANDARDS-TRACK]},
+  keywords="",
+  doi="10.17487/RFC4380",
+  }
+%-----------------------------  
+@online{whoregions,
+author = {World Health Organization},
+title  = {WHO Regions},
+date   = {2017-11-15},
+url    = {http://www.who.int/about/regions/en/}
+}
+%-------------------------------------------
+@online{metadata,
+author = {Vaibhav Bajpai},
+title  = {SamKnows Probes Metadata},
+date   = {2017-11-15},
+url    = {http://cnds.eecs.jacobs-university.de/users/vbajpai/yt-ccr-2017/metadata.txt}
+}
+%----------------------------
+@online{netflixipv6,
+author = {Rajiv Aggarwal and David Temkin},
+title  = {Enabling Support for IPv6},
+date   = {2017-11-15},
+url    = {https://medium.com/netflix-techblog/enabling-support-for-ipv6-48a495d5196f}
+}
+%-------------------------
+@PHDTHESIS{viet,
+  title        = "Analyzing longitudinal datasets from active measurements to identify and locate IPv6 caches in ISP networks",
+  author       = "Trinh Viet Doan",
+  year         = "2017",
+  type         = "Master's Thesis",
+  school       = "Technische Universität München",
+  address      = "Munich, Germany",
+}
+%-----------------------------
+@article{bajpaisurvey,
+  author    = {Vaibhav Bajpai and
+               J{\"{u}}rgen Sch{\"{o}}nw{\"{a}}lder},
+  title     = {A Survey on Internet Performance Measurement Platforms and Related
+               Standardization Efforts},
+  journal   = {{IEEE} Communications Surveys and Tutorials},
+  volume    = {17},
+  number    = {3},
+  pages     = {1313--1341},
+  year      = {2015},
+  url       = {https://doi.org/10.1109/COMST.2015.2418435},
+  doi       = {10.1109/COMST.2015.2418435},
+  timestamp = {Mon, 05 Jun 2017 20:46:31 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/comsur/BajpaiS15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%------------------
+@online{samknows,
+author = {SamKnows},
+title  = {SamKnows},
+date   = {2018-05-15},
+url    = {https://www.samknows.com/}
+}
+%------------------
+@online{httperror,
+author = {RFC2616},
+title  = {HTTP Status Codes},
+date   = {2017-12-15},
+url    = {https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html}
+}
+%-------------------------
+@misc{rfc2616,
+  author="R. Fielding and J. Gettys and J. Mogul and H. Frystyk and L. Masinter and P. Leach and T. Berners-Lee",
+  title="{Hypertext Transfer Protocol -- HTTP/1.1}",
+  howpublished="RFC 2616 (Draft Standard)",
+  series="Internet Request for Comments",
+  type="RFC",
+  number="2616",
+  pages="1--176",
+  year=1999,
+  month=jun,
+  issn="2070-1721",
+  publisher="RFC Editor",
+  institution="RFC Editor",
+  organization="RFC Editor",
+  address="Fremont, CA, USA",
+    note="Obsoleted by RFCs 7230, 7231, 7232, 7233, 7234, 7235, updated by RFCs 2817, 5785, 6266, 6585",
+url="https://www.rfc-editor.org/rfc/rfc2616.txt",
+  key="RFC 2616",
+  abstract={HTTP has been in use by the World-Wide Web global information initiative since 1990.  This specification defines the protocol referred to as ``HTTP/1.1'', and is an update to RFC 2068. [STANDARDS-TRACK]},
+  keywords="HTTP, World Wide Web, WWW, hypermedia",
+  doi="10.17487/RFC2616",
+  }
+%---------------------------------------
+@online{ripestat,
+author = {RIPE},
+title  = {RIPE NCC - Stats},
+date   = {2017-12-20},
+url    = {https://stat.ripe.net/}
+}
+%-------------------
+@online{ripeatlas,
+author = {RIPE},
+title  = {RIPE NCC - Stats},
+date   = {2018-01-20},
+url    = {https://atlas.ripe.net/}
+}
+%----------------------
+@online{bajpairipe,
+author = {Steffie Jacob Eravuchira and Vaibhav Bajpai and Jürgen Schönwälder},
+title  = {Measurement Research within the Python3 Ecosystem},
+date   = {2018-02-15},
+url    = {http://nbviewer.jupyter.org/github/vbajpai/ripe69-python3-toolset/blob/master/ripe69-python3-toolset.ipynb}
+}
+%----------------------
+@online{caida,
+author = {CAIDA},
+title  = {AS Classification},
+date   = {2018-03-15},
+url    = {https://www.caida.org/data/as-classification/}
+}
+%-------------------
+@online{peeringdb,
+author = {PeeringDB},
+title  = {AS Classification},
+date   = {2018-03-15},
+url    = {https://www.peeringdb.com/}
+}
+%---------------------------
+@inproceedings{scamper,
+  author    = {Matthew J. Luckie},
+  title     = {Scamper: a scalable and extensible packet prober for active measurement
+               of the internet},
+  booktitle = {Proceedings of the 10th {ACM} {SIGCOMM} Internet Measurement Conference,
+               {IMC} 2010, Melbourne, Australia - November 1-3, 2010},
+  pages     = {239--245},
+  year      = {2010},
+  crossref  = {DBLP:conf/imc/2010},
+  url       = {http://doi.acm.org/10.1145/1879141.1879171},
+  doi       = {10.1145/1879141.1879171},
+  timestamp = {Sat, 19 Aug 2017 20:08:45 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/imc/Luckie10},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%------------------------------
+@article{vietpam2018,
+  author    = {Trinh Viet Doan and Ljubica Pajevic and Vaibhav Bajpai and J{\"{o}}rg Ott},
+  title     = {Quantifying the Latency and Path Lengths towards
+Content Caches in Dual-stacked ISP networks},
+  journal   = {Passive And Active Measurement Conference 2018 (In Review)},
+  year      = {2018},
+}
+%------------------------------
+@inproceedings{paris,
+  author    = {Brice Augustin and
+               Timur Friedman and
+               Renata Teixeira},
+  title     = {Measuring load-balanced paths in the internet},
+  booktitle = {Proceedings of the 7th {ACM} {SIGCOMM} Internet Measurement Conference,
+               {IMC} 2007, San Diego, California, USA, October 24-26, 2007},
+  pages     = {149--160},
+  year      = {2007},
+  crossref  = {DBLP:conf/imc/2007},
+  url       = {http://doi.acm.org/10.1145/1298306.1298329},
+  doi       = {10.1145/1298306.1298329},
+  timestamp = {Sat, 19 Aug 2017 20:08:45 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/imc/AugustinFT07},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%------------------------------
+@misc{rfc3443,
+  author="P. Agarwal and B. Akyol",
+  title="{Time To Live (TTL) Processing in Multi-Protocol Label Switching (MPLS) Networks}",
+  howpublished="RFC 3443 (Proposed Standard)",
+  series="Internet Request for Comments",
+  type="RFC",
+  number="3443",
+  pages="1--10",
+  year=2003,
+  month=jan,
+  issn="2070-1721",
+  publisher="RFC Editor",
+  institution="RFC Editor",
+  organization="RFC Editor",
+  address="Fremont, CA, USA",
+    note="Updated by RFC 5462",
+url="https://www.rfc-editor.org/rfc/rfc3443.txt",
+  key="RFC 3443",
+  abstract={This document describes Time To Live (TTL) processing in hierarchical Multi-Protocol Label Switching (MPLS) networks and is motivated by the need to formalize a TTL-transparent mode of operation for an MPLS label-switched path.  It updates RFC 3032, ``MPLS Label Stack Encoding''.  TTL processing in both Pipe and Uniform Model hierarchical tunnels are specified with examples for both ``push'' and ``pop'' cases.  The document also complements RFC 3270, ``MPLS Support of Differentiated Services'' and ties together the terminology introduced in that document with TTL processing in hierarchical MPLS networks. [STANDARDS-TRACK]},
+  keywords="label stack encoding, uniform model, pipe model",
+  doi="10.17487/RFC3443",
+  }
+%------------------------------------
+@online{netflixfast,
+author = {Sergey Fedorov and Ellen Livengood},
+title  = {Building Fast.com},
+date   = {2018-03-15},
+url    = {https://medium.com/netflix-techblog/building-fast-com-4857fe0f8adb}
+}
+%----------------------
+@online{mlabfaq,
+author = {Measurement Lab},
+title  = {Why are my M-Lab results different from other speed tests?},
+date   = {2018-04-15},
+url    = {https://www.measurementlab.net/faq/#why-are-my-m-lab-results-different-from-other-speed-tests}
+}
+%---------------------------
+@online{skyuk,
+author = {SKY UK Limited},
+title  = {SKY UK Official Website},
+date   = {2018-02-15},
+url    = {https://www.sky.com/}
+}
+%-----------------------------------
+@online{btuk,
+author = {British Telecommunications},
+title  = {British TelecommunicationsOfficial Website},
+date   = {2018-02-15},
+url    = {http://home.bt.com/}
+}
+%----------------------------------------
+@online{mlab,
+author = {Measurement Lab},
+title  = {Measurement Lab Official Website},
+date   = {2018-03-15},
+url    = {https://www.measurementlab.net/}
+}
+%-----------------------------------------
+@online{netflix,
+author = {Netflix},
+title  = {Netflix Official Website},
+date   = {2018-12-15},
+url    = {https://www.netflix.com/ }
+}
+%--------------------------------------
+@online{samknowswhitepaper,
+author = {SamKnows},
+title  = {SAMKNOWS TEST METHODOLOGY Methodology and technical information relating to the SamKnows testing platform.},
+date   = {2018-12-15},
+url    = {https://files.samknows.com/~whitepapers/SQ301-005-EN-Test-Suite-Whitepaper-4.pdf }
+}
+%--------------------------
+@online{fastcom,
+author = {Netflix},
+title  = {Fast.com},
+date   = {2018-03-15},
+url    = {https://fast.com/ }
+}
+%----------------------
+@online{ocaoverview,
+author = {Netflix},
+title  = {Open Connect Overview},
+date   = {2018-03-15},
+url    = {https://openconnect.netflix.com/Open-Connect-Overview.pdf }
+}
+%--------------------------------
+@inproceedings{he1,
+  author    = {Enric Pujol and
+               Philipp Richter and
+               Anja Feldmann},
+  title     = {Understanding the Share of IPv6 Traffic in a Dual-Stack {ISP}},
+  booktitle = {Passive and Active Measurement - 18th International Conference, {PAM} 2017, Sydney, NSW, Australia, March 30-31, 2017, Proceedings},
+  pages     = {3--16},
+  year      = {2017},
+  crossref  = {DBLP:conf/pam/2017},
+  url       = {https://doi.org/10.1007/978-3-319-54328-4_1 },
+  doi       = {10.1007/978-3-319-54328-4_1},
+  timestamp = {Tue, 23 May 2017 01:12:13 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/pam/PujolRF17 },
+  bibsource = {dblp computer science bibliography, https://dblp.org }
+}
+%-----------------------------------
+@inproceedings{he2,
+  author    = {Vasileios Giotsas and
+               Matthew J. Luckie and
+               Bradley Huffaker and
+               kc claffy},
+  title     = {IPv6 {AS} Relationships, Cliques, and Congruence},
+  booktitle = {Passive and Active Measurement - 16th International Conference, {PAM} 2015, New York, NY, USA, March 19-20, 2015, Proceedings},
+  pages     = {111--122},
+  year      = {2015},
+  crossref  = {DBLP:conf/pam/2015},
+  url       = {https://doi.org/10.1007/978-3-319-15509-8_9 },
+  doi       = {10.1007/978-3-319-15509-8_9},
+  timestamp = {Tue, 23 May 2017 01:12:13 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/pam/GiotsasLHc15 },
+  bibsource = {dblp computer science bibliography, https://dblp.org }
+}
+%--------------------------------
+@inproceedings{he3,
+  author    = {Amogh Dhamdhere and
+               Matthew J. Luckie and
+               Bradley Huffaker and
+               kc claffy and
+               Ahmed Elmokashfi and
+               Emile Aben},
+  title     = {Measuring the deployment of IPv6: topology, routing and performance},
+  booktitle = {Proceedings of the 12th {ACM} {SIGCOMM} Internet Measurement Conference,
+               {IMC} '12, Boston, MA, USA, November 14-16, 2012},
+  pages     = {537--550},
+  year      = {2012},
+  crossref  = {DBLP:conf/imc/2012},
+  url       = {http://doi.acm.org/10.1145/2398776.2398832 },
+  doi       = {10.1145/2398776.2398832},
+  timestamp = {Sat, 19 Aug 2017 20:08:45 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/imc/DhamdhereLHcEA12 },
+  bibsource = {dblp computer science bibliography, https://dblp.org }
+}
+%--------------------------------------------
+@online{he4,
+author = {Arthur Berger},
+title  = {Comparison of Performance over IPv6 versus IPv4},
+date   = {2018-04-15},
+url    = {http://ftp.caida.org/workshops/isma/1202/slides/aims1202_acox_supplement.pdf }
+}
+%------------------------------
+@inproceedings{he5,
+  author    = {Yingjiao Wu and Xiaoqing Zhou},
+  title     = {Research on the IPv6 performance analysis based on dual-protocol stack and tunnel transition},
+  booktitle = {6th International Conference on Computer Science and Education ICCSE},
+  pages     = {1091-1093},
+  year      = {2011}
+}
+%--------------------------------
+@inproceedings{status1,
+  author    = {Matthew J. Luckie and
+               Young Hyun and
+               Bradley Huffaker},
+  title     = {Traceroute probe method and forward {IP} path inference},
+  booktitle = {Proceedings of the 8th {ACM} {SIGCOMM} Internet Measurement Conference, {IMC} 2008, Vouliagmeni, Greece, October 20-22, 2008},
+  pages     = {311--324},
+  year      = {2008},
+  crossref  = {DBLP:conf/imc/2008},
+  url       = {http://doi.acm.org/10.1145/1452520.1452557},
+  doi       = {10.1145/1452520.1452557},
+  timestamp = {Sat, 19 Aug 2017 20:08:45 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/imc/LuckieHH08},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%------------------------------
+@online{status2,
+author = {Matthew Luckie},
+title  = {Scamper data collection},
+date   = {2018-04-15},
+url    = {https://mailman.caida.org/pipermail/scamper-dev/2004-July/000076.html}
+}
+%------------------------------------------
+@inproceedings{cc1,
+  author    = {Yonggong Wang and
+               Zhenyu Li and
+               Gareth Tyson and
+               Steve Uhlig and
+               Gaogang Xie},
+  title     = {Optimal cache allocation for Content-Centric Networking},
+  booktitle = {2013 21st {IEEE} International Conference on Network Protocols, {ICNP} 2013, G{\"{o}}ttingen, Germany, October 7-10, 2013},
+  pages     = {1--10},
+  year      = {2013},
+  crossref  = {DBLP:conf/icnp/2013},
+  url       = {https://doi.org/10.1109/ICNP.2013.6733577},
+  doi       = {10.1109/ICNP.2013.6733577},
+  timestamp = {Sun, 04 Jun 2017 10:06:16 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icnp/WangLTUX13},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%-----------------------
+@inproceedings{cc2,
+  author    = {Ingmar Poese and
+               Benjamin Frank and
+               Bernhard Ager and
+               Georgios Smaragdakis and
+               Anja Feldmann},
+  title     = {Improving content delivery using provider-aided distance information},
+  booktitle = {Proceedings of the 10th {ACM} {SIGCOMM} Internet Measurement Conference,
+               {IMC} 2010, Melbourne, Australia - November 1-3, 2010},
+  pages     = {22--34},
+  year      = {2010},
+  crossref  = {DBLP:conf/imc/2010},
+  url       = {http://doi.acm.org/10.1145/1879141.1879145},
+  doi       = {10.1145/1879141.1879145},
+  timestamp = {Sat, 19 Aug 2017 20:08:45 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/imc/PoeseFASF10},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%--------------------------------
+@article{cc3,
+  author    = {Benjamin Frank and
+               Ingmar Poese and
+               Yin Lin and
+               Georgios Smaragdakis and
+               Anja Feldmann and
+               Bruce M. Maggs and
+               Jannis Rake and
+               Steve Uhlig and
+               Rick Weber},
+  title     = {Pushing {CDN-ISP} collaboration to the limit},
+  journal   = {Computer Communication Review},
+  volume    = {43},
+  number    = {3},
+  pages     = {34--44},
+  year      = {2013},
+  url       = {http://doi.acm.org/10.1145/2500098.2500103},
+  doi       = {10.1145/2500098.2500103},
+  timestamp = {Mon, 15 Jul 2013 08:43:30 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/ccr/FrankPLSFMRUW13},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%-----------------------------------------
+@inproceedings{cc4,
+  author    = {Juan Antonio Cordero and
+               Olivier Bonaventure},
+  title     = {Understanding the topological properties of Internet traffic: {A} view from the edge},
+  booktitle = {2014 {IFIP} Networking Conference, Trondheim, Norway, June 2-4, 2014},
+  pages     = {1--9},
+  year      = {2014},
+  crossref  = {DBLP:conf/networking/2014},
+  url       = {https://doi.org/10.1109/IFIPNetworking.2014.6857090},
+  doi       = {10.1109/IFIPNetworking.2014.6857090},
+  timestamp = {Fri, 26 May 2017 00:49:46 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/networking/CorderoB14},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%-----------------------------------------
+@inproceedings{cc5,
+  author    = {Meghana M. Amble and
+               Parimal Parag and
+               Srinivas Shakkottai and
+               Lei Ying},
+  title     = {Content-aware caching and traffic management in content distribution
+               networks},
+  booktitle = {{INFOCOM} 2011. 30th {IEEE} International Conference on Computer Communications,
+               Joint Conference of the {IEEE} Computer and Communications Societies,
+               10-15 April 2011, Shanghai, China},
+  pages     = {2858--2866},
+  year      = {2011},
+  crossref  = {DBLP:conf/infocom/2011},
+  url       = {https://doi.org/10.1109/INFCOM.2011.5935123},
+  doi       = {10.1109/INFCOM.2011.5935123},
+  timestamp = {Tue, 16 May 2017 16:26:34 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/infocom/AmblePSY11},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%---------------------------------------------
+@online{mlabtool,
+author = {Measurement Lab Network Diagnostic Tool},
+title  = {Network Diagnostic Tool},
+date   = {2018-04-15},
+url    = {https://www.measurementlab.net/tests/ndt/}
+}
+%-------------------------
+@online{speedtest,
+author = {Steve Bauer and David Clark and William Lehr},
+title  = {Understanding broadband speed measurements},
+date   = {2018-04-15},
+url    = {https://groups.csail.mit.edu/ana/Publications/Understanding_broadband_speed_measurements_bauer_clark_lehr_TPRC_2010.pdf}
+}
+%-----------------------------
+@inproceedings{ipv6mehdi,
+  author    = {Mehdi Nikkhah and
+               Roch Gu{\'{e}}rin and
+               Yiu Lee and
+               Richard Woundy},
+  title     = {Assessing IPv6 through web access a measurement study and its findings},
+  booktitle = {Proceedings of the 2011 Conference on Emerging Networking Experiments
+               and Technologies, Co-NEXT '11, Tokyo, Japan, December 6-9, 2011},
+  pages     = {26},
+  year      = {2011},
+  crossref  = {DBLP:conf/conext/2011},
+  url       = {http://doi.acm.org/10.1145/2079296.2079322},
+  doi       = {10.1145/2079296.2079322},
+  timestamp = {Fri, 15 Jun 2012 14:23:51 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/conext/NikkhahGLW11},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%------------------------------
+@inproceedings{ipv6ahmed,
+  author    = {Ioana Livadariu and
+               Ahmed Elmokashfi and
+               Amogh Dhamdhere},
+  title     = {Characterizing IPv6 control and data plane stability},
+  booktitle = {35th Annual {IEEE} International Conference on Computer Communications,
+               {INFOCOM} 2016, San Francisco, CA, USA, April 10-14, 2016},
+  pages     = {1--9},
+  year      = {2016},
+  crossref  = {DBLP:conf/infocom/2016},
+  url       = {https://doi.org/10.1109/INFOCOM.2016.7524465},
+  doi       = {10.1109/INFOCOM.2016.7524465},
+  timestamp = {Tue, 16 May 2017 16:26:36 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/infocom/LivadariuED16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%-------------------------
+@inproceedings{internetflat,
+  author    = {Phillipa Gill and
+               Martin F. Arlitt and
+               Zongpeng Li and
+               Anirban Mahanti},
+  title     = {The Flattening Internet Topology: Natural Evolution, Unsightly Barnacles
+               or Contrived Collapse?},
+  booktitle = {Passive and Active Network Measurement, 9th International Conference,
+               {PAM} 2008, Cleveland, OH, USA, April 29-30, 2008. Proceedings},
+  pages     = {1--10},
+  year      = {2008},
+  crossref  = {DBLP:conf/pam/2008},
+  url       = {https://doi.org/10.1007/978-3-540-79232-1_1},
+  doi       = {10.1007/978-3-540-79232-1_1},
+  timestamp = {Fri, 02 Jun 2017 13:01:08 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/pam/GillALM08},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%-----------------------------
+@inproceedings{ipv6matthew,
+  author    = {Vasileios Giotsas and
+               Matthew J. Luckie and
+               Bradley Huffaker and
+               kc claffy},
+  title     = {IPv6 {AS} Relationships, Cliques, and Congruence},
+  booktitle = {Passive and Active Measurement - 16th International Conference, {PAM} 2015, New York, NY, USA, March 19-20, 2015, Proceedings},
+  pages     = {111--122},
+  year      = {2015},
+  crossref  = {DBLP:conf/pam/2015},
+  url       = {https://doi.org/10.1007/978-3-319-15509-8_9},
+  doi       = {10.1007/978-3-319-15509-8_9},
+  timestamp = {Tue, 23 May 2017 01:12:13 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/pam/GiotsasLHc15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%-------------------------------
+@misc{rfc791,
+  author="J. Postel",
+  title="{Internet Protocol}",
+  howpublished="RFC 791 (Internet Standard)",
+  series="Internet Request for Comments",
+  type="RFC",
+  number="791",
+  pages="1--51",
+  year=1981,
+  month=sep,
+  issn="2070-1721",
+  publisher="RFC Editor",
+  institution="RFC Editor",
+  organization="RFC Editor",
+  address="Fremont, CA, USA",
+    note="Updated by RFCs 1349, 2474, 6864",
+url="https://www.rfc-editor.org/rfc/rfc791.txt",
+  key="RFC 791",
+  keywords="IP, IPv4",
+  doi="10.17487/RFC0791",
+  }
+%---------------------------------------
+@misc{rfc2460,
+  author="S. Deering and R. Hinden",
+  title="{Internet Protocol, Version 6 (IPv6) Specification}",
+  howpublished="RFC 2460 (Draft Standard)",
+  series="Internet Request for Comments",
+  type="RFC",
+  number="2460",
+  pages="1--39",
+  year=1998,
+  month=dec,
+  issn="2070-1721",
+  publisher="RFC Editor",
+  institution="RFC Editor",
+  organization="RFC Editor",
+  address="Fremont, CA, USA",
+    note="Obsoleted by RFC 8200, updated by RFCs 5095, 5722, 5871, 6437, 6564, 6935, 6946, 7045, 7112",
+url="https://www.rfc-editor.org/rfc/rfc2460.txt",
+  key="RFC 2460",
+  abstract={This document specifies version 6 of the Internet Protocol (IPv6), also sometimes referred to as IP Next Generation or IPng. [STANDARDS-TRACK]},
+  keywords="IPV6, internet, protocol, next, generation, ipng",
+  doi="10.17487/RFC2460",
+  }
+%----------------------------------------
+@inproceedings{hourglass,
+  author    = {Saamer Akhshabi and
+               Constantine Dovrolis},
+  title     = {The evolution of layered protocol stacks leads to an hourglass-shaped
+               architecture},
+  booktitle = {Proceedings of the {ACM} {SIGCOMM} 2011 Conference on Applications,
+               Technologies, Architectures, and Protocols for Computer Communications,
+               Toronto, ON, Canada, August 15-19, 2011},
+  pages     = {206--217},
+  year      = {2011},
+  crossref  = {DBLP:conf/sigcomm/2011},
+  url       = {http://doi.acm.org/10.1145/2018436.2018460},
+  doi       = {10.1145/2018436.2018460},
+  timestamp = {Tue, 26 Jan 2016 10:12:59 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/sigcomm/AkhshabiD11},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%-----------------------------------------------
+@article{iot,
+  author    = {Jayavardhana Gubbi and
+               Rajkumar Buyya and
+               Slaven Marusic and
+               Marimuthu Palaniswami},
+  title     = {Internet of Things (IoT): {A} vision, architectural elements, and
+               future directions},
+  journal   = {Future Generation Comp. Syst.},
+  volume    = {29},
+  number    = {7},
+  pages     = {1645--1660},
+  year      = {2013},
+  url       = {https://doi.org/10.1016/j.future.2013.01.010},
+  doi       = {10.1016/j.future.2013.01.010},
+  timestamp = {Sat, 27 May 2017 14:24:59 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/fgcs/GubbiBMP13},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%-------------------------------------------
+@article{iotipv6,
+  author    = {Antonio J. Jara and
+               Latif Ladid and
+               Antonio Fernandez G{\'{o}}mez{-}Skarmeta},
+  title     = {The Internet of Everything through IPv6: An Analysis of Challenges,
+               Solutions and Opportunities},
+  journal   = {JoWUA},
+  volume    = {4},
+  number    = {3},
+  pages     = {97--118},
+  year      = {2013},
+  url       = {http://isyou.info/jowua/papers/jowua-v4n3-6.pdf},
+  timestamp = {Thu, 26 Jan 2017 18:07:58 +0100},
+  biburl    = {https://dblp.org/rec/bib/journals/jowua/JaraLG13},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%-----------------------------
+@online{ipv6day,
+author = {World IPv6 Day},
+title  = {World IPv6 Launch Official Website},
+date   = {2018-01-15},
+url    = {http://www.worldipv6launch.org/}
+}
+%---------------------------
+@online{tum,
+author = {Technische Universität München},
+title  = {Chair of Connected Mobility},
+date   = {2018-05-15},
+url    = {http://www.cm.in.tum.de/en/home/}
+}
+%-----------------------------
+@online{gitlab,
+author = {Abhishek Kapoor},
+title  = {Chair of Connected Mobility},
+date   = {2018-05-30},
+url    = {https://gitlab.lrz.de/cm/2018-akapoor-masters-analysis}
+}
+%-----------------------------------
+@online{bajpaiyoutube,
+author = {Vaibhav Bajpai},
+title  = {Youtube CCR 2017},
+date   = {2017-12-30},
+url    = {https://github.com/vbajpai/2017-ccr-youtube-analysis}
+}
+%-----------------------------
+@online{downey,
+author = {Allen B. Downey},
+title  = {Think Stats},
+date   = {2017-12-30},
+url    = {http://greenteapress.com/thinkstats/}
+}
+%------------------------
+@misc{rfc8200,
+  author="S. Deering and R. Hinden",
+  title="{Internet Protocol, Version 6 (IPv6) Specification}",
+  howpublished="RFC 8200 (Internet Standard)",
+  series="Internet Request for Comments",
+  type="RFC",
+  number="8200",
+  pages="1--42",
+  year=2017,
+  month=jul,
+  issn="2070-1721",
+  publisher="RFC Editor",
+  institution="RFC Editor",
+  organization="RFC Editor",
+  address="Fremont, CA, USA",
+  url="https://www.rfc-editor.org/rfc/rfc8200.txt",
+  key="RFC 8200",
+  abstract={This document specifies version 6 of the Internet Protocol (IPv6).  It obsoletes RFC 2460.},
+  keywords="IPv6, internet, protocol, next, generation, ipng, flow label",
+  doi="10.17487/RFC8200",
+  }
+%------------------------------
+@inproceedings{sarraripv6,
+  author    = {Nadi Sarrar and
+               Gregor Maier and
+               Bernhard Ager and
+               Robin Sommer and
+               Steve Uhlig},
+  title     = {Investigating IPv6 Traffic - What Happened at the World IPv6 Day?},
+  booktitle = {Passive and Active Measurement - 13th International Conference, {PAM} 2012, Vienna, Austria, March 12-14th, 2012. Proceedings},
+  pages     = {11--20},
+  year      = {2012},
+  crossref  = {DBLP:conf/pam/2012},
+  url       = {https://doi.org/10.1007/978-3-642-28537-0_2},
+  doi       = {10.1007/978-3-642-28537-0_2},
+  timestamp = {Mon, 05 Jun 2017 12:43:35 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/pam/SarrarMASU12},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%----------------------------------
+@inproceedings{colittiipv6,
+  author    = {Lorenzo Colitti and
+               Steinar H. Gunderson and
+               Erik Kline and
+               Tiziana Refice},
+  title     = {Evaluating IPv6 Adoption in the Internet},
+  booktitle = {Passive and Active Measurement, 11th International Conference, {PAM} 2010, Zurich, Switzerland, April 7-9, 2010. Proceedings},
+  pages     = {141--150},
+  year      = {2010},
+  crossref  = {DBLP:conf/pam/2010},
+  url       = {https://doi.org/10.1007/978-3-642-12334-4_15},
+  doi       = {10.1007/978-3-642-12334-4_15},
+  timestamp = {Tue, 23 May 2017 01:12:13 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/pam/ColittiGKR10},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%------------------------------
+@inproceedings{dhamdhereipv6,
+  author    = {Amogh Dhamdhere and
+               Matthew J. Luckie and
+               Bradley Huffaker and
+               kc claffy and
+               Ahmed Elmokashfi and
+               Emile Aben},
+  title     = {Measuring the deployment of IPv6: topology, routing and performance},
+  booktitle = {Proceedings of the 12th {ACM} {SIGCOMM} Internet Measurement Conference,
+               {IMC} '12, Boston, MA, USA, November 14-16, 2012},
+  pages     = {537--550},
+  year      = {2012},
+  crossref  = {DBLP:conf/imc/2012},
+  url       = {http://doi.acm.org/10.1145/2398776.2398832},
+  doi       = {10.1145/2398776.2398832},
+  timestamp = {Sat, 19 Aug 2017 20:08:45 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/imc/DhamdhereLHcEA12},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%--------------------------------------
+@online{tunnelbroker,
+author = {Hurrican Electric Internet Services},
+title  = {IPv6 Tunnel Broker},
+date   = {2018-01-30},
+url    = {https://www.tunnelbroker.net/}
+}
+%-----------------------------------
+@article{ipv6transition,
+  author    = {Peng Wu and
+               Yong Cui and
+               Jianping Wu and
+               Jiangchuan Liu and
+               Chris Metz},
+  title     = {Transition from IPv4 to IPv6: {A} State-of-the-Art Survey},
+  journal   = {{IEEE} Communications Surveys and Tutorials},
+  volume    = {15},
+  number    = {3},
+  pages     = {1407--1424},
+  year      = {2013},
+  url       = {https://doi.org/10.1109/SURV.2012.110112.00200},
+  doi       = {10.1109/SURV.2012.110112.00200},
+  timestamp = {Mon, 27 Nov 2017 16:55:26 +0100},
+  biburl    = {https://dblp.org/rec/bib/journals/comsur/WuCWLM13},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%---------------------------------
+@inproceedings{mehdicoordination,
+  author    = {Mehdi Nikkhah and
+               Roch Gu{\'{e}}rin},
+  title     = {Migrating to Ipv6 - The role of basic coordination},
+  booktitle = {2014 {IFIP} Networking Conference, Trondheim, Norway, June 2-4, 2014},
+  pages     = {1--9},
+  year      = {2014},
+  crossref  = {DBLP:conf/networking/2014},
+  url       = {https://doi.org/10.1109/IFIPNetworking.2014.6857119},
+  doi       = {10.1109/IFIPNetworking.2014.6857119},
+  timestamp = {Fri, 26 May 2017 00:49:47 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/networking/NikkhahG14},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%----------------------------------
+@article{mehdiprogress,
+  author    = {Mehdi Nikkhah},
+  title     = {Maintaining the progress of IPv6 adoption},
+  journal   = {Computer Networks},
+  volume    = {102},
+  pages     = {50--69},
+  year      = {2016},
+  url       = {https://doi.org/10.1016/j.comnet.2016.02.027},
+  doi       = {10.1016/j.comnet.2016.02.027},
+  timestamp = {Thu, 18 May 2017 09:50:59 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/cn/Nikkhah16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%--------------------------------------------
+@inproceedings{jakubipv6,
+  author    = {Jakub Czyz and
+               Mark Allman and
+               Jing Zhang and
+               Scott Iekel{-}Johnson and
+               Eric Osterweil and
+               Michael Bailey},
+  title     = {Measuring IPv6 adoption},
+  booktitle = {{ACM} {SIGCOMM} 2014 Conference, SIGCOMM'14, Chicago, IL, USA, August
+               17-22, 2014},
+  pages     = {87--98},
+  year      = {2014},
+  crossref  = {DBLP:conf/sigcomm/2014},
+  url       = {http://doi.acm.org/10.1145/2619239.2626295},
+  doi       = {10.1145/2619239.2626295},
+  timestamp = {Thu, 26 Apr 2018 13:00:30 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/sigcomm/CzyzAZIOB14},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%-------------------------------------
+@online{loststars,
+author = {Nathalie Trenaman and Arne Kiessling and Rene Wilhelm},
+title  = {“Lost Stars” Why Operators Switch Off IPv6},
+date   = {2018-01-30},
+url    = {https://www.nanog.org/sites/default/files/Aben_Lost_Stars_-_v1.pdf}
+}
+%-------------------------------------
+@online{washingtonnetflix,
+author = {Brian Fung},
+title  = {Netflix now accounts for almost 37 percent of our Internet traffic},
+date   = {2018-05-15},
+url    = {https://www.washingtonpost.com/news/the-switch/wp/2015/05/28/netflix-now-accounts-for-almost-37-percent-of-our-internet-traffic/?noredirect=on&utm_term=.36fdba12499b}
+}
+%-------------------------------
+@inproceedings{adhikarinetflix,
+  author    = {Vijay Kumar Adhikari and
+               Yang Guo and
+               Fang Hao and
+               Matteo Varvello and
+               Volker Hilt and
+               Moritz Steiner and
+               Zhi{-}Li Zhang},
+  title     = {Unreeling netflix: Understanding and improving multi-CDN movie delivery},
+  booktitle = {Proceedings of the {IEEE} {INFOCOM} 2012, Orlando, FL, USA, March
+               25-30, 2012},
+  pages     = {1620--1628},
+  year      = {2012},
+  crossref  = {DBLP:conf/infocom/2012},
+  url       = {https://doi.org/10.1109/INFCOM.2012.6195531},
+  doi       = {10.1109/INFCOM.2012.6195531},
+  timestamp = {Tue, 16 May 2017 16:26:33 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/infocom/AdhikariGHVHSZ12},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%------------------------------
+@online{ninanetflix,
+author = {Nina Bargisen},
+title  = {How Netflix Works},
+date   = {2018-04-30},
+url    = {https://www.ripe.net/participate/meetings/regional-meetings/ipv6-day-denmark/presentations/3-nina-ipv6-day-copenhagen.pdf}
+}
+%--------------------------------
+@online{sandvine,
+author = {Sandvine},
+title  = {2016 Global Internet Phenomena},
+date   = {2018-04-30},
+url    = {https://www.sandvine.com/hubfs/downloads/archive/2016-global-internet-phenomena-report-latin-america-and-north-america.pdf}
+}
+%-------------------
+@inproceedings{martinnetflix,
+  author    = {Jim Martin and
+               Yunhui Fu and
+               Nicholas Wourms and
+               Terry Shaw},
+  title     = {Characterizing Netflix bandwidth consumption},
+  booktitle = {10th {IEEE} Consumer Communications and Networking Conference, {CCNC} 2013, Las Vegas, NV, USA, January 11-14, 2013},
+  pages     = {230--235},
+  year      = {2013},
+  crossref  = {DBLP:conf/ccnc/2013},
+  url       = {https://doi.org/10.1109/CCNC.2013.6488451},
+  doi       = {10.1109/CCNC.2013.6488451},
+  timestamp = {Wed, 24 May 2017 08:31:28 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/ccnc/MartinFWS13},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%----------------------------------
+@article{adhikarihulu,
+  author    = {Vijay Kumar Adhikari and
+               Yang Guo and
+               Fang Hao and
+               Volker Hilt and
+               Zhi{-}Li Zhang and
+               Matteo Varvello and
+               Moritz Steiner},
+  title     = {Measurement Study of Netflix, Hulu, and a Tale of Three CDNs},
+  journal   = {{IEEE/ACM} Trans. Netw.},
+  volume    = {23},
+  number    = {6},
+  pages     = {1984--1997},
+  year      = {2015},
+  url       = {https://doi.org/10.1109/TNET.2014.2354262},
+  doi       = {10.1109/TNET.2014.2354262},
+  timestamp = {Sat, 27 May 2017 14:24:26 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/ton/AdhikariGHHZVS15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%----------------------------------
+@inproceedings{dhamdhereflat,
+  author    = {Amogh Dhamdhere and
+               Constantine Dovrolis},
+  title     = {The Internet is flat: modeling the transition from a transit hierarchy
+               to a peering mesh},
+  booktitle = {Proceedings of the 2010 {ACM} Conference on Emerging Networking Experiments
+               and Technology, CoNEXT 2010, Philadelphia, PA, USA, November 30 -
+               December 03, 2010},
+  pages     = {21},
+  year      = {2010},
+  crossref  = {DBLP:conf/conext/2010},
+  url       = {http://doi.acm.org/10.1145/1921168.1921196},
+  doi       = {10.1145/1921168.1921196},
+  timestamp = {Tue, 11 Jan 2011 11:21:30 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/conext/DhamdhereD10},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%----------------------------------------
+@inproceedings{topologycraig,
+  author    = {Craig Labovitz and
+               Scott Iekel{-}Johnson and
+               Danny McPherson and
+               Jon Oberheide and
+               Farnam Jahanian},
+  title     = {Internet inter-domain traffic},
+  booktitle = {Proceedings of the {ACM} {SIGCOMM} 2010 Conference on Applications,
+               Technologies, Architectures, and Protocols for Computer Communications,
+               New Delhi, India, August 30 -September 3, 2010},
+  pages     = {75--86},
+  year      = {2010},
+  crossref  = {DBLP:conf/sigcomm/2010},
+  url       = {http://doi.acm.org/10.1145/1851182.1851194},
+  doi       = {10.1145/1851182.1851194},
+  timestamp = {Tue, 26 Jan 2016 10:12:59 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/sigcomm/LabovitzIMOJ10},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%-----------------------------------
+@article{topologydong,
+  author    = {Shouling Dong and
+               Jia Li and
+               Ling Zhang and
+               Jianfeng Deng},
+  title     = {A novel algorithm of IPv6 network topology discovery for Campus Network},
+  journal   = {{IEEE} Computer Science and Service System (CSSS), 2011 International Conference on},
+  year      = {2011},
+}
+%------------------------------
+@incollection{topologybenoit,
+  author    = {Benoit Donnet},
+  title     = {Internet Topology Discovery},
+  booktitle = {Data Traffic Monitoring and Analysis},
+  pages     = {44--81},
+  year      = {2013},
+  url       = {https://doi.org/10.1007/978-3-642-36784-7_3},
+  doi       = {10.1007/978-3-642-36784-7_3},
+  timestamp = {Tue, 16 May 2017 14:24:27 +0200},
+  biburl    = {https://dblp.org/rec/bib/series/lncs/Donnet13},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%-------------------------------
+@online{caidaark,
+author = {CAIDA},
+title  = {Archipelago (Ark) Measurement Infrastructure},
+date   = {2018-04-30},
+url    = {https://www.caida.org/projects/ark/}
+}
+%--------------------------
+@article{topologysimon,
+  author    = {Simon Knight and
+               Hung X. Nguyen and
+               Nick Falkner and
+               Rhys Alistair Bowden and
+               Matthew Roughan},
+  title     = {The Internet Topology Zoo},
+  journal   = {{IEEE} Journal on Selected Areas in Communications},
+  volume    = {29},
+  number    = {9},
+  pages     = {1765--1775},
+  year      = {2011},
+  url       = {https://doi.org/10.1109/JSAC.2011.111002},
+  doi       = {10.1109/JSAC.2011.111002},
+  timestamp = {Tue, 06 Jun 2017 22:21:52 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/jsac/KnightNFBR11},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%---------------------------------
+@article{topologybrett,
+  author    = {Brett Holbert and
+               Srikar Tati and
+               Simone Silvestri and
+               Thomas F. La Porta and
+               Ananthram Swami},
+  title     = {Network Topology Inference With Partial Information},
+  journal   = {{IEEE} Trans. Network and Service Management},
+  volume    = {12},
+  number    = {3},
+  pages     = {406--419},
+  year      = {2015},
+  url       = {https://doi.org/10.1109/TNSM.2015.2451032},
+  doi       = {10.1109/TNSM.2015.2451032},
+  timestamp = {Sat, 20 May 2017 00:24:57 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/tnsm/HolbertTSPS15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%----------------------------
+@inproceedings{internetbrice,
+  author    = {Brice Augustin and
+               Timur Friedman and
+               Renata Teixeira},
+  title     = {Measuring load-balanced paths in the internet},
+  booktitle = {Proceedings of the 7th {ACM} {SIGCOMM} Internet Measurement Conference,
+               {IMC} 2007, San Diego, California, USA, October 24-26, 2007},
+  pages     = {149--160},
+  year      = {2007},
+  crossref  = {DBLP:conf/imc/2007},
+  url       = {http://doi.acm.org/10.1145/1298306.1298329},
+  doi       = {10.1145/1298306.1298329},
+  timestamp = {Sat, 19 Aug 2017 20:08:45 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/imc/AugustinFT07},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%-------------------------------------
+@inproceedings{loadrafael,
+  author    = {Rafael Almeida and
+               Osvaldo L. H. M. Fonseca and
+               Elverton C. Fazzion and
+               Dorgival O. Guedes and
+               Wagner Meira Jr. and
+               {\'{I}}talo S. Cunha},
+  title     = {A Characterization of Load Balancing on the IPv6 Internet},
+  booktitle = {Passive and Active Measurement - 18th International Conference, {PAM} 2017, Sydney, NSW, Australia, March 30-31, 2017, Proceedings},
+  pages     = {242--254},
+  year      = {2017},
+  crossref  = {DBLP:conf/pam/2017},
+  url       = {https://doi.org/10.1007/978-3-319-54328-4_18},
+  doi       = {10.1007/978-3-319-54328-4_18},
+  timestamp = {Mon, 06 Nov 2017 12:15:00 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/pam/AlmeidaFFGMC17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%--------------------------------
+@article{akamai,
+  author    = {Erik Nygren and
+               Ramesh K. Sitaraman and
+               Jennifer Sun},
+  title     = {The Akamai network: a platform for high-performance internet applications},
+  journal   = {Operating Systems Review},
+  volume    = {44},
+  number    = {3},
+  pages     = {2--19},
+  year      = {2010},
+  url       = {http://doi.acm.org/10.1145/1842733.1842736},
+  doi       = {10.1145/1842733.1842736},
+  timestamp = {Fri, 03 Dec 2010 12:46:55 +0100},
+  biburl    = {https://dblp.org/rec/bib/journals/sigops/NygrenSS10},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%-----------------------------------------
+@inproceedings{cachehasan,
+  author    = {Syed Hasan and
+               Sergey Gorinsky and
+               Constantine Dovrolis and
+               Ramesh K. Sitaraman},
+  title     = {Trade-offs in optimizing the cache deployments of CDNs},
+  booktitle = {2014 {IEEE} Conference on Computer Communications, {INFOCOM} 2014,
+               Toronto, Canada, April 27 - May 2, 2014},
+  pages     = {460--468},
+  year      = {2014},
+  crossref  = {DBLP:conf/infocom/2014},
+  url       = {https://doi.org/10.1109/INFOCOM.2014.6847969},
+  doi       = {10.1109/INFOCOM.2014.6847969},
+  timestamp = {Tue, 16 May 2017 16:26:29 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/infocom/HasanGDS14},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%---------------------------------------
+@article{dualcho,
+  author    = {Kenjiro Cho and Matthew Luckie and Bradley Huffaker},
+  title     = {Identifying IPv6 network problems in the dual-stack world},
+  journal   = {NetT '04 Proceedings of the ACM SIGCOMM workshop on Network troubleshooting: research, theory and operations practice meet malfunctioning reality},
+  year      = {2004},
+}
+%---------------------------
+@inproceedings{dualpujol,
+  author    = {Enric Pujol and
+               Philipp Richter and
+               Anja Feldmann},
+  title     = {Understanding the Share of IPv6 Traffic in a Dual-Stack {ISP}},
+  booktitle = {Passive and Active Measurement - 18th International Conference, {PAM} 2017, Sydney, NSW, Australia, March 30-31, 2017, Proceedings},
+  pages     = {3--16},
+  year      = {2017},
+  crossref  = {DBLP:conf/pam/2017},
+  url       = {https://doi.org/10.1007/978-3-319-54328-4_1},
+  doi       = {10.1007/978-3-319-54328-4_1},
+  timestamp = {Tue, 23 May 2017 01:12:13 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/pam/PujolRF17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%------------------------------
+@inproceedings{bajpaihappy,
+  author    = {Vaibhav Bajpai and
+               J{\"{u}}rgen Sch{\"{o}}nw{\"{a}}lder},
+  title     = {Measuring the Effects of Happy Eyeballs},
+  booktitle = {Proceedings of the 2016 Applied Networking Research Workshop, {ANRW} 2016, Berlin, Germany, July 16, 2016},
+  pages     = {38--44},
+  year      = {2016},
+  crossref  = {DBLP:conf/anrw/2016},
+  url       = {http://dl.acm.org/citation.cfm?id=2959429},
+  timestamp = {Mon, 20 Mar 2017 15:37:35 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/anrw/BajpaiS16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%----------------------------
+@online{ipv6ams,
+author = {AMSIX},
+title  = {IPv6 Traffic},
+date   = {2018-05-30},
+url    = {https://ams-ix.net/technical/statistics/sflow-stats/ipv6-traffic}
+}
+%----------------------------------
+@online{statsams,
+author = {AMSIX},
+title  = {Statistics},
+date   = {2018-05-30},
+url    = {https://ams-ix.net/technical/statistics}
+}
+%----------------------------
+@inproceedings{46zhou,
+  author    = {Xiaoming Zhou and
+               Piet Van Mieghem},
+  title     = {Hopcount and {E2E} Delay: IPv6 Versus IPv4},
+  booktitle = {Passive and Active Network Measurement, 6th International Workshop,
+               {PAM} 2005, Boston, MA, USA, March 31 - April 1, 2005, Proceedings},
+  pages     = {345--348},
+  year      = {2005},
+  crossref  = {DBLP:conf/pam/2005},
+  url       = {https://doi.org/10.1007/978-3-540-31966-5_31},
+  doi       = {10.1007/978-3-540-31966-5_31},
+  timestamp = {Tue, 30 May 2017 16:36:53 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/pam/ZhouM05},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%--------------------------------------
+@online{46caida,
+author = {Arthur Berger},
+title  = {Comparison of Performance over IPv6 versus IPv4},
+date   = {2018-06-04},
+url    = {http://ftp.caida.org/workshops/isma/1202/slides/aims1202_acox_supplement.pdf}
+}
+%------------------------------------
+@article{46wu,
+  author    = {Yingjiao Wu and Xiaoqing Zhou},
+  title     = {Research on the IPv6 performance analysis based on dual-protocol stack and tunnel transition},
+  journal   = {2011 6th International Conference on Computer Science & Education (ICCSE)},
+  year      = {2011},
+}
+%-----------------------------------
+@inproceedings{46li,
+  author    = {Qiang Li and
+               Tao Qin and
+               Xiaohong Guan and
+               Qinghua Zheng},
+  title     = {Empirical analysis and comparison of IPv4-IPv6 traffic: {A} case study
+               on the campus network},
+  booktitle = {Proceedings of the 18th {IEEE} International Conference on Networks,
+               {ICON} 2012, Singapore, December 12-14, 2012},
+  pages     = {395--399},
+  year      = {2012},
+  crossref  = {DBLP:conf/icon/2012},
+  url       = {https://doi.org/10.1109/ICON.2012.6506590},
+  doi       = {10.1109/ICON.2012.6506590},
+  timestamp = {Wed, 24 May 2017 08:27:22 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icon/LiQGZ12},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%------------------------------
+@inproceedings{46giotsas,
+  author    = {Vasileios Giotsas and
+               Matthew J. Luckie and
+               Bradley Huffaker and
+               kc claffy},
+  title     = {IPv6 {AS} Relationships, Cliques, and Congruence},
+  booktitle = {Passive and Active Measurement - 16th International Conference, {PAM} 2015, New York, NY, USA, March 19-20, 2015, Proceedings},
+  pages     = {111--122},
+  year      = {2015},
+  crossref  = {DBLP:conf/pam/2015},
+  url       = {https://doi.org/10.1007/978-3-319-15509-8_9},
+  doi       = {10.1007/978-3-319-15509-8_9},
+  timestamp = {Tue, 23 May 2017 01:12:13 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/pam/GiotsasLHc15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%------------------------------------
+@inproceedings{46bajpai,
+  author    = {Vaibhav Bajpai and
+               J{\"{u}}rgen Sch{\"{o}}nw{\"{a}}lder},
+  title     = {IPv4 versus IPv6 - who connects faster?},
+  booktitle = {Proceedings of the 14th {IFIP} Networking Conference, Networking 2015,
+               Toulouse, France, 20-22 May, 2015},
+  pages     = {1--9},
+  year      = {2015},
+  crossref  = {DBLP:conf/networking/2015},
+  url       = {https://doi.org/10.1109/IFIPNetworking.2015.7145323},
+  doi       = {10.1109/IFIPNetworking.2015.7145323},
+  timestamp = {Mon, 05 Jun 2017 12:41:53 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/networking/BajpaiS15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%-------------------------------------
+@inproceedings{46hyun,
+  author    = {Jonghwan Hyun and
+               Jian Li and
+               Hwankuk Kim and
+               Jae{-}Hyoung Yoo and
+               James Won{-}Ki Hong},
+  title     = {IPv4 and IPv6 performance comparison in IPv6 {LTE} network},
+  booktitle = {17th Asia-Pacific Network Operations and Management Symposium, {APNOMS} 2015, Busan, South Korea, August 19-21, 2015},
+  pages     = {145--150},
+  year      = {2015},
+  crossref  = {DBLP:conf/apnoms/2015},
+  url       = {https://doi.org/10.1109/APNOMS.2015.7275417},
+  doi       = {10.1109/APNOMS.2015.7275417},
+  timestamp = {Tue, 23 May 2017 01:10:45 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/apnoms/HyunLKYH15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%-------------------------------------
+@inproceedings{46liva,
+  author    = {Ioana Livadariu and
+               Ahmed Elmokashfi and
+               Amogh Dhamdhere},
+  title     = {Characterizing IPv6 control and data plane stability},
+  booktitle = {35th Annual {IEEE} International Conference on Computer Communications,
+               {INFOCOM} 2016, San Francisco, CA, USA, April 10-14, 2016},
+  pages     = {1--9},
+  year      = {2016},
+  crossref  = {DBLP:conf/infocom/2016},
+  url       = {https://doi.org/10.1109/INFOCOM.2016.7524465},
+  doi       = {10.1109/INFOCOM.2016.7524465},
+  timestamp = {Tue, 16 May 2017 16:26:36 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/infocom/LivadariuED16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%-------------------------------------
+@inproceedings{addresslutu,
+  author    = {Andra Lutu and
+               Marcelo Bagnulo and
+               Cristel Pelsser and
+               Olaf Maennel},
+  title     = {Understanding the Reachability of IPv6 Limited Visibility Prefixes},
+  booktitle = {Passive and Active Measurement - 15th International Conference, {PAM} 2014, Los Angeles, CA, USA, March 10-11, 2014, Proceedings},
+  pages     = {163--172},
+  year      = {2014},
+  crossref  = {DBLP:conf/pam/2014},
+  url       = {https://doi.org/10.1007/978-3-319-04918-2_16},
+  doi       = {10.1007/978-3-319-04918-2_16},
+  timestamp = {Tue, 23 May 2017 01:12:13 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/pam/LutuBPM14},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%-----------------------------
+@inproceedings{addressbeverly,
+  author    = {Robert Beverly and
+               Matthew J. Luckie and
+               Lorenza Mosley and
+               kc claffy},
+  title     = {Measuring and Characterizing IPv6 Router Availability},
+  booktitle = {Passive and Active Measurement - 16th International Conference, {PAM} 2015, New York, NY, USA, March 19-20, 2015, Proceedings},
+  pages     = {123--135},
+  year      = {2015},
+  crossref  = {DBLP:conf/pam/2015},
+  url       = {https://doi.org/10.1007/978-3-319-15509-8_10},
+  doi       = {10.1007/978-3-319-15509-8_10},
+  timestamp = {Tue, 23 May 2017 01:12:13 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/pam/BeverlyLMc15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%---------------------------------
+@article{addressli,
+  author    = {Fuliang Li and
+               Jiahai Yang and
+               Xingwei Wang and
+               Tian Pan and
+               Changqing An and
+               Jianping Wu},
+  title     = {Characteristics analysis at prefix granularity: {A} case study in
+               an IPv6 network},
+  journal   = {J. Network and Computer Applications},
+  volume    = {70},
+  pages     = {156--170},
+  year      = {2016},
+  url       = {https://doi.org/10.1016/j.jnca.2016.02.022},
+  doi       = {10.1016/j.jnca.2016.02.022},
+  timestamp = {Sat, 20 May 2017 00:25:27 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/jnca/LiYWPAW16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%--------------------------------
+@inproceedings{beverly2,
+  author    = {Robert Beverly and
+               Arthur W. Berger},
+  title     = {Server Siblings: Identifying Shared IPv4/IPv6 Infrastructure Via Active
+               Fingerprinting},
+  booktitle = {Passive and Active Measurement - 16th International Conference, {PAM}2015, New York, NY, USA, March 19-20, 2015, Proceedings},
+  pages     = {149--161},
+  year      = {2015},
+  crossref  = {DBLP:conf/pam/2015},
+  url       = {https://doi.org/10.1007/978-3-319-15509-8_12},
+  doi       = {10.1007/978-3-319-15509-8_12},
+  timestamp = {Tue, 23 May 2017 01:12:13 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/pam/BeverlyB15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+%-------------------------------

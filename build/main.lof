@@ -1,0 +1,281 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {american}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 2.1}{\ignorespaces Google IPv6 Adoption Statistics}}{8}{figure.caption.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 2.2}{\ignorespaces AMSIX Statistics}}{11}{figure.caption.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 2.3}{\ignorespaces Netflix OCA Architecture}}{14}{figure.caption.13}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 3.1}{\ignorespaces Probes Geographical Distribution}}{16}{figure.caption.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 3.2}{\ignorespaces Netflix Test Sequence Diagram}}{17}{figure.caption.17}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.1}{\ignorespaces Error Occurrence Rate for All Errors}}{39}{figure.caption.52}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.2}{\ignorespaces Error Occurrence Rate by Each Probe}}{40}{figure.caption.53}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.3}{\ignorespaces Success Rate by Each Probe}}{40}{figure.caption.53}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.4}{\ignorespaces Error Occurrence and Success Rate by Each Probe}}{40}{figure.caption.53}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.5}{\ignorespaces Success Rate Timeseries}}{41}{figure.caption.54}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.6}{\ignorespaces Success Rate Boxplot per Month}}{41}{figure.caption.55}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.7}{\ignorespaces Success Rate CCDF}}{42}{figure.caption.56}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.8}{\ignorespaces Time series of success rate over IPv4 and IPv6 for European Region}}{43}{figure.caption.58}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.9}{\ignorespaces Time series of success rate over IPv4 and IPv6 for Region of Americas}}{43}{figure.caption.58}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.10}{\ignorespaces Time series of success rate over IPv4 and IPv6 for Western Pacific Region}}{43}{figure.caption.58}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.11}{\ignorespaces Time series of success rate over IPv4 and IPv6 for African Region}}{43}{figure.caption.58}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.12}{\ignorespaces Timeseries of Success rate over IPv4 and IPv6 for different regions}}{43}{figure.caption.58}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.13}{\ignorespaces Success Rate Boxplot for different Regions}}{44}{figure.caption.59}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.14}{\ignorespaces Success Rate CCDF for Different Regions}}{44}{figure.caption.60}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.15}{\ignorespaces Timeseries of Success rate over IPv4 and IPv6 as per Residential Probes}}{46}{figure.caption.62}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.16}{\ignorespaces Timeseries of Success rate over IPv4 and IPv6 as per Research Probes}}{46}{figure.caption.62}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.17}{\ignorespaces Timeseries of Success rate over IPv4 and IPv6 as per Lab Probes}}{46}{figure.caption.62}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.18}{\ignorespaces Timeseries of Success rate over IPv4 and IPv6 as per Business Probes}}{46}{figure.caption.62}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.19}{\ignorespaces Timeseries of Success rate over IPv4 and IPv6 as per IXP Probe}}{46}{figure.caption.62}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.20}{\ignorespaces Timeseries of Success rate over IPv4 and IPv6 as per different network types}}{46}{figure.caption.62}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.21}{\ignorespaces Success Rate Boxplot per each Network Types of Probes\relax }}{47}{figure.caption.63}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.22}{\ignorespaces Success Rate CCDF for probes over different Network Types\relax }}{47}{figure.caption.64}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.23}{\ignorespaces IPv6 Preference Timeseries}}{48}{figure.caption.65}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.24}{\ignorespaces IPv6 Perference CCDF}}{48}{figure.caption.66}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.25}{\ignorespaces IPv6 Preference Boxplot per Day of the Week}}{49}{figure.caption.67}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.26}{\ignorespaces IPv6 Preference Boxplot per Hours of the Day}}{49}{figure.caption.68}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.27}{\ignorespaces Connect Time and Prebuffering Duration for IPv4 and IPv6 Timeseries}}{50}{figure.caption.69}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.28}{\ignorespaces TCP Connect Times and Prebuffering Duration Boxplot Separate}}{50}{figure.caption.70}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.29}{\ignorespaces Connect Time and Prebuffering Duration CDF for IPv4 and IPv6}}{52}{figure.caption.71}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.30}{\ignorespaces TCP Connect Times and Prebuffering Duration Timeseries}}{53}{figure.caption.72}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.31}{\ignorespaces TCP Connect Times and Prebuffering Duration Boxplot}}{54}{figure.caption.73}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.32}{\ignorespaces TCP connect times and Prebuffering Duration CDF}}{54}{figure.caption.74}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.33}{\ignorespaces TCP Connect Times and Prebuffering Duration Boxplot for BSKYB}}{55}{figure.caption.75}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.34}{\ignorespaces Throughput Timeseries for IPv4 and Ipv6}}{55}{figure.caption.76}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.35}{\ignorespaces Throughput Boxplot for IPv4 and IPv6}}{56}{figure.caption.77}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.36}{\ignorespaces Throughput CDF over IPv4 and IPv6}}{56}{figure.caption.78}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.37}{\ignorespaces Throughput Timeseries}}{57}{figure.caption.79}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.38}{\ignorespaces Throughput Boxplot}}{57}{figure.caption.80}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.39}{\ignorespaces Throughput CDF}}{58}{figure.caption.81}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.40}{\ignorespaces Throughput Boxplot by Days}}{58}{figure.caption.82}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.41}{\ignorespaces Stall Rate CDF}}{59}{figure.caption.83}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.42}{\ignorespaces Stall Duration Timeseries for IPv4 and IPv6}}{60}{figure.caption.84}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.43}{\ignorespaces Stall Duration Boxplot for IPv4 and IPv6}}{60}{figure.caption.85}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.44}{\ignorespaces Stall Duration CDF for IPv4 and IPv6}}{61}{figure.caption.86}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.45}{\ignorespaces Boxplot of difference of stall durations over IPv4 and IPv6}}{61}{figure.caption.87}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 4.46}{\ignorespaces CDF of difference of stall durations over IPv4 and IPv6}}{62}{figure.caption.88}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.1}{\ignorespaces SKY UK TCP Connect Times and Pre-Buffering Duration Timeseries Absolute}}{63}{figure.caption.89}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.2}{\ignorespaces SKY UK TCP Connect Times and Pre-Buffering Duration Boxplot Absolute}}{64}{figure.caption.90}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.3}{\ignorespaces SKY UK Connect Time and Prebuffering Duration CDF Absolute}}{66}{figure.caption.91}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.4}{\ignorespaces SKY UK TCP Connect Times and Pre-Buffering Duration Timeseries Deltas}}{67}{figure.caption.92}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.5}{\ignorespaces SKY UK TCP Connect Times and Pre-Buffering Duration Boxplot Deltas}}{68}{figure.caption.93}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.6}{\ignorespaces SKY UK Connect Time and Prebuffering Duration CDF Deltas}}{69}{figure.caption.94}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.7}{\ignorespaces SKY UK Throughput Timeseries Absolute}}{70}{figure.caption.95}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.8}{\ignorespaces SKY UK Throughput Boxplot Absolute}}{70}{figure.caption.96}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.9}{\ignorespaces SKY UK Throughput CDF Absolute}}{71}{figure.caption.97}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.10}{\ignorespaces SKY UK Throughput Timeseries Deltas}}{72}{figure.caption.98}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.11}{\ignorespaces SKY UK Throughput Boxplot Deltas}}{72}{figure.caption.99}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.12}{\ignorespaces SKY UK Throughput CDF Deltas}}{73}{figure.caption.100}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.13}{\ignorespaces All ISPs TCP Connect Times and Pre-Buffering Duration Timeseries Absolute}}{73}{figure.caption.101}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.14}{\ignorespaces All ISPs TCP Connect Times and Pre-Buffering Duration Timeseries Absolute}}{74}{figure.caption.102}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.15}{\ignorespaces ALL ISPs TCP Connect Times and Pre-Buffering Duration Boxplot Absolute}}{75}{figure.caption.103}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.16}{\ignorespaces All ISPs Connect Time and Prebuffering Duration CDF Absolute}}{76}{figure.caption.104}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.17}{\ignorespaces All ISPs TCP Connect Times and Pre-Buffering Duration Timeseries Deltas}}{77}{figure.caption.105}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.18}{\ignorespaces All ISPs TCP Connect Times and Pre-Buffering Duration Boxplot Deltas}}{78}{figure.caption.106}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.19}{\ignorespaces All ISPs Connect Time and Prebuffering Duration CDF Deltas}}{79}{figure.caption.107}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.20}{\ignorespaces All ISPs Throughput Timeseries Absolute}}{80}{figure.caption.108}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.21}{\ignorespaces All ISPs Throughput Boxplot Absolute}}{80}{figure.caption.109}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.22}{\ignorespaces All ISPs Throughput CDF Absolute}}{81}{figure.caption.110}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.23}{\ignorespaces All ISPs Throughput Timeseries Deltas}}{82}{figure.caption.111}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.24}{\ignorespaces All ISPs Throughput Boxplot Deltas}}{82}{figure.caption.112}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 5.25}{\ignorespaces All ISPs Throughput CDF Deltas}}{83}{figure.caption.113}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 6.1}{\ignorespaces Speedtest Timeseries for M-Lab and Netflix Absolute}}{84}{figure.caption.114}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 6.2}{\ignorespaces Speedtest Boxplot Absolute IPv4}}{85}{figure.caption.115}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 6.3}{\ignorespaces Speedtest Boxplot Absolute IPv6}}{85}{figure.caption.116}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 6.4}{\ignorespaces Speedtest CDF Absolute}}{86}{figure.caption.117}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 6.5}{\ignorespaces Speedtest Timeseries Delta}}{86}{figure.caption.118}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 6.6}{\ignorespaces Speedtest Boxplot Delta}}{87}{figure.caption.119}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 6.7}{\ignorespaces Speedtest CDF delta}}{88}{figure.caption.120}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 6.8}{\ignorespaces Speedtest CDF Absolute for Probe 33}}{88}{figure.caption.121}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 6.9}{\ignorespaces Speedtest CDF delta for Probe 33}}{89}{figure.caption.122}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 7.1}{\ignorespaces TTL Boxplot Absolute}}{90}{figure.caption.123}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 7.2}{\ignorespaces TCP Connect Times and PreBuffering Duration Boxplot Absolute}}{91}{figure.caption.124}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 7.3}{\ignorespaces TTL Boxplot Delta}}{92}{figure.caption.125}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 7.4}{\ignorespaces TCP and Prebuffering Duration Boxplot Delta}}{92}{figure.caption.126}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 7.5}{\ignorespaces TTL CDF Absolute}}{93}{figure.caption.127}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 7.6}{\ignorespaces Connect Time and Prebuffering Duration CDF Absolute}}{94}{figure.caption.128}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 7.7}{\ignorespaces TTL and TCP CDF Delta}}{95}{figure.caption.129}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 7.8}{\ignorespaces TTL and PreBuffering Duration CDF Delta}}{96}{figure.caption.130}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 7.9}{\ignorespaces TTL, TCP and Pre-buffering Duration Cache Pair CDF}}{97}{figure.caption.131}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 7.10}{\ignorespaces TTL, TCP and Pre-buffering Duration Cache Vs Origin CDF Absolute}}{99}{figure.caption.132}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax 7.11}{\ignorespaces TTL by AS Types}}{100}{figure.caption.133}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.1}{\ignorespaces Occurrence Rate DNS Resolution Content Error}}{117}{figure.caption.144}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.2}{\ignorespaces Occurrence Rate DNS Resolution API Error}}{117}{figure.caption.144}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.3}{\ignorespaces Occurrence Rate Stalled Will Step Down Error}}{117}{figure.caption.144}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.4}{\ignorespaces Occurrence Rate Network Content Error}}{117}{figure.caption.144}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.5}{\ignorespaces Occurrence Rate Connection Content Error}}{117}{figure.caption.144}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.6}{\ignorespaces Occurrence Rate Network API Error}}{117}{figure.caption.144}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.7}{\ignorespaces Occurrence Rate Connection API Error}}{117}{figure.caption.144}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.8}{\ignorespaces Occurrence Rate Stalled On Final Error}}{117}{figure.caption.144}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.9}{\ignorespaces Error Occurrence Rate Time series for Each Error}}{117}{figure.caption.144}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.10}{\ignorespaces Success Rate Timeseries all datapoints}}{118}{figure.caption.145}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.11}{\ignorespaces Success Rate Timeseries all data points without Outliers}}{118}{figure.caption.146}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.12}{\ignorespaces Success Rate CCDF for August 2016}}{119}{figure.caption.147}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.13}{\ignorespaces Success Rate CCDF for Ocotber 2017}}{119}{figure.caption.148}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.14}{\ignorespaces Success Rate Boxplot for each day of the week}}{119}{figure.caption.149}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.15}{\ignorespaces IPv6 Preference CCDF by Probes}}{120}{figure.caption.150}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.16}{\ignorespaces TCP Connect Times and Prebuffering Duration Boxplot for each Day of the Week}}{120}{figure.caption.151}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.17}{\ignorespaces BT-UK TCP Connect Times and Pre-Buffering Duration Timeseries Absolute}}{121}{figure.caption.152}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.18}{\ignorespaces BT-UK TCP Connect Times and Pre-Buffering Duration Boxplot Absolute}}{122}{figure.caption.153}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.19}{\ignorespaces BT-UK Connect Time and Prebuffering Duration CDF Absolute}}{123}{figure.caption.154}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.20}{\ignorespaces BT-UK TCP Connect Times and Pre-Buffering Duration Timeseries Deltas}}{124}{figure.caption.155}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.21}{\ignorespaces BT-UK TCP Connect Times and Pre-Buffering Duration Boxplot Deltas}}{125}{figure.caption.156}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.22}{\ignorespaces BT-UK Connect Time and Prebuffering Duration CDF Deltas}}{126}{figure.caption.157}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.23}{\ignorespaces BT-UK Throughput Timeseries Absolute}}{127}{figure.caption.158}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.24}{\ignorespaces BT-UK Throughput Boxplot Absolute}}{127}{figure.caption.159}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.25}{\ignorespaces BT-UK Throughput CDF Absolute}}{128}{figure.caption.160}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.26}{\ignorespaces BT-UK Throughput Timeseries Deltas}}{129}{figure.caption.161}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.27}{\ignorespaces BT-UK Throughput Boxplot Deltas}}{129}{figure.caption.162}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {\relax B.28}{\ignorespaces BT-UK Throughput CDF Deltas}}{130}{figure.caption.163}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }

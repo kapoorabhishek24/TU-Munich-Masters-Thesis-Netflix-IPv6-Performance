@@ -1,0 +1,123 @@
+\chapter{Reproducibility Considerations}\label{chapter:9}
+
+The SQLite databases that we used for analysis are hosted at the Leibniz-Rechenzentrum (LRZ) virtual machine. The virtual machine is under the provision of Chair of Connected Mobility, 
+Technische Universität München \cite{tum}. The hostname of the VM is cherry and is running \textit{ubuntu 16.04} and has a RAM of 300G, plus we used SQLite3 (version 3.11.0) and python3
+(version 3.5.2). The list of python packages used is listed in \cref{table:packages}.
+
+To allow reproduction of the results, all the jupyter notebooks that we used for this study are committed to LRZ gitlab \cite{gitlab}. The database paths are hardcoded, please adjust them as per your dataset path.
+
+\subsection*{Dataset and Analysis Directories}
+
+The following diagram gives the overview of the dataset directory hosted on \textit{cherry}. Here, \textit{netflix.db} and \textit{speedtest.db} are the two main datasets that we used for this research.
+
+\dirtree{%
+.1 Cherry.
+.2 data.
+.3 akapoor.
+.4 databases.
+.5 netflix.db. 
+.5 speedtest.db.
+.4 2018-akapoor-masters-analysis. 
+}
+
+
+\begin{table}[!h]
+	\centering
+	\caption{Python Packages used for this Study}
+	\label{table:packages}
+	\begin{tabular}{||l|l|l|l||}
+  		\toprule
+  		\textbf{Package Name} & \textbf{Version} & \textbf{Package Name} & \textbf{Version}\\ 
+  		\midrule
+  		beautifulsoup4 & 4.4.1 & bleach & 2.1.1 \\
+		certifi & 14.5.14 & chardet & 2.3.0 \\
+		command-not-found & 0.3 & csvkit & 0.9.1 \\
+		cycler & 0.10.0 & decorator & 4.1.2 \\
+		entrypoints & 0.2.3 & gnureadline & 6.3.3 \\
+		html5lib & 1.0b10 & ipykernel & 4.6.1 \\
+		ipython & 5.4.1 & ipython-genutils & 0.2.0 \\
+		ipywidgets & 7.0.3 & jdcal & 1.0 \\
+		jedi & 0.11.0 & Jinja2 & 2.9.6 \\
+		jsonschema & 2.6.0 & jupyter & 1.0.0 \\
+		jupyter-client & 5.1.0 & jupyter-console & 5.2.0 \\
+		jupyter-core & 4.3.0 & language-selector & 0.1 \\
+		lxml & 3.5.0 & MarkupSafe & 0.23 \\
+		matplotlib & 2.1.0 & mistune & 0.8 \\
+		nbconvert & 5.3.1 & nbformat & 4.4.0 \\
+		netaddr & 0.7.19 & nose & 1.3.6 \\
+		notebook & 5.2.0 & numpy & 1.14.0 \\
+		openpyxl & 2.3.0 & pandas & 0.22.0 \\
+		pandocfilters & 1.4.2 & parso & 0.1.0 \\
+		pbr & 3.1.1 & pexpect & 4.2.1 \\
+		pickleshare & 0.7.4 & Pillow & 3.1.2 \\
+		prompt-toolkit & 1.0.15 & ptyprocess & 0.5.2 \\
+		Pygments & 2.2.0 & pygobject & 3.20.0 \\
+		pyparsing & 2.0.3 & pytest & 2.8.7 \\
+		python-apt & 1.1.0 & python-dateutil & 2.4.2 \\
+		python-debian & 0.1.27 & python-systemd & 231 \\
+		pytz & 2015.2 & pyzmq & 16.0.2 \\
+		qtconsole & 4.3.1 & requests & 2.9.1 \\
+		scipy & 1.0.1 & seaborn & 0.8.1 \\
+		simplegeneric & 0.8.1 & six & 1.11.0 \\
+		SQLAlchemy & 1.0.11 & ssh-import-id & 5.5 \\
+		testpath & 0.3.1 & tornado & 4.5.2 \\
+		traitlets & 4.3.2 & ufw & 0.35 \\
+		unattended-upgrades & 0.1 & urllib3 & 1.13.1 \\
+		virtualenv & 15.1.0 & virtualenv-clone & 0.2.6 \\
+		virtualenvwrapper & 4.8.2 & wcwidth & 0.1.7 \\
+		webencodings & 0.5.1 & widgetsnbextension & 3.0.6 \\
+  		\bottomrule
+\end{tabular}
+\end{table}
+
+\FloatBarrier
+
+\subsection*{Analysis Mappings}
+
+We looked up the ASN and Holder names using RIPEstat \cite{ripestat}, and used the scripts that were generated during the Python3 toolset for measurement study by Bajpai and et al. \cite{bajpairipe}.
+The Google IPv6 adoption plot was generated using the scripts written by Bajpai in \cite{bajpaiyoutube}. Also, the \textit{Pmf.py and Cdf.py} modules that we used are published by Downey \cite{downey}.
+The jupyter notebooks used for generating the plots are mapped to the specific section in \cref{table:notebooks}. We have structured the notebook directories based on the chapters of this study.
+So, for reproducing the specific section, just refer to the directory for that section and all the jupyter notebooks for that section are in that directory. The name of the notebooks is self-explanatory to the specific figure that you may want to reproduce.
+
+\begin{table}[!h]
+	\centering
+	\caption{Python Packages used for this Study}
+	\label{table:notebooks}
+	\begin{tabular}{||l|l||}
+  		\toprule
+  		\textbf{Notebook Directory} & \textbf{Figures} \\ 
+  		\midrule
+  		/data/akapoor/2018-akapoor-masters-analysis/success/ & 4.1 - 4.22, B.1 - B.14 \\
+		/data/akapoor/2018-akapoor-masters-analysis/preference/ & 4.23 - 4.26, B.15 \\
+		/data/akapoor/2018-akapoor-masters-analysis/connect/ & 4.27 - 4.33, B.16 \\
+		/data/akapoor/2018-akapoor-masters-analysis/throughut/ & 4.33 - 4.40 \\
+		/data/akapoor/2018-akapoor-masters-analysis/stall/ & 4.41 - 4.46 \\
+		/data/akapoor/2018-akapoor-masters-analysis/cache-analysis/ & 5.1 - .5.25, B.17 - B.28 \\
+		/data/akapoor/2018-akapoor-masters-analysis/speedtest/ & 6.1 - 6.9 \\
+		/data/akapoor/2018-akapoor-masters-analysis/traceroute/ & 7.1 - 7.11 \\
+		\bottomrule
+\end{tabular}
+\end{table}
+
+\FloatBarrier
+
+\subsection*{Reproduction Steps}
+
+For the reproduction of the results, most of the notebooks are self-explanatory except for the last chapter that is the traceroute analysis. For traceroute analysis, we followed the same steps as Viet \cite{viet} did in his study.
+Chapter wise steps that need to be done are described in the following sub-sections. If the already aggregated datasets are being used then the following section can be skipped.
+
+\subsubsection*{Chapter 4: IPv4 versus IPv6}
+There not specific steps that you need to perform before proceeding for the analysis. Just run the desired notebooks to get the results.
+
+\subsubsection*{Chapter 5: Benefits of Caches}
+Here, before proceeding with the analysis, we need some metadata information to get the ASNs for each probe. For this, we used the \cite{bajpairipe} scripts to get the \textit{asn\_from\_probe\_name}.
+Next, we need the \textit{target ASN} i.e. the ASN of the \textit{targets} present in the dataset. We need this information as for identifying the caches we are using the criteria of matching source ASN and destination ASN.
+After this, just follow the notebooks.
+
+\subsubsection*{Chapter 6: M-Lab versus Netflix}
+For this, we don't need to do any aggregation for reproducing the results. The notebooks are self-explanatory, and the results can be achieved by just running them.
+
+\subsubsection*{Chapter 7: Traceroute Analysis}
+Here, as we followed the same strategy Viet \cite{viet} followed, the aggregation steps are based on his work. First, we will need to get all the ASN for the \textit{source, destination and endpoint}, for this we will need to run the
+(src\_ip\_to\_asn.py, dst\_ip\_to\_asn.py, dst\_ip\_to\_hostname.py, endpoint\_asn\_lookup.py) scripts. After this, filter\_data.py, is used to filter Hurricane electric measurements and to remove duplicate rows.
+With the newly filtered table (\textit{traceroute-filtered}), we can run the \textit{create\_tables.ipynb} notebook, which will create the remaining tables that we are using in the analysis. 

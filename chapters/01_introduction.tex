@@ -1,0 +1,88 @@
+\chapter{Introduction}\label{chapter:introduction}
+
+\section{Motivation}
+
+Internet Protocol (IPv4) is the main network protocol of the present Internet for a very long time as specified in RFC 791 \cite{rfc791}. As the number of connected devices is increasing day by day, there is a shortage the address space for every device.
+With the advent of Internet-of-things devices, network engineers are using Network Address Translation (NAT) and other means to divert the address space exhaustion issue.
+As every device had to have an end-to-end address, the NAT resolution is breaking the initial concept regarding the Internet and acting as a workaround to a real problem.
+
+In 1998, IPv6 was proposed as a solution to the address space issue \cite{rfc2460}. In addition to the address space, IPv6 also improves header simplifications and extensions \cite{viet}.
+In comparison to IPv4, IPv6 uses 128-bit addresses, whereas IPv4 only uses 32-bit addresses, therefore, an increase from 4.3 Billion addresses to 340 undecillion addresses. After two decades of proposing IPv6,
+it is yet not fully adopted and supported by network content providers. Google statistics \cite{gv6}, reveals that IPv6 is only available to around 20\% of the users, but the recent growth is exponential as many organizations and Internet
+Service Providers are promoting IPv6 after the launch of \textit{World IPv6 Launch Day} in June 2012 \cite{ipv6day}.
+
+Due to a strong dependency of other protocols on IPv4, its very difficult to modify the present network protocol stack, which is in an hourglass shape \cite{hourglass}, this is one of the reasons of slow adoption of IPv6. 
+Chapter \ref{chapter:Related Work} describes the studies which inform us about the transition of IPv4 to IPv6 and discusses the ongoing deployment and configuration of IPv6. Now, with IoT devices on the rise, increasing distributed computing and mobile networking \cite{iot},
+ISPs are also supporting IPv6 adoption to counter this problem, as IPv6 has a key role in the IoT network stack \cite{iotipv6}.
+
+Rise in Netflix users membership (around 109 million \cite{ninanetflix}) in recent years and the Internet traffic that Netflix is generating (around 35\% in North America \cite{sandvine}) made us look into Netflix dataset. 
+The aim of this study is to better understand the present state of IPv6 for Netflix, and its role in content delivery. We will also be comparing the performance of IPv6 with IPv4. The analyses are performed on a Netflix dataset collected by SamKnows probes \cite{samknows} since July 2016. 
+
+\FloatBarrier
+
+\section{Research Questions}
+The thesis revolves around Netflix Content Delivery Network (Open Connect Appliances), as content delivery forms a major part of present Internet traffic. 
+We have looked into various research questions involving IPv6 current topology, its network stack and measuring its performance for Netflix. 
+The thesis tries to answer the following research questions.
+
+\subparagraph{RQ 1. How does IPv6 performance compare with IPv4 for Netflix?}
+
+
+Google statistics \cite{gv6} reveals the exponential growth of IPv6 connectivity among internet users. Internet Service Provides, and Netflix is deploying advanced infrastructure over the different part of the world to support the growth and adoption of IPv6 \cite{netflixipv6}. 
+Analyzing different performance indicators and metrics such as Success Rate, Stall Rate, Throughput, Connect Times, etc. over both the address family's will help us compare the performance difference. 
+
+\subparagraph{RQ 2. How beneficial are the ISP content caches? How do the performance over IPv4 and IPv6 compare in accessing these caches?}
+
+
+In order to improve the user experience, content providers bring the media content closer to the user by utilizing ISPs content caches [\cite{cc1}, \cite{cc2}]. Thus, the content caches have become
+very important in the last decade with respect to serving digital content [\cite{cc3}, \cite{cc4}, \cite{cc5}]. Thus, we wanted to identify such content caches and see their effect on latency, delay, and throughput over IPv4 and IPv6.
+
+\subparagraph{RQ 3. How do IPv4 and IPv6 Speedtest results compare for Netflix and Measurement Lab?}
+
+
+Speedtest has now commercially become a very important metric for characterizing QoS for broadband \cite{speedtest}. Do users experience similar speedtest results when they try the 
+Measurement Lab Network Diagnostic Tool \cite{mlabtool} and the Netflix \textit{Fast.com}. We would like to compare the throughput achieved when accessing an M-Lab server and when accessing a Netflix server.
+
+\subparagraph{RQ 4. How do path length, latency, and delay compare over IPv4 and IPv6 for Netflix?}
+
+
+Studies [\cite{ipv6mehdi}, \cite{ipv6ahmed}] reports that IPv6 performance is comparable to IPv4, and the largest difference arises because of the IPv6 control plane. The IPv6 control plane is responsible for handling the routing, and as the internet is becoming more \textit{flat} \cite{internetflat}, it would be good to compare
+Time-To-Live (TTL), latency and delay over IPv4 and IPv6, to check if the network topology is similar as stated in \cite{ipv6matthew}.   
+
+\FloatBarrier
+
+\section{Research Contribution} 
+
+The main findings and the analysis that we did in chapter \ref{chapter:4}, \ref{chapter:5}, \ref{chapter:6}, and  \ref{chapter:7}, contributes to the research about IPv6 performance
+and network stack. The study discusses different aspects such as IPv6 routing, IPv6 adoption, content cache performances, speedtest results towards M-Lab and Netflix, and the traceroute measurements towards Netflix.
+We have defined the limitations of this study in chapter \ref{chapter:8}, together with the conclusion, which also point out the potential future work for this research. Chapter \ref{chapter:9} discusses the reproducibility considerations to produce the results that we presented here.
+The \hyperref[chapter:appendix]{Appendices} discuss further analysis and additional information about the study.
+
+\subsection*{IPv4 versus IPv6 for Netflix}
+\begin{enumerate}
+  \item The median error occurrence rate for a single day lies mostly between 15-45\% for the whole timeline, whereas the median success rate over IPv4 and IPv6 is comparable for the whole duration and is around 100\%.
+  \item Residential probes are influencing most the analysis as out of 100 probes, 79 of them are Residential probes.
+  \item Happy Eyeballs (HE) race during initial TCP connection establishment leads to a strong (around 93\%) preference over IPv6.
+  \item Worse performance over IPv6 than over IPv4 was observed, whereby consistent higher TCP connection establishment times and pre-buffering duration (around 40ms or more) were witnessed over IPv6. Similarly, consistent lower achieved throughput over IPv6 was also observed.
+  \item Less than 10\% stall rates over both address families were observed. 
+\end{enumerate}
+ 
+\subsection*{Content Caches}
+ \begin{enumerate}
+  \item ISP content caches do have an impact on the latency and throughput, and as per the results, it was observed that content caches lead to reduced TCP connect times and Pre-buffering duration.
+  \item Content caches achieved higher throughput (around 66\% of the times) over both IPv4 and IPv6.
+\end{enumerate}
+ 
+\subsection*{Speedtests over M-Lab and Netflix}
+\begin{enumerate}
+  \item The comparison between M-Lab and Netflix speedtest reveals that the speedtest is better towards M-Lab servers than towards Netflix OCA servers. Around 59\% of the times, M-Lab achieved higher speedtest over Netflix
+for both the address families i.e. IPv4 and IPv6.
+  \item We did find out that the path length (TTL) to M-Lab servers is comparatively less than the TTL to Netflix OCA servers, indicating that shorter path lengths correlate with a higher speed for M-Lab.
+\end{enumerate}
+
+\subsection*{Traceroute Analysis for Netflix}
+\begin{enumerate}
+  \item From the traceroute data for Netflix, it was observed that content caches have reduced path lengths, TCP connect times and Pre-buffering durations, and can be reached within 5 hops and 21ms.
+  \item The fraction of median TTL over IPv6 being shorter, equal or faster to IPv4 are somewhat same.
+  \item The prebuffering duration was around 1801 ms over IPv4 for a cache hit, and 2428 ms when there was a cache miss for 90\% of the measurements. For IPv6, the pre-buffering duration was 1992 ms for a cache hit, and 2752 ms when there was a cache miss for 90\% of the measurements. 
+\end{enumerate}

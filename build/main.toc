@@ -1,0 +1,99 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {american}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Declaration}{iv}{chapter*.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Acknowledgments}{vi}{chapter*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Abstract}{viii}{chapter*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline List of Figures}{xi}{chapter*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline List of Tables}{xv}{chapter*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Motivation}{2}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Research Questions}{3}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{RQ 1. How does IPv6 performance compare with IPv4 for Netflix?}{3}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{RQ 2. How beneficial are the ISP content caches? How do the performance over IPv4 and IPv6 compare in accessing these caches?}{3}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{RQ 3. How do IPv4 and IPv6 Speedtest results compare for Netflix and Measurement Lab?}{3}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{RQ 4. How do path length, latency, and delay compare over IPv4 and IPv6 for Netflix?}{3}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Research Contribution}{4}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Related Work}{7}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Datasets}{16}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Methodology}{16}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Netflix Dataset Overview}{18}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}SpeedTest Dataset Overview}{29}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}IPv4 vs IPv6 - Which Performs Better?}{38}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Error and Success Rate}{38}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}IPv6 Preference}{48}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Latency and Delay}{50}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Throughput}{55}{section.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Stall Events}{59}{section.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Benefits of ISP Content Caches}{63}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}SKY UK Limted}{64}{section.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}All ISPs Together}{73}{section.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Who Connects Better - M-Lab or Netflix?}{84}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Does Path length impact Latency for Netflix?}{90}{chapter.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.1}Temporal Analysis}{90}{section.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.2}Path Length and Latency Comparison}{93}{section.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.3}Path Latency and Latency Deltas}{95}{section.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.4}Content Caches}{96}{section.7.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.5}Path Analysis}{99}{section.7.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Conclusion and Discussion}{103}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{RQ 1. How does IPv6 performance compare with IPv4 for Netflix?}{103}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{RQ 2. How beneficial are the ISP content caches? How do the performance over IPv4 and IPv6 compare in accessing these caches?}{103}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{RQ 3. How do IPv4 and IPv6 Speedtest results compare for Netflix and Measurement Lab?}{104}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{RQ 4. How do path length, latency, and delay compare over IPv4 and IPv6 for Netflix?}{104}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}Reproducibility Considerations}{108}{chapter.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Appendices}{113}{section*.140}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Dataset}{113}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {B}Data Analysis}{116}{appendix.B}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.0.1}Error and Success Rate}{116}{subsection.B.0.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.0.2}IPv6 Preference}{120}{subsection.B.0.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.0.3}Latency and Delays}{120}{subsection.B.0.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.0.4}Benifits of ISP Content Caches}{121}{subsection.B.0.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Bibliography}{132}{chapter*.166}

@@ -1,0 +1,4522 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{adhikarihulu}{article}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,uniquepart=base,hash=8e3802f60ab431e346e3c94c9d227d12}{%
+           family={Adhikari},
+           familyi={A\bibinitperiod},
+           given={Vijay\bibnamedelima Kumar},
+           giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8a56024849f7ac11be339af929f7135c}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c2b3076e59d0ae1cde9fe67887f9f490}{%
+           family={Hao},
+           familyi={H\bibinitperiod},
+           given={Fang},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3d4df1603e4ff31f8fd3b38c5828d446}{%
+           family={Hilt},
+           familyi={H\bibinitperiod},
+           given={Volker},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c401b2ac562a2dbbd02d0cba0be3bba3}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhi{-}Li},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2c0ad20ee5e29d0350ea0612fe05485d}{%
+           family={Varvello},
+           familyi={V\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7ca22919fd2827aa0c61fffadf6884de}{%
+           family={Steiner},
+           familyi={S\bibinitperiod},
+           given={Moritz},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{275e6efbd33fcf57300da11491807abb}
+      \strng{fullhash}{bba74624080d7f6f25d90ebf7c2072e5}
+      \strng{bibnamehash}{bba74624080d7f6f25d90ebf7c2072e5}
+      \strng{authorbibnamehash}{bba74624080d7f6f25d90ebf7c2072e5}
+      \strng{authornamehash}{275e6efbd33fcf57300da11491807abb}
+      \strng{authorfullhash}{bba74624080d7f6f25d90ebf7c2072e5}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE/ACM} Trans. Netw.}
+      \field{number}{6}
+      \field{title}{Measurement Study of Netflix, Hulu, and a Tale of Three CDNs}
+      \field{volume}{23}
+      \field{year}{2015}
+      \field{pages}{1984\bibrangedash 1997}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1109/TNET.2014.2354262
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/TNET.2014.2354262
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/TNET.2014.2354262
+      \endverb
+    \endentry
+    \entry{adhikarinetflix}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,uniquepart=base,hash=8e3802f60ab431e346e3c94c9d227d12}{%
+           family={Adhikari},
+           familyi={A\bibinitperiod},
+           given={Vijay\bibnamedelima Kumar},
+           giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8a56024849f7ac11be339af929f7135c}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c2b3076e59d0ae1cde9fe67887f9f490}{%
+           family={Hao},
+           familyi={H\bibinitperiod},
+           given={Fang},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2c0ad20ee5e29d0350ea0612fe05485d}{%
+           family={Varvello},
+           familyi={V\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3d4df1603e4ff31f8fd3b38c5828d446}{%
+           family={Hilt},
+           familyi={H\bibinitperiod},
+           given={Volker},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7ca22919fd2827aa0c61fffadf6884de}{%
+           family={Steiner},
+           familyi={S\bibinitperiod},
+           given={Moritz},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c401b2ac562a2dbbd02d0cba0be3bba3}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhi{-}Li},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{275e6efbd33fcf57300da11491807abb}
+      \strng{fullhash}{1680bfa2af3786d03aec3392cbd9432f}
+      \strng{bibnamehash}{1680bfa2af3786d03aec3392cbd9432f}
+      \strng{authorbibnamehash}{1680bfa2af3786d03aec3392cbd9432f}
+      \strng{authornamehash}{275e6efbd33fcf57300da11491807abb}
+      \strng{authorfullhash}{1680bfa2af3786d03aec3392cbd9432f}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the {IEEE} {INFOCOM} 2012, Orlando, FL, USA, March 25-30, 2012}
+      \field{title}{Unreeling netflix: Understanding and improving multi-CDN movie delivery}
+      \field{year}{2012}
+      \field{pages}{1620\bibrangedash 1628}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/INFCOM.2012.6195531
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/INFCOM.2012.6195531
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/INFCOM.2012.6195531
+      \endverb
+    \endentry
+    \entry{netflixipv6}{online}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=c335eff58ed0895b31adeba66d733eae}{%
+           family={Aggarwal},
+           familyi={A\bibinitperiod},
+           given={Rajiv},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=10effea356d8bda22d6a89e354a4c85f}{%
+           family={Temkin},
+           familyi={T\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{65f5f9c4dc547e759958fdbcd7945451}
+      \strng{fullhash}{65f5f9c4dc547e759958fdbcd7945451}
+      \strng{bibnamehash}{65f5f9c4dc547e759958fdbcd7945451}
+      \strng{authorbibnamehash}{65f5f9c4dc547e759958fdbcd7945451}
+      \strng{authornamehash}{65f5f9c4dc547e759958fdbcd7945451}
+      \strng{authorfullhash}{65f5f9c4dc547e759958fdbcd7945451}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{11}
+      \field{title}{Enabling Support for IPv6}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/netflix-techblog/enabling-support-for-ipv6-48a495d5196f
+      \endverb
+      \verb{url}
+      \verb https://medium.com/netflix-techblog/enabling-support-for-ipv6-48a495d5196f
+      \endverb
+    \endentry
+    \entry{bajpaipam}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=2117609124f40de4ded1edb2f46890e1}{%
+           family={Ahsan},
+           familyi={A\bibinitperiod},
+           given={Saba},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6ad6555a5fed5515cead75612a54ef4c}{%
+           family={Bajpai},
+           familyi={B\bibinitperiod},
+           given={Vaibhav},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d00f30ec30db351ab22eec691cc91c2e}{%
+           family={Ott},
+           familyi={O\bibinitperiod},
+           given={J{ö}rg},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=85878a5f6711d80bd4a3cc3bfdb170a7}{%
+           family={Sch{ö}nw{ä}lder},
+           familyi={S\bibinitperiod},
+           given={J{ü}rgen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1ff6fb28d60c942df632ba4b181b8377}
+      \strng{fullhash}{1ff6fb28d60c942df632ba4b181b8377}
+      \strng{bibnamehash}{1ff6fb28d60c942df632ba4b181b8377}
+      \strng{authorbibnamehash}{1ff6fb28d60c942df632ba4b181b8377}
+      \strng{authornamehash}{1ff6fb28d60c942df632ba4b181b8377}
+      \strng{authorfullhash}{1ff6fb28d60c942df632ba4b181b8377}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Passive and Active Measurement - 16th International Conference, {PAM} 2015, New York, NY, USA, March 19-20, 2015, Proceedings}
+      \field{title}{Measuring YouTube from Dual-Stacked Hosts}
+      \field{year}{2015}
+      \field{pages}{249\bibrangedash 261}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/978-3-319-15509-8_19
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-319-15509-8_19
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-319-15509-8_19
+      \endverb
+    \endentry
+    \entry{hourglass}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=fbee72f4f77bd241f2ca6766317eb978}{%
+           family={Akhshabi},
+           familyi={A\bibinitperiod},
+           given={Saamer},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4febd24fdb085de9834f2d66b426fcf1}{%
+           family={Dovrolis},
+           familyi={D\bibinitperiod},
+           given={Constantine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{17b334c61f33afb1c165bc601b32b663}
+      \strng{fullhash}{17b334c61f33afb1c165bc601b32b663}
+      \strng{bibnamehash}{17b334c61f33afb1c165bc601b32b663}
+      \strng{authorbibnamehash}{17b334c61f33afb1c165bc601b32b663}
+      \strng{authornamehash}{17b334c61f33afb1c165bc601b32b663}
+      \strng{authorfullhash}{17b334c61f33afb1c165bc601b32b663}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the {ACM} {SIGCOMM} 2011 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communications, Toronto, ON, Canada, August 15-19, 2011}
+      \field{title}{The evolution of layered protocol stacks leads to an hourglass-shaped architecture}
+      \field{year}{2011}
+      \field{pages}{206\bibrangedash 217}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/2018436.2018460
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.acm.org/10.1145/2018436.2018460
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2018436.2018460
+      \endverb
+    \endentry
+    \entry{loadrafael}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=be45f3348eb5f8df3c781d5d83f2a898}{%
+           family={Almeida},
+           familyi={A\bibinitperiod},
+           given={Rafael},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6203869e6a820f6c329ea6e5b5e4fdbc}{%
+           family={Fonseca},
+           familyi={F\bibinitperiod},
+           given={Osvaldo\bibnamedelimb L.\bibnamedelimi H.\bibnamedelimi M.},
+           giveni={O\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d01a6b404f95b38c1263a2a0fb9d344d}{%
+           family={Fazzion},
+           familyi={F\bibinitperiod},
+           given={Elverton\bibnamedelima C.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=51feab24115f52f3564fc64643ab7b8b}{%
+           family={Guedes},
+           familyi={G\bibinitperiod},
+           given={Dorgival\bibnamedelima O.},
+           giveni={D\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a4fa0897a07dfd8e25e8ae078a05eb16}{%
+           family={Jr.},
+           familyi={J\bibinitperiod},
+           given={Wagner\bibnamedelima Meira},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a331abb109a533c4248f9d5f8f99943e}{%
+           family={Cunha},
+           familyi={C\bibinitperiod},
+           given={{Í}talo\bibnamedelima S.},
+           giveni={Í\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{92ca0dca45ae9723f2c55a7524b351cc}
+      \strng{fullhash}{88eb0a0a164517225f072750f15c273b}
+      \strng{bibnamehash}{88eb0a0a164517225f072750f15c273b}
+      \strng{authorbibnamehash}{88eb0a0a164517225f072750f15c273b}
+      \strng{authornamehash}{92ca0dca45ae9723f2c55a7524b351cc}
+      \strng{authorfullhash}{88eb0a0a164517225f072750f15c273b}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Passive and Active Measurement - 18th International Conference, {PAM} 2017, Sydney, NSW, Australia, March 30-31, 2017, Proceedings}
+      \field{title}{A Characterization of Load Balancing on the IPv6 Internet}
+      \field{year}{2017}
+      \field{pages}{242\bibrangedash 254}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/978-3-319-54328-4_18
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-319-54328-4_18
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-319-54328-4_18
+      \endverb
+    \endentry
+    \entry{cc5}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=49e7f29af79d309033bc8b4453ac4eb0}{%
+           family={Amble},
+           familyi={A\bibinitperiod},
+           given={Meghana\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=46a5457eb2ed5ef33e55dcbb9968d2d1}{%
+           family={Parag},
+           familyi={P\bibinitperiod},
+           given={Parimal},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f0d9c8e04f9717c16e0af6a86e860bb0}{%
+           family={Shakkottai},
+           familyi={S\bibinitperiod},
+           given={Srinivas},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=52521c06d40f30c32dbaca334760a2b0}{%
+           family={Ying},
+           familyi={Y\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d2ad17f5bc7e002edd045cd89c19a472}
+      \strng{fullhash}{d2ad17f5bc7e002edd045cd89c19a472}
+      \strng{bibnamehash}{d2ad17f5bc7e002edd045cd89c19a472}
+      \strng{authorbibnamehash}{d2ad17f5bc7e002edd045cd89c19a472}
+      \strng{authornamehash}{d2ad17f5bc7e002edd045cd89c19a472}
+      \strng{authorfullhash}{d2ad17f5bc7e002edd045cd89c19a472}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{INFOCOM} 2011. 30th {IEEE} International Conference on Computer Communications, Joint Conference of the {IEEE} Computer and Communications Societies, 10-15 April 2011, Shanghai, China}
+      \field{title}{Content-aware caching and traffic management in content distribution networks}
+      \field{year}{2011}
+      \field{pages}{2858\bibrangedash 2866}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/INFCOM.2011.5935123
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/INFCOM.2011.5935123
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/INFCOM.2011.5935123
+      \endverb
+    \endentry
+    \entry{ipv6ams}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=1630c385b86d405d41ec1d11721d06ea}{%
+           family={AMSIX},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1630c385b86d405d41ec1d11721d06ea}
+      \strng{fullhash}{1630c385b86d405d41ec1d11721d06ea}
+      \strng{bibnamehash}{1630c385b86d405d41ec1d11721d06ea}
+      \strng{authorbibnamehash}{1630c385b86d405d41ec1d11721d06ea}
+      \strng{authornamehash}{1630c385b86d405d41ec1d11721d06ea}
+      \strng{authorfullhash}{1630c385b86d405d41ec1d11721d06ea}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{30}
+      \field{month}{5}
+      \field{title}{IPv6 Traffic}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://ams-ix.net/technical/statistics/sflow-stats/ipv6-traffic
+      \endverb
+      \verb{url}
+      \verb https://ams-ix.net/technical/statistics/sflow-stats/ipv6-traffic
+      \endverb
+    \endentry
+    \entry{statsams}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=1630c385b86d405d41ec1d11721d06ea}{%
+           family={AMSIX},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1630c385b86d405d41ec1d11721d06ea}
+      \strng{fullhash}{1630c385b86d405d41ec1d11721d06ea}
+      \strng{bibnamehash}{1630c385b86d405d41ec1d11721d06ea}
+      \strng{authorbibnamehash}{1630c385b86d405d41ec1d11721d06ea}
+      \strng{authornamehash}{1630c385b86d405d41ec1d11721d06ea}
+      \strng{authorfullhash}{1630c385b86d405d41ec1d11721d06ea}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{30}
+      \field{month}{5}
+      \field{title}{Statistics}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://ams-ix.net/technical/statistics
+      \endverb
+      \verb{url}
+      \verb https://ams-ix.net/technical/statistics
+      \endverb
+    \endentry
+    \entry{internetbrice}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=bb21d043f454f7b5711a8bd24f70bac7}{%
+           family={Augustin},
+           familyi={A\bibinitperiod},
+           given={Brice},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fa23baea90814b0d61c5f3fc85b47021}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Timur},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=60cb6ab784cc05816ccdb5008916c593}{%
+           family={Teixeira},
+           familyi={T\bibinitperiod},
+           given={Renata},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1a28bf2f40619ee7ea967fbbcddf2c2a}
+      \strng{fullhash}{1a28bf2f40619ee7ea967fbbcddf2c2a}
+      \strng{bibnamehash}{1a28bf2f40619ee7ea967fbbcddf2c2a}
+      \strng{authorbibnamehash}{1a28bf2f40619ee7ea967fbbcddf2c2a}
+      \strng{authornamehash}{1a28bf2f40619ee7ea967fbbcddf2c2a}
+      \strng{authorfullhash}{1a28bf2f40619ee7ea967fbbcddf2c2a}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 7th {ACM} {SIGCOMM} Internet Measurement Conference, {IMC} 2007, San Diego, California, USA, October 24-26, 2007}
+      \field{title}{Measuring load-balanced paths in the internet}
+      \field{year}{2007}
+      \field{pages}{149\bibrangedash 160}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/1298306.1298329
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.acm.org/10.1145/1298306.1298329
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/1298306.1298329
+      \endverb
+    \endentry
+    \entry{paris}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=bb21d043f454f7b5711a8bd24f70bac7}{%
+           family={Augustin},
+           familyi={A\bibinitperiod},
+           given={Brice},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fa23baea90814b0d61c5f3fc85b47021}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Timur},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=60cb6ab784cc05816ccdb5008916c593}{%
+           family={Teixeira},
+           familyi={T\bibinitperiod},
+           given={Renata},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1a28bf2f40619ee7ea967fbbcddf2c2a}
+      \strng{fullhash}{1a28bf2f40619ee7ea967fbbcddf2c2a}
+      \strng{bibnamehash}{1a28bf2f40619ee7ea967fbbcddf2c2a}
+      \strng{authorbibnamehash}{1a28bf2f40619ee7ea967fbbcddf2c2a}
+      \strng{authornamehash}{1a28bf2f40619ee7ea967fbbcddf2c2a}
+      \strng{authorfullhash}{1a28bf2f40619ee7ea967fbbcddf2c2a}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 7th {ACM} {SIGCOMM} Internet Measurement Conference, {IMC} 2007, San Diego, California, USA, October 24-26, 2007}
+      \field{title}{Measuring load-balanced paths in the internet}
+      \field{year}{2007}
+      \field{pages}{149\bibrangedash 160}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/1298306.1298329
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.acm.org/10.1145/1298306.1298329
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/1298306.1298329
+      \endverb
+    \endentry
+    \entry{metadata}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=6ad6555a5fed5515cead75612a54ef4c}{%
+           family={Bajpai},
+           familyi={B\bibinitperiod},
+           given={Vaibhav},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6ad6555a5fed5515cead75612a54ef4c}
+      \strng{fullhash}{6ad6555a5fed5515cead75612a54ef4c}
+      \strng{bibnamehash}{6ad6555a5fed5515cead75612a54ef4c}
+      \strng{authorbibnamehash}{6ad6555a5fed5515cead75612a54ef4c}
+      \strng{authornamehash}{6ad6555a5fed5515cead75612a54ef4c}
+      \strng{authorfullhash}{6ad6555a5fed5515cead75612a54ef4c}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{11}
+      \field{title}{SamKnows Probes Metadata}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://cnds.eecs.jacobs-university.de/users/vbajpai/yt-ccr-2017/metadata.txt
+      \endverb
+      \verb{url}
+      \verb http://cnds.eecs.jacobs-university.de/users/vbajpai/yt-ccr-2017/metadata.txt
+      \endverb
+    \endentry
+    \entry{bajpaiyoutube}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=6ad6555a5fed5515cead75612a54ef4c}{%
+           family={Bajpai},
+           familyi={B\bibinitperiod},
+           given={Vaibhav},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6ad6555a5fed5515cead75612a54ef4c}
+      \strng{fullhash}{6ad6555a5fed5515cead75612a54ef4c}
+      \strng{bibnamehash}{6ad6555a5fed5515cead75612a54ef4c}
+      \strng{authorbibnamehash}{6ad6555a5fed5515cead75612a54ef4c}
+      \strng{authornamehash}{6ad6555a5fed5515cead75612a54ef4c}
+      \strng{authorfullhash}{6ad6555a5fed5515cead75612a54ef4c}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{30}
+      \field{month}{12}
+      \field{title}{Youtube CCR 2017}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/vbajpai/2017-ccr-youtube-analysis
+      \endverb
+      \verb{url}
+      \verb https://github.com/vbajpai/2017-ccr-youtube-analysis
+      \endverb
+    \endentry
+    \entry{bajpaimeasuring}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=6ad6555a5fed5515cead75612a54ef4c}{%
+           family={Bajpai},
+           familyi={B\bibinitperiod},
+           given={Vaibhav},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2117609124f40de4ded1edb2f46890e1}{%
+           family={Ahsan},
+           familyi={A\bibinitperiod},
+           given={Saba},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=85878a5f6711d80bd4a3cc3bfdb170a7}{%
+           family={Sch{ö}nw{ä}lder},
+           familyi={S\bibinitperiod},
+           given={J{ü}rgen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d00f30ec30db351ab22eec691cc91c2e}{%
+           family={Ott},
+           familyi={O\bibinitperiod},
+           given={J{ö}rg},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1d473a041bb986788f106d511174e437}
+      \strng{fullhash}{1d473a041bb986788f106d511174e437}
+      \strng{bibnamehash}{1d473a041bb986788f106d511174e437}
+      \strng{authorbibnamehash}{1d473a041bb986788f106d511174e437}
+      \strng{authornamehash}{1d473a041bb986788f106d511174e437}
+      \strng{authorfullhash}{1d473a041bb986788f106d511174e437}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer Communication Review}
+      \field{number}{5}
+      \field{title}{Measuring YouTube Content Delivery over IPv6}
+      \field{volume}{47}
+      \field{year}{2017}
+      \field{pages}{2\bibrangedash 11}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/3155055.3155057
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.acm.org/10.1145/3155055.3155057
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/3155055.3155057
+      \endverb
+    \endentry
+    \entry{bajpaisurvey}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=6ad6555a5fed5515cead75612a54ef4c}{%
+           family={Bajpai},
+           familyi={B\bibinitperiod},
+           given={Vaibhav},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=85878a5f6711d80bd4a3cc3bfdb170a7}{%
+           family={Sch{ö}nw{ä}lder},
+           familyi={S\bibinitperiod},
+           given={J{ü}rgen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9261d799e436d4dcb5c017f3494c4a55}
+      \strng{fullhash}{9261d799e436d4dcb5c017f3494c4a55}
+      \strng{bibnamehash}{9261d799e436d4dcb5c017f3494c4a55}
+      \strng{authorbibnamehash}{9261d799e436d4dcb5c017f3494c4a55}
+      \strng{authornamehash}{9261d799e436d4dcb5c017f3494c4a55}
+      \strng{authorfullhash}{9261d799e436d4dcb5c017f3494c4a55}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Communications Surveys and Tutorials}
+      \field{number}{3}
+      \field{title}{A Survey on Internet Performance Measurement Platforms and Related Standardization Efforts}
+      \field{volume}{17}
+      \field{year}{2015}
+      \field{pages}{1313\bibrangedash 1341}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1109/COMST.2015.2418435
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/COMST.2015.2418435
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/COMST.2015.2418435
+      \endverb
+    \endentry
+    \entry{46bajpai}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=6ad6555a5fed5515cead75612a54ef4c}{%
+           family={Bajpai},
+           familyi={B\bibinitperiod},
+           given={Vaibhav},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=85878a5f6711d80bd4a3cc3bfdb170a7}{%
+           family={Sch{ö}nw{ä}lder},
+           familyi={S\bibinitperiod},
+           given={J{ü}rgen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9261d799e436d4dcb5c017f3494c4a55}
+      \strng{fullhash}{9261d799e436d4dcb5c017f3494c4a55}
+      \strng{bibnamehash}{9261d799e436d4dcb5c017f3494c4a55}
+      \strng{authorbibnamehash}{9261d799e436d4dcb5c017f3494c4a55}
+      \strng{authornamehash}{9261d799e436d4dcb5c017f3494c4a55}
+      \strng{authorfullhash}{9261d799e436d4dcb5c017f3494c4a55}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 14th {IFIP} Networking Conference, Networking 2015, Toulouse, France, 20-22 May, 2015}
+      \field{title}{IPv4 versus IPv6 - who connects faster?}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/IFIPNetworking.2015.7145323
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/IFIPNetworking.2015.7145323
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/IFIPNetworking.2015.7145323
+      \endverb
+    \endentry
+    \entry{bajpaihappy}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=6ad6555a5fed5515cead75612a54ef4c}{%
+           family={Bajpai},
+           familyi={B\bibinitperiod},
+           given={Vaibhav},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=85878a5f6711d80bd4a3cc3bfdb170a7}{%
+           family={Sch{ö}nw{ä}lder},
+           familyi={S\bibinitperiod},
+           given={J{ü}rgen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9261d799e436d4dcb5c017f3494c4a55}
+      \strng{fullhash}{9261d799e436d4dcb5c017f3494c4a55}
+      \strng{bibnamehash}{9261d799e436d4dcb5c017f3494c4a55}
+      \strng{authorbibnamehash}{9261d799e436d4dcb5c017f3494c4a55}
+      \strng{authornamehash}{9261d799e436d4dcb5c017f3494c4a55}
+      \strng{authorfullhash}{9261d799e436d4dcb5c017f3494c4a55}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2016 Applied Networking Research Workshop, {ANRW} 2016, Berlin, Germany, July 16, 2016}
+      \field{title}{Measuring the Effects of Happy Eyeballs}
+      \field{year}{2016}
+      \field{pages}{38\bibrangedash 44}
+      \range{pages}{7}
+      \verb{urlraw}
+      \verb http://dl.acm.org/citation.cfm?id=2959429
+      \endverb
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=2959429
+      \endverb
+    \endentry
+    \entry{ninanetflix}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=dfb15e43528bc1cd8c097e7a11137218}{%
+           family={Bargisen},
+           familyi={B\bibinitperiod},
+           given={Nina},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dfb15e43528bc1cd8c097e7a11137218}
+      \strng{fullhash}{dfb15e43528bc1cd8c097e7a11137218}
+      \strng{bibnamehash}{dfb15e43528bc1cd8c097e7a11137218}
+      \strng{authorbibnamehash}{dfb15e43528bc1cd8c097e7a11137218}
+      \strng{authornamehash}{dfb15e43528bc1cd8c097e7a11137218}
+      \strng{authorfullhash}{dfb15e43528bc1cd8c097e7a11137218}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{30}
+      \field{month}{4}
+      \field{title}{How Netflix Works}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ripe.net/participate/meetings/regional-meetings/ipv6-day-denmark/presentations/3-nina-ipv6-day-copenhagen.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ripe.net/participate/meetings/regional-meetings/ipv6-day-denmark/presentations/3-nina-ipv6-day-copenhagen.pdf
+      \endverb
+    \endentry
+    \entry{speedtest}{online}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=407d01e9f2ee00e6f74702a10a6f61c4}{%
+           family={Bauer},
+           familyi={B\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=355a2475c7fc9d908d2f12f0736f0217}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a129db0895b65034d230a0753c817a2f}{%
+           family={Lehr},
+           familyi={L\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ec2ebbe7401042ef3074346840fda8fb}
+      \strng{fullhash}{ec2ebbe7401042ef3074346840fda8fb}
+      \strng{bibnamehash}{ec2ebbe7401042ef3074346840fda8fb}
+      \strng{authorbibnamehash}{ec2ebbe7401042ef3074346840fda8fb}
+      \strng{authornamehash}{ec2ebbe7401042ef3074346840fda8fb}
+      \strng{authorfullhash}{ec2ebbe7401042ef3074346840fda8fb}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{4}
+      \field{title}{Understanding broadband speed measurements}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://groups.csail.mit.edu/ana/Publications/Understanding_broadband_speed_measurements_bauer_clark_lehr_TPRC_2010.pdf
+      \endverb
+      \verb{url}
+      \verb https://groups.csail.mit.edu/ana/Publications/Understanding_broadband_speed_measurements_bauer_clark_lehr_TPRC_2010.pdf
+      \endverb
+    \endentry
+    \entry{46caida}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=1,uniquepart=given,hash=96d9626a6b7e2a76159e8c400a3741f8}{%
+           family={Berger},
+           familyi={B\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{96d9626a6b7e2a76159e8c400a3741f8}
+      \strng{fullhash}{96d9626a6b7e2a76159e8c400a3741f8}
+      \strng{bibnamehash}{96d9626a6b7e2a76159e8c400a3741f8}
+      \strng{authorbibnamehash}{96d9626a6b7e2a76159e8c400a3741f8}
+      \strng{authornamehash}{96d9626a6b7e2a76159e8c400a3741f8}
+      \strng{authorfullhash}{96d9626a6b7e2a76159e8c400a3741f8}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{4}
+      \field{month}{6}
+      \field{title}{Comparison of Performance over IPv6 versus IPv4}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://ftp.caida.org/workshops/isma/1202/slides/aims1202_acox_supplement.pdf
+      \endverb
+      \verb{url}
+      \verb http://ftp.caida.org/workshops/isma/1202/slides/aims1202_acox_supplement.pdf
+      \endverb
+    \endentry
+    \entry{he4}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=1,uniquepart=given,hash=96d9626a6b7e2a76159e8c400a3741f8}{%
+           family={Berger},
+           familyi={B\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{96d9626a6b7e2a76159e8c400a3741f8}
+      \strng{fullhash}{96d9626a6b7e2a76159e8c400a3741f8}
+      \strng{bibnamehash}{96d9626a6b7e2a76159e8c400a3741f8}
+      \strng{authorbibnamehash}{96d9626a6b7e2a76159e8c400a3741f8}
+      \strng{authornamehash}{96d9626a6b7e2a76159e8c400a3741f8}
+      \strng{authorfullhash}{96d9626a6b7e2a76159e8c400a3741f8}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{4}
+      \field{title}{Comparison of Performance over IPv6 versus IPv4}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://ftp.caida.org/workshops/isma/1202/slides/aims1202_acox_supplement.pdf
+      \endverb
+      \verb{url}
+      \verb http://ftp.caida.org/workshops/isma/1202/slides/aims1202_acox_supplement.pdf
+      \endverb
+    \endentry
+    \entry{beverly2}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=b237dd9cbb7cb89fe4b73b3000d1a097}{%
+           family={Beverly},
+           familyi={B\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=8a936434392e6c22c95b6a67e483b9d3}{%
+           family={Berger},
+           familyi={B\bibinitperiod},
+           given={Arthur\bibnamedelima W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{59accc641d81e66aae0505ad6b1aaec6}
+      \strng{fullhash}{59accc641d81e66aae0505ad6b1aaec6}
+      \strng{bibnamehash}{59accc641d81e66aae0505ad6b1aaec6}
+      \strng{authorbibnamehash}{59accc641d81e66aae0505ad6b1aaec6}
+      \strng{authornamehash}{59accc641d81e66aae0505ad6b1aaec6}
+      \strng{authorfullhash}{59accc641d81e66aae0505ad6b1aaec6}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Passive and Active Measurement - 16th International Conference, {PAM}2015, New York, NY, USA, March 19-20, 2015, Proceedings}
+      \field{title}{Server Siblings: Identifying Shared IPv4/IPv6 Infrastructure Via Active Fingerprinting}
+      \field{year}{2015}
+      \field{pages}{149\bibrangedash 161}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/978-3-319-15509-8_12
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-319-15509-8_12
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-319-15509-8_12
+      \endverb
+    \endentry
+    \entry{addressbeverly}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=b237dd9cbb7cb89fe4b73b3000d1a097}{%
+           family={Beverly},
+           familyi={B\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=71cde155f72e476d9ffd2720552abb7c}{%
+           family={Luckie},
+           familyi={L\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=c583cfb536f8169ec231705b8fcd9700}{%
+           family={Mosley},
+           familyi={M\bibinitperiod},
+           given={Lorenza},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d7888410dc3286cbb78985d62daa1cb3}{%
+           family={claffy},
+           familyi={c\bibinitperiod},
+           prefix={kc},
+           prefixi={k\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{c557cde4d42aaec1b5243e90592fa307}
+      \strng{fullhash}{c557cde4d42aaec1b5243e90592fa307}
+      \strng{bibnamehash}{c557cde4d42aaec1b5243e90592fa307}
+      \strng{authorbibnamehash}{c557cde4d42aaec1b5243e90592fa307}
+      \strng{authornamehash}{c557cde4d42aaec1b5243e90592fa307}
+      \strng{authorfullhash}{c557cde4d42aaec1b5243e90592fa307}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Passive and Active Measurement - 16th International Conference, {PAM} 2015, New York, NY, USA, March 19-20, 2015, Proceedings}
+      \field{title}{Measuring and Characterizing IPv6 Router Availability}
+      \field{year}{2015}
+      \field{pages}{123\bibrangedash 135}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/978-3-319-15509-8_10
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-319-15509-8_10
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-319-15509-8_10
+      \endverb
+    \endentry
+    \entry{openconnect}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=d532c49a270b759726dd5520d1685ca7}{%
+           family={B{ö}ttger},
+           familyi={B\bibinitperiod},
+           given={Timm},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dfc5d1dd07c409c286a7ab618b4bf60a}{%
+           family={Cuadrado},
+           familyi={C\bibinitperiod},
+           given={F{é}lix},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1a658b812e3374b348ad6585d05af4d6}{%
+           family={Tyson},
+           familyi={T\bibinitperiod},
+           given={Gareth},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e38151b7a3dc7193a143c6ad630f3c6e}{%
+           family={Castro},
+           familyi={C\bibinitperiod},
+           given={Ignacio},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dca47f4b18518e82eda22c0ad4f297c7}{%
+           family={Uhlig},
+           familyi={U\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a8574b7cd98e2a51ba4377a383e76fbe}
+      \strng{fullhash}{a2e923d48c65a381a56c9994d9dd36ec}
+      \strng{bibnamehash}{a2e923d48c65a381a56c9994d9dd36ec}
+      \strng{authorbibnamehash}{a2e923d48c65a381a56c9994d9dd36ec}
+      \strng{authornamehash}{a8574b7cd98e2a51ba4377a383e76fbe}
+      \strng{authorfullhash}{a2e923d48c65a381a56c9994d9dd36ec}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{CoRR}
+      \field{title}{Open Connect Everywhere: A Glimpse at the Internet Ecosystem through the Lens of the Netflix {CDN}}
+      \field{volume}{abs/1606.05519}
+      \field{year}{2016}
+      \verb{eprint}
+      \verb 1606.05519
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1606.05519
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1606.05519
+      \endverb
+    \endentry
+    \entry{caidaark}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=2baee83fb378c0936e4f58abca984d96}{%
+           family={CAIDA},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{2baee83fb378c0936e4f58abca984d96}
+      \strng{fullhash}{2baee83fb378c0936e4f58abca984d96}
+      \strng{bibnamehash}{2baee83fb378c0936e4f58abca984d96}
+      \strng{authorbibnamehash}{2baee83fb378c0936e4f58abca984d96}
+      \strng{authornamehash}{2baee83fb378c0936e4f58abca984d96}
+      \strng{authorfullhash}{2baee83fb378c0936e4f58abca984d96}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{30}
+      \field{month}{4}
+      \field{title}{Archipelago (Ark) Measurement Infrastructure}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.caida.org/projects/ark/
+      \endverb
+      \verb{url}
+      \verb https://www.caida.org/projects/ark/
+      \endverb
+    \endentry
+    \entry{caida}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=2baee83fb378c0936e4f58abca984d96}{%
+           family={CAIDA},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{2baee83fb378c0936e4f58abca984d96}
+      \strng{fullhash}{2baee83fb378c0936e4f58abca984d96}
+      \strng{bibnamehash}{2baee83fb378c0936e4f58abca984d96}
+      \strng{authorbibnamehash}{2baee83fb378c0936e4f58abca984d96}
+      \strng{authornamehash}{2baee83fb378c0936e4f58abca984d96}
+      \strng{authorfullhash}{2baee83fb378c0936e4f58abca984d96}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{3}
+      \field{title}{AS Classification}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.caida.org/data/as-classification/
+      \endverb
+      \verb{url}
+      \verb https://www.caida.org/data/as-classification/
+      \endverb
+    \endentry
+    \entry{dualcho}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=e85cc09729e982833445e8c40b0bdf22}{%
+           family={Cho},
+           familyi={C\bibinitperiod},
+           given={Kenjiro},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=f51c750936d780686cd83d2686ed8318}{%
+           family={Luckie},
+           familyi={L\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=edad816245ed83531a7faced4c86b7fc}{%
+           family={Huffaker},
+           familyi={H\bibinitperiod},
+           given={Bradley},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b33862a0b83282d2beddf37107ba34e1}
+      \strng{fullhash}{b33862a0b83282d2beddf37107ba34e1}
+      \strng{bibnamehash}{b33862a0b83282d2beddf37107ba34e1}
+      \strng{authorbibnamehash}{b33862a0b83282d2beddf37107ba34e1}
+      \strng{authornamehash}{b33862a0b83282d2beddf37107ba34e1}
+      \strng{authorfullhash}{b33862a0b83282d2beddf37107ba34e1}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{NetT '04 Proceedings of the ACM SIGCOMM workshop on Network troubleshooting: research, theory and operations practice meet malfunctioning reality}
+      \field{title}{Identifying IPv6 network problems in the dual-stack world}
+      \field{year}{2004}
+    \endentry
+    \entry{colittiipv6}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=56b6dede4dab583dcde6d42698c54ff9}{%
+           family={Colitti},
+           familyi={C\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fd7a721c56572a2dfb30b2b50cac9970}{%
+           family={Gunderson},
+           familyi={G\bibinitperiod},
+           given={Steinar\bibnamedelima H.},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=be85702334350e699578fc13ea48aec7}{%
+           family={Kline},
+           familyi={K\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0c82dfbe3731ef7e6992001cea531660}{%
+           family={Refice},
+           familyi={R\bibinitperiod},
+           given={Tiziana},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f955a03730220c3eed3a8cd34a5e1a0f}
+      \strng{fullhash}{f955a03730220c3eed3a8cd34a5e1a0f}
+      \strng{bibnamehash}{f955a03730220c3eed3a8cd34a5e1a0f}
+      \strng{authorbibnamehash}{f955a03730220c3eed3a8cd34a5e1a0f}
+      \strng{authornamehash}{f955a03730220c3eed3a8cd34a5e1a0f}
+      \strng{authorfullhash}{f955a03730220c3eed3a8cd34a5e1a0f}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Passive and Active Measurement, 11th International Conference, {PAM} 2010, Zurich, Switzerland, April 7-9, 2010. Proceedings}
+      \field{title}{Evaluating IPv6 Adoption in the Internet}
+      \field{year}{2010}
+      \field{pages}{141\bibrangedash 150}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/978-3-642-12334-4_15
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-642-12334-4_15
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-642-12334-4_15
+      \endverb
+    \endentry
+    \entry{cc4}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=29bf8679e826e274fe6aa6ff3c755fd6}{%
+           family={Cordero},
+           familyi={C\bibinitperiod},
+           given={Juan\bibnamedelima Antonio},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=500195eaab29dc05f97c2298de61e35f}{%
+           family={Bonaventure},
+           familyi={B\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7655084564c8fe712eedebf807f48c6e}
+      \strng{fullhash}{7655084564c8fe712eedebf807f48c6e}
+      \strng{bibnamehash}{7655084564c8fe712eedebf807f48c6e}
+      \strng{authorbibnamehash}{7655084564c8fe712eedebf807f48c6e}
+      \strng{authornamehash}{7655084564c8fe712eedebf807f48c6e}
+      \strng{authorfullhash}{7655084564c8fe712eedebf807f48c6e}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2014 {IFIP} Networking Conference, Trondheim, Norway, June 2-4, 2014}
+      \field{title}{Understanding the topological properties of Internet traffic: A view from the edge}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/IFIPNetworking.2014.6857090
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/IFIPNetworking.2014.6857090
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/IFIPNetworking.2014.6857090
+      \endverb
+    \endentry
+    \entry{jakubipv6}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=e95c28470bdc51eacb59d7ee3dadba19}{%
+           family={Czyz},
+           familyi={C\bibinitperiod},
+           given={Jakub},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=16106a5714a6a080fe22adcde1f7a047}{%
+           family={Allman},
+           familyi={A\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=948f26b38fba102b6f820808e554bc53}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=8eaff4c75577d446a5be1a93ad5601fe}{%
+           family={Iekel{-}Johnson},
+           familyi={I\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0c17e532e869f4e011f1177958f0f3e1}{%
+           family={Osterweil},
+           familyi={O\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8a5991f7d0edf5d3cbc0cc37cbef43a8}{%
+           family={Bailey},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f0b0a4e08d1cc559abac670443fa9335}
+      \strng{fullhash}{1ecf47dde52e850016042431cacb7910}
+      \strng{bibnamehash}{1ecf47dde52e850016042431cacb7910}
+      \strng{authorbibnamehash}{1ecf47dde52e850016042431cacb7910}
+      \strng{authornamehash}{f0b0a4e08d1cc559abac670443fa9335}
+      \strng{authorfullhash}{1ecf47dde52e850016042431cacb7910}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{ACM} {SIGCOMM} 2014 Conference, SIGCOMM'14, Chicago, IL, USA, August 17-22, 2014}
+      \field{title}{Measuring IPv6 adoption}
+      \field{year}{2014}
+      \field{pages}{87\bibrangedash 98}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/2619239.2626295
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.acm.org/10.1145/2619239.2626295
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2619239.2626295
+      \endverb
+    \endentry
+    \entry{ipv6day}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=5660a608aa3b6b68a9b73ce1032ab373}{%
+           family={Day},
+           familyi={D\bibinitperiod},
+           given={World\bibnamedelima IPv6},
+           giveni={W\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5660a608aa3b6b68a9b73ce1032ab373}
+      \strng{fullhash}{5660a608aa3b6b68a9b73ce1032ab373}
+      \strng{bibnamehash}{5660a608aa3b6b68a9b73ce1032ab373}
+      \strng{authorbibnamehash}{5660a608aa3b6b68a9b73ce1032ab373}
+      \strng{authornamehash}{5660a608aa3b6b68a9b73ce1032ab373}
+      \strng{authorfullhash}{5660a608aa3b6b68a9b73ce1032ab373}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{1}
+      \field{title}{World IPv6 Launch Official Website}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://www.worldipv6launch.org/
+      \endverb
+      \verb{url}
+      \verb http://www.worldipv6launch.org/
+      \endverb
+    \endentry
+    \entry{dhamdhereflat}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=58a5bc577442cf78504e115c874bce14}{%
+           family={Dhamdhere},
+           familyi={D\bibinitperiod},
+           given={Amogh},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4febd24fdb085de9834f2d66b426fcf1}{%
+           family={Dovrolis},
+           familyi={D\bibinitperiod},
+           given={Constantine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f04a1b6162bf3400347d214bcab0842f}
+      \strng{fullhash}{f04a1b6162bf3400347d214bcab0842f}
+      \strng{bibnamehash}{f04a1b6162bf3400347d214bcab0842f}
+      \strng{authorbibnamehash}{f04a1b6162bf3400347d214bcab0842f}
+      \strng{authornamehash}{f04a1b6162bf3400347d214bcab0842f}
+      \strng{authorfullhash}{f04a1b6162bf3400347d214bcab0842f}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2010 {ACM} Conference on Emerging Networking Experiments and Technology, CoNEXT 2010, Philadelphia, PA, USA, November 30 - December 03, 2010}
+      \field{title}{The Internet is flat: modeling the transition from a transit hierarchy to a peering mesh}
+      \field{year}{2010}
+      \field{pages}{21}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1145/1921168.1921196
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.acm.org/10.1145/1921168.1921196
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/1921168.1921196
+      \endverb
+    \endentry
+    \entry{dhamdhereipv6}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=58a5bc577442cf78504e115c874bce14}{%
+           family={Dhamdhere},
+           familyi={D\bibinitperiod},
+           given={Amogh},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=71cde155f72e476d9ffd2720552abb7c}{%
+           family={Luckie},
+           familyi={L\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=edad816245ed83531a7faced4c86b7fc}{%
+           family={Huffaker},
+           familyi={H\bibinitperiod},
+           given={Bradley},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d7888410dc3286cbb78985d62daa1cb3}{%
+           family={claffy},
+           familyi={c\bibinitperiod},
+           prefix={kc},
+           prefixi={k\bibinitperiod},
+           prefixun=0}}%
+        {{uniquename=0,uniquepart=base,hash=81d4a8574ddca70777e7760ed5dfda99}{%
+           family={Elmokashfi},
+           familyi={E\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c104f2379237d700b21a012bb5b0f258}{%
+           family={Aben},
+           familyi={A\bibinitperiod},
+           given={Emile},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6e24393b93fda94f13daf059fe7ba553}
+      \strng{fullhash}{07efd6b5106f32a503b57fbc4e40fec7}
+      \strng{bibnamehash}{07efd6b5106f32a503b57fbc4e40fec7}
+      \strng{authorbibnamehash}{07efd6b5106f32a503b57fbc4e40fec7}
+      \strng{authornamehash}{6e24393b93fda94f13daf059fe7ba553}
+      \strng{authorfullhash}{07efd6b5106f32a503b57fbc4e40fec7}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 12th {ACM} {SIGCOMM} Internet Measurement Conference, {IMC} '12, Boston, MA, USA, November 14-16, 2012}
+      \field{title}{Measuring the deployment of IPv6: topology, routing and performance}
+      \field{year}{2012}
+      \field{pages}{537\bibrangedash 550}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1145/2398776.2398832
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.acm.org/10.1145/2398776.2398832
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2398776.2398832
+      \endverb
+    \endentry
+    \entry{he3}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=58a5bc577442cf78504e115c874bce14}{%
+           family={Dhamdhere},
+           familyi={D\bibinitperiod},
+           given={Amogh},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=71cde155f72e476d9ffd2720552abb7c}{%
+           family={Luckie},
+           familyi={L\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=edad816245ed83531a7faced4c86b7fc}{%
+           family={Huffaker},
+           familyi={H\bibinitperiod},
+           given={Bradley},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d7888410dc3286cbb78985d62daa1cb3}{%
+           family={claffy},
+           familyi={c\bibinitperiod},
+           prefix={kc},
+           prefixi={k\bibinitperiod},
+           prefixun=0}}%
+        {{uniquename=0,uniquepart=base,hash=81d4a8574ddca70777e7760ed5dfda99}{%
+           family={Elmokashfi},
+           familyi={E\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c104f2379237d700b21a012bb5b0f258}{%
+           family={Aben},
+           familyi={A\bibinitperiod},
+           given={Emile},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6e24393b93fda94f13daf059fe7ba553}
+      \strng{fullhash}{07efd6b5106f32a503b57fbc4e40fec7}
+      \strng{bibnamehash}{07efd6b5106f32a503b57fbc4e40fec7}
+      \strng{authorbibnamehash}{07efd6b5106f32a503b57fbc4e40fec7}
+      \strng{authornamehash}{6e24393b93fda94f13daf059fe7ba553}
+      \strng{authorfullhash}{07efd6b5106f32a503b57fbc4e40fec7}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 12th {ACM} {SIGCOMM} Internet Measurement Conference, {IMC} '12, Boston, MA, USA, November 14-16, 2012}
+      \field{title}{Measuring the deployment of IPv6: topology, routing and performance}
+      \field{year}{2012}
+      \field{pages}{537\bibrangedash 550}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1145/2398776.2398832
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.acm.org/10.1145/2398776.2398832
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2398776.2398832
+      \endverb
+    \endentry
+    \entry{viet}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=24a0c7b190502b3c0b511dfb4937274f}{%
+           family={Doan},
+           familyi={D\bibinitperiod},
+           given={Trinh\bibnamedelima Viet},
+           giveni={T\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Technische Universität München}%
+      }
+      \list{location}{1}{%
+        {Munich, Germany}%
+      }
+      \strng{namehash}{24a0c7b190502b3c0b511dfb4937274f}
+      \strng{fullhash}{24a0c7b190502b3c0b511dfb4937274f}
+      \strng{bibnamehash}{24a0c7b190502b3c0b511dfb4937274f}
+      \strng{authorbibnamehash}{24a0c7b190502b3c0b511dfb4937274f}
+      \strng{authornamehash}{24a0c7b190502b3c0b511dfb4937274f}
+      \strng{authorfullhash}{24a0c7b190502b3c0b511dfb4937274f}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Analyzing longitudinal datasets from active measurements to identify and locate IPv6 caches in ISP networks}
+      \field{type}{Master's Thesis}
+      \field{year}{2017}
+    \endentry
+    \entry{vietpam2018}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=24a0c7b190502b3c0b511dfb4937274f}{%
+           family={Doan},
+           familyi={D\bibinitperiod},
+           given={Trinh\bibnamedelima Viet},
+           giveni={T\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8d956d40af48a449f80e10d52629649c}{%
+           family={Pajevic},
+           familyi={P\bibinitperiod},
+           given={Ljubica},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6ad6555a5fed5515cead75612a54ef4c}{%
+           family={Bajpai},
+           familyi={B\bibinitperiod},
+           given={Vaibhav},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d00f30ec30db351ab22eec691cc91c2e}{%
+           family={Ott},
+           familyi={O\bibinitperiod},
+           given={J{ö}rg},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{991dd1a6451630bf4df2ba2fef5ee76b}
+      \strng{fullhash}{991dd1a6451630bf4df2ba2fef5ee76b}
+      \strng{bibnamehash}{991dd1a6451630bf4df2ba2fef5ee76b}
+      \strng{authorbibnamehash}{991dd1a6451630bf4df2ba2fef5ee76b}
+      \strng{authornamehash}{991dd1a6451630bf4df2ba2fef5ee76b}
+      \strng{authorfullhash}{991dd1a6451630bf4df2ba2fef5ee76b}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Passive And Active Measurement Conference 2018 (In Review)}
+      \field{title}{Quantifying the Latency and Path Lengths towards Content Caches in Dual-stacked ISP networks}
+      \field{year}{2018}
+    \endentry
+    \entry{topologydong}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=5387835c55d95093828bf8a16a7673b4}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Shouling},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=508f0a4e80af71a1970f575437811489}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jia},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=1,uniquepart=given,hash=880bd45fc914edafbb19fcf1b8e46840}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Ling},
+           giveni={L\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=0046764d170874744b883819d3d1b3a2}{%
+           family={Deng},
+           familyi={D\bibinitperiod},
+           given={Jianfeng},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3fb685a8b04325ac9c0c03be8ee1668d}
+      \strng{fullhash}{3fb685a8b04325ac9c0c03be8ee1668d}
+      \strng{bibnamehash}{3fb685a8b04325ac9c0c03be8ee1668d}
+      \strng{authorbibnamehash}{3fb685a8b04325ac9c0c03be8ee1668d}
+      \strng{authornamehash}{3fb685a8b04325ac9c0c03be8ee1668d}
+      \strng{authorfullhash}{3fb685a8b04325ac9c0c03be8ee1668d}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Computer Science and Service System (CSSS), 2011 International Conference on}
+      \field{title}{A novel algorithm of IPv6 network topology discovery for Campus Network}
+      \field{year}{2011}
+    \endentry
+    \entry{topologybenoit}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=f34562b302b39eec57839d9fedb3a010}{%
+           family={Donnet},
+           familyi={D\bibinitperiod},
+           given={Benoit},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f34562b302b39eec57839d9fedb3a010}
+      \strng{fullhash}{f34562b302b39eec57839d9fedb3a010}
+      \strng{bibnamehash}{f34562b302b39eec57839d9fedb3a010}
+      \strng{authorbibnamehash}{f34562b302b39eec57839d9fedb3a010}
+      \strng{authornamehash}{f34562b302b39eec57839d9fedb3a010}
+      \strng{authorfullhash}{f34562b302b39eec57839d9fedb3a010}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Data Traffic Monitoring and Analysis}
+      \field{title}{Internet Topology Discovery}
+      \field{year}{2013}
+      \field{pages}{44\bibrangedash 81}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1007/978-3-642-36784-7_3
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-642-36784-7_3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-642-36784-7_3
+      \endverb
+    \endentry
+    \entry{downey}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=076af674a65d15d1093c181e3692e7b4}{%
+           family={Downey},
+           familyi={D\bibinitperiod},
+           given={Allen\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{076af674a65d15d1093c181e3692e7b4}
+      \strng{fullhash}{076af674a65d15d1093c181e3692e7b4}
+      \strng{bibnamehash}{076af674a65d15d1093c181e3692e7b4}
+      \strng{authorbibnamehash}{076af674a65d15d1093c181e3692e7b4}
+      \strng{authornamehash}{076af674a65d15d1093c181e3692e7b4}
+      \strng{authorfullhash}{076af674a65d15d1093c181e3692e7b4}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{30}
+      \field{month}{12}
+      \field{title}{Think Stats}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://greenteapress.com/thinkstats/
+      \endverb
+      \verb{url}
+      \verb http://greenteapress.com/thinkstats/
+      \endverb
+    \endentry
+    \entry{bajpairipe}{online}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=cf860f4111aea9e8a37a88aa21a516c5}{%
+           family={Eravuchira},
+           familyi={E\bibinitperiod},
+           given={Steffie\bibnamedelima Jacob},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6ad6555a5fed5515cead75612a54ef4c}{%
+           family={Bajpai},
+           familyi={B\bibinitperiod},
+           given={Vaibhav},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bad6a638af87ad83706ef8ae8b7a1947}{%
+           family={Schönwälder},
+           familyi={S\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a3043be405d9d3a7f0425f1386a185b9}
+      \strng{fullhash}{a3043be405d9d3a7f0425f1386a185b9}
+      \strng{bibnamehash}{a3043be405d9d3a7f0425f1386a185b9}
+      \strng{authorbibnamehash}{a3043be405d9d3a7f0425f1386a185b9}
+      \strng{authornamehash}{a3043be405d9d3a7f0425f1386a185b9}
+      \strng{authorfullhash}{a3043be405d9d3a7f0425f1386a185b9}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{2}
+      \field{title}{Measurement Research within the Python3 Ecosystem}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://nbviewer.jupyter.org/github/vbajpai/ripe69-python3-toolset/blob/master/ripe69-python3-toolset.ipynb
+      \endverb
+      \verb{url}
+      \verb http://nbviewer.jupyter.org/github/vbajpai/ripe69-python3-toolset/blob/master/ripe69-python3-toolset.ipynb
+      \endverb
+    \endentry
+    \entry{netflixfast}{online}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=249aaec4972ad3832aed5c7978448e52}{%
+           family={Fedorov},
+           familyi={F\bibinitperiod},
+           given={Sergey},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d9cb14ed961cac10e2fe4359cdf5e627}{%
+           family={Livengood},
+           familyi={L\bibinitperiod},
+           given={Ellen},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7e60ea4d0e875ed5147cb567b9bd70b7}
+      \strng{fullhash}{7e60ea4d0e875ed5147cb567b9bd70b7}
+      \strng{bibnamehash}{7e60ea4d0e875ed5147cb567b9bd70b7}
+      \strng{authorbibnamehash}{7e60ea4d0e875ed5147cb567b9bd70b7}
+      \strng{authornamehash}{7e60ea4d0e875ed5147cb567b9bd70b7}
+      \strng{authorfullhash}{7e60ea4d0e875ed5147cb567b9bd70b7}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{3}
+      \field{title}{Building Fast.com}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/netflix-techblog/building-fast-com-4857fe0f8adb
+      \endverb
+      \verb{url}
+      \verb https://medium.com/netflix-techblog/building-fast-com-4857fe0f8adb
+      \endverb
+    \endentry
+    \entry{cc3}{article}{}
+      \name{author}{9}{}{%
+        {{uniquename=0,uniquepart=base,hash=07b511f9a5f9149c3be1205ad023ce9e}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4d268051e3e6d47435f19f65bbf99936}{%
+           family={Poese},
+           familyi={P\bibinitperiod},
+           given={Ingmar},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7a2507a87ec68b5560804d8ef7dbddb3}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Yin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=56fded7befb3875729495204823feadf}{%
+           family={Smaragdakis},
+           familyi={S\bibinitperiod},
+           given={Georgios},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a2f03739ecbec5fd41971c58f390f197}{%
+           family={Feldmann},
+           familyi={F\bibinitperiod},
+           given={Anja},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ea94e2960592cae3ecdb0e2acb947b5e}{%
+           family={Maggs},
+           familyi={M\bibinitperiod},
+           given={Bruce\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=08052566208b5f49fed3d979e81cc4f2}{%
+           family={Rake},
+           familyi={R\bibinitperiod},
+           given={Jannis},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dca47f4b18518e82eda22c0ad4f297c7}{%
+           family={Uhlig},
+           familyi={U\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=52ea895c54542b762f95de00f4e83ce7}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={Rick},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dbd0d5ed43b81c1b33e65de14b515a8f}
+      \strng{fullhash}{28e65108bbbeecbd693d34993c2b6d84}
+      \strng{bibnamehash}{28e65108bbbeecbd693d34993c2b6d84}
+      \strng{authorbibnamehash}{28e65108bbbeecbd693d34993c2b6d84}
+      \strng{authornamehash}{dbd0d5ed43b81c1b33e65de14b515a8f}
+      \strng{authorfullhash}{28e65108bbbeecbd693d34993c2b6d84}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer Communication Review}
+      \field{number}{3}
+      \field{title}{Pushing {CDN-ISP} collaboration to the limit}
+      \field{volume}{43}
+      \field{year}{2013}
+      \field{pages}{34\bibrangedash 44}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1145/2500098.2500103
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.acm.org/10.1145/2500098.2500103
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2500098.2500103
+      \endverb
+    \endentry
+    \entry{washingtonnetflix}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=0015a90fb53eafe31852bde32a6dc146}{%
+           family={Fung},
+           familyi={F\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0015a90fb53eafe31852bde32a6dc146}
+      \strng{fullhash}{0015a90fb53eafe31852bde32a6dc146}
+      \strng{bibnamehash}{0015a90fb53eafe31852bde32a6dc146}
+      \strng{authorbibnamehash}{0015a90fb53eafe31852bde32a6dc146}
+      \strng{authornamehash}{0015a90fb53eafe31852bde32a6dc146}
+      \strng{authorfullhash}{0015a90fb53eafe31852bde32a6dc146}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{5}
+      \field{title}{Netflix now accounts for almost 37 percent of our Internet traffic}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.washingtonpost.com/news/the-switch/wp/2015/05/28/netflix-now-accounts-for-almost-37-percent-of-our-internet-traffic/?noredirect=on&utm_term=.36fdba12499b
+      \endverb
+      \verb{url}
+      \verb https://www.washingtonpost.com/news/the-switch/wp/2015/05/28/netflix-now-accounts-for-almost-37-percent-of-our-internet-traffic/?noredirect=on&utm_term=.36fdba12499b
+      \endverb
+    \endentry
+    \entry{internetflat}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=181876bff2d3d22e2bdbad4234b9731a}{%
+           family={Gill},
+           familyi={G\bibinitperiod},
+           given={Phillipa},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=229cca2a59ddbd59aa887ce9692bcb81}{%
+           family={Arlitt},
+           familyi={A\bibinitperiod},
+           given={Martin\bibnamedelima F.},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=3adb66a7c5f736db8848b7b1d0f2c9a5}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zongpeng},
+           giveni={Z\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=cba147cebc8fb0322c739838461b11f8}{%
+           family={Mahanti},
+           familyi={M\bibinitperiod},
+           given={Anirban},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5771bd277b6bda227e990c2e499a10b6}
+      \strng{fullhash}{5771bd277b6bda227e990c2e499a10b6}
+      \strng{bibnamehash}{5771bd277b6bda227e990c2e499a10b6}
+      \strng{authorbibnamehash}{5771bd277b6bda227e990c2e499a10b6}
+      \strng{authornamehash}{5771bd277b6bda227e990c2e499a10b6}
+      \strng{authorfullhash}{5771bd277b6bda227e990c2e499a10b6}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Passive and Active Network Measurement, 9th International Conference, {PAM} 2008, Cleveland, OH, USA, April 29-30, 2008. Proceedings}
+      \field{title}{The Flattening Internet Topology: Natural Evolution, Unsightly Barnacles or Contrived Collapse?}
+      \field{year}{2008}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/978-3-540-79232-1_1
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-540-79232-1_1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-540-79232-1_1
+      \endverb
+    \endentry
+    \entry{ipv6matthew}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=9ed41365a6ab16f6b28361a5dc899ac6}{%
+           family={Giotsas},
+           familyi={G\bibinitperiod},
+           given={Vasileios},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=71cde155f72e476d9ffd2720552abb7c}{%
+           family={Luckie},
+           familyi={L\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=edad816245ed83531a7faced4c86b7fc}{%
+           family={Huffaker},
+           familyi={H\bibinitperiod},
+           given={Bradley},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d7888410dc3286cbb78985d62daa1cb3}{%
+           family={claffy},
+           familyi={c\bibinitperiod},
+           prefix={kc},
+           prefixi={k\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{b4c6be57e75ed3b3aeb61279c3eff5ce}
+      \strng{fullhash}{b4c6be57e75ed3b3aeb61279c3eff5ce}
+      \strng{bibnamehash}{b4c6be57e75ed3b3aeb61279c3eff5ce}
+      \strng{authorbibnamehash}{b4c6be57e75ed3b3aeb61279c3eff5ce}
+      \strng{authornamehash}{b4c6be57e75ed3b3aeb61279c3eff5ce}
+      \strng{authorfullhash}{b4c6be57e75ed3b3aeb61279c3eff5ce}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Passive and Active Measurement - 16th International Conference, {PAM} 2015, New York, NY, USA, March 19-20, 2015, Proceedings}
+      \field{title}{IPv6 {AS} Relationships, Cliques, and Congruence}
+      \field{year}{2015}
+      \field{pages}{111\bibrangedash 122}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/978-3-319-15509-8_9
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-319-15509-8_9
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-319-15509-8_9
+      \endverb
+    \endentry
+    \entry{46giotsas}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=9ed41365a6ab16f6b28361a5dc899ac6}{%
+           family={Giotsas},
+           familyi={G\bibinitperiod},
+           given={Vasileios},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=71cde155f72e476d9ffd2720552abb7c}{%
+           family={Luckie},
+           familyi={L\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=edad816245ed83531a7faced4c86b7fc}{%
+           family={Huffaker},
+           familyi={H\bibinitperiod},
+           given={Bradley},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d7888410dc3286cbb78985d62daa1cb3}{%
+           family={claffy},
+           familyi={c\bibinitperiod},
+           prefix={kc},
+           prefixi={k\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{b4c6be57e75ed3b3aeb61279c3eff5ce}
+      \strng{fullhash}{b4c6be57e75ed3b3aeb61279c3eff5ce}
+      \strng{bibnamehash}{b4c6be57e75ed3b3aeb61279c3eff5ce}
+      \strng{authorbibnamehash}{b4c6be57e75ed3b3aeb61279c3eff5ce}
+      \strng{authornamehash}{b4c6be57e75ed3b3aeb61279c3eff5ce}
+      \strng{authorfullhash}{b4c6be57e75ed3b3aeb61279c3eff5ce}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Passive and Active Measurement - 16th International Conference, {PAM} 2015, New York, NY, USA, March 19-20, 2015, Proceedings}
+      \field{title}{IPv6 {AS} Relationships, Cliques, and Congruence}
+      \field{year}{2015}
+      \field{pages}{111\bibrangedash 122}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/978-3-319-15509-8_9
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-319-15509-8_9
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-319-15509-8_9
+      \endverb
+    \endentry
+    \entry{he2}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=9ed41365a6ab16f6b28361a5dc899ac6}{%
+           family={Giotsas},
+           familyi={G\bibinitperiod},
+           given={Vasileios},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=71cde155f72e476d9ffd2720552abb7c}{%
+           family={Luckie},
+           familyi={L\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=edad816245ed83531a7faced4c86b7fc}{%
+           family={Huffaker},
+           familyi={H\bibinitperiod},
+           given={Bradley},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d7888410dc3286cbb78985d62daa1cb3}{%
+           family={claffy},
+           familyi={c\bibinitperiod},
+           prefix={kc},
+           prefixi={k\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{b4c6be57e75ed3b3aeb61279c3eff5ce}
+      \strng{fullhash}{b4c6be57e75ed3b3aeb61279c3eff5ce}
+      \strng{bibnamehash}{b4c6be57e75ed3b3aeb61279c3eff5ce}
+      \strng{authorbibnamehash}{b4c6be57e75ed3b3aeb61279c3eff5ce}
+      \strng{authornamehash}{b4c6be57e75ed3b3aeb61279c3eff5ce}
+      \strng{authorfullhash}{b4c6be57e75ed3b3aeb61279c3eff5ce}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Passive and Active Measurement - 16th International Conference, {PAM} 2015, New York, NY, USA, March 19-20, 2015, Proceedings}
+      \field{title}{IPv6 {AS} Relationships, Cliques, and Congruence}
+      \field{year}{2015}
+      \field{pages}{111\bibrangedash 122}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/978-3-319-15509-8_9
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-319-15509-8_9
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-319-15509-8_9
+      \endverb
+    \endentry
+    \entry{gv6}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=8b36e9207c24c76e6719268e49201d94}{%
+           family={Google},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{bibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorbibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authornamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorfullhash}{8b36e9207c24c76e6719268e49201d94}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{11}
+      \field{title}{IPv6 Adoption Statistics}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.google.com/intl/en/ipv6/statistics.html
+      \endverb
+      \verb{url}
+      \verb https://www.google.com/intl/en/ipv6/statistics.html
+      \endverb
+    \endentry
+    \entry{iot}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=5149222482e65ef318aed501c50018fc}{%
+           family={Gubbi},
+           familyi={G\bibinitperiod},
+           given={Jayavardhana},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=029e03ba4e08a5605b31a31f86375741}{%
+           family={Buyya},
+           familyi={B\bibinitperiod},
+           given={Rajkumar},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6f97b7d6e3c2e3f1ca91342e9b3e2106}{%
+           family={Marusic},
+           familyi={M\bibinitperiod},
+           given={Slaven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=68cd0238b84a14d073e3f210dba5b591}{%
+           family={Palaniswami},
+           familyi={P\bibinitperiod},
+           given={Marimuthu},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e002670d3d6f34d2c0e958e45f5f42ad}
+      \strng{fullhash}{e002670d3d6f34d2c0e958e45f5f42ad}
+      \strng{bibnamehash}{e002670d3d6f34d2c0e958e45f5f42ad}
+      \strng{authorbibnamehash}{e002670d3d6f34d2c0e958e45f5f42ad}
+      \strng{authornamehash}{e002670d3d6f34d2c0e958e45f5f42ad}
+      \strng{authorfullhash}{e002670d3d6f34d2c0e958e45f5f42ad}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Future Generation Comp. Syst.}
+      \field{number}{7}
+      \field{title}{Internet of Things (IoT): A vision, architectural elements, and future directions}
+      \field{volume}{29}
+      \field{year}{2013}
+      \field{pages}{1645\bibrangedash 1660}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.future.2013.01.010
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.future.2013.01.010
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.future.2013.01.010
+      \endverb
+    \endentry
+    \entry{cachehasan}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=4556cbc9b653eac35fd194c4c838f2de}{%
+           family={Hasan},
+           familyi={H\bibinitperiod},
+           given={Syed},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=96721dd3452ad0c4ddcd57102f2544c7}{%
+           family={Gorinsky},
+           familyi={G\bibinitperiod},
+           given={Sergey},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4febd24fdb085de9834f2d66b426fcf1}{%
+           family={Dovrolis},
+           familyi={D\bibinitperiod},
+           given={Constantine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f55f4b3c9e80d6f49513002d69413c92}{%
+           family={Sitaraman},
+           familyi={S\bibinitperiod},
+           given={Ramesh\bibnamedelima K.},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7ca8c6ed1785156bbb3625276bf1aec6}
+      \strng{fullhash}{7ca8c6ed1785156bbb3625276bf1aec6}
+      \strng{bibnamehash}{7ca8c6ed1785156bbb3625276bf1aec6}
+      \strng{authorbibnamehash}{7ca8c6ed1785156bbb3625276bf1aec6}
+      \strng{authornamehash}{7ca8c6ed1785156bbb3625276bf1aec6}
+      \strng{authorfullhash}{7ca8c6ed1785156bbb3625276bf1aec6}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2014 {IEEE} Conference on Computer Communications, {INFOCOM} 2014, Toronto, Canada, April 27 - May 2, 2014}
+      \field{title}{Trade-offs in optimizing the cache deployments of CDNs}
+      \field{year}{2014}
+      \field{pages}{460\bibrangedash 468}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/INFOCOM.2014.6847969
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/INFOCOM.2014.6847969
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/INFOCOM.2014.6847969
+      \endverb
+    \endentry
+    \entry{topologybrett}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=a77b264400cfe2e0b744b66334be2baf}{%
+           family={Holbert},
+           familyi={H\bibinitperiod},
+           given={Brett},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bc27a729b35296aa1846091b9b10ccc5}{%
+           family={Tati},
+           familyi={T\bibinitperiod},
+           given={Srikar},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=37f31aed2e1d1eafd8fb40de14c26a43}{%
+           family={Silvestri},
+           familyi={S\bibinitperiod},
+           given={Simone},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=11c6542b3a1a821767ad770f6e5b0693}{%
+           family={Porta},
+           familyi={P\bibinitperiod},
+           given={Thomas\bibnamedelimb F.\bibnamedelimi La},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b91873cac919469343e271d452b726b3}{%
+           family={Swami},
+           familyi={S\bibinitperiod},
+           given={Ananthram},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0777dfc04f4b9ac8e524098ffdf96d0d}
+      \strng{fullhash}{5f7fd2ed71a02f1eb6db237899c425d7}
+      \strng{bibnamehash}{5f7fd2ed71a02f1eb6db237899c425d7}
+      \strng{authorbibnamehash}{5f7fd2ed71a02f1eb6db237899c425d7}
+      \strng{authornamehash}{0777dfc04f4b9ac8e524098ffdf96d0d}
+      \strng{authorfullhash}{5f7fd2ed71a02f1eb6db237899c425d7}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Trans. Network and Service Management}
+      \field{number}{3}
+      \field{title}{Network Topology Inference With Partial Information}
+      \field{volume}{12}
+      \field{year}{2015}
+      \field{pages}{406\bibrangedash 419}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1109/TNSM.2015.2451032
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/TNSM.2015.2451032
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/TNSM.2015.2451032
+      \endverb
+    \endentry
+    \entry{46hyun}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{uniquename=1,uniquepart=given,hash=d750938e868ea628c169f7edef1480ea}{%
+           family={Hyun},
+           familyi={H\bibinitperiod},
+           given={Jonghwan},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=1,uniquepart=given,hash=2bb35bf59aaca26e59bbdb0d0192f3b3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=646394d773707aa8f7491a3ec87ca851}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Hwankuk},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2ae1d4e3165dfde1e75d365cfb09977c}{%
+           family={Yoo},
+           familyi={Y\bibinitperiod},
+           given={Jae{-}Hyoung},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=358075b5e7ebda69d0825ec5abc274f5}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={James\bibnamedelima Won{-}Ki},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{26f06fc7a93e9ed1a45ac360ff3fa713}
+      \strng{fullhash}{200fd3a426253704962280d863b4d39b}
+      \strng{bibnamehash}{200fd3a426253704962280d863b4d39b}
+      \strng{authorbibnamehash}{200fd3a426253704962280d863b4d39b}
+      \strng{authornamehash}{26f06fc7a93e9ed1a45ac360ff3fa713}
+      \strng{authorfullhash}{200fd3a426253704962280d863b4d39b}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{17th Asia-Pacific Network Operations and Management Symposium, {APNOMS} 2015, Busan, South Korea, August 19-21, 2015}
+      \field{title}{IPv4 and IPv6 performance comparison in IPv6 {LTE} network}
+      \field{year}{2015}
+      \field{pages}{145\bibrangedash 150}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/APNOMS.2015.7275417
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/APNOMS.2015.7275417
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/APNOMS.2015.7275417
+      \endverb
+    \endentry
+    \entry{iotipv6}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=09c17a4d19fe183a87a26ac8eb1e7dc9}{%
+           family={Jara},
+           familyi={J\bibinitperiod},
+           given={Antonio\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3a1dacf93bfeb6e513b66b1920d5c9b5}{%
+           family={Ladid},
+           familyi={L\bibinitperiod},
+           given={Latif},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6dc9eb2166e8213d68de24547ad2938d}{%
+           family={G{ó}mez{-}Skarmeta},
+           familyi={G\bibinitperiod},
+           given={Antonio\bibnamedelima Fernandez},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{63a8936b1b56d01b94c357f34bb1958f}
+      \strng{fullhash}{63a8936b1b56d01b94c357f34bb1958f}
+      \strng{bibnamehash}{63a8936b1b56d01b94c357f34bb1958f}
+      \strng{authorbibnamehash}{63a8936b1b56d01b94c357f34bb1958f}
+      \strng{authornamehash}{63a8936b1b56d01b94c357f34bb1958f}
+      \strng{authorfullhash}{63a8936b1b56d01b94c357f34bb1958f}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JoWUA}
+      \field{number}{3}
+      \field{title}{The Internet of Everything through IPv6: An Analysis of Challenges, Solutions and Opportunities}
+      \field{volume}{4}
+      \field{year}{2013}
+      \field{pages}{97\bibrangedash 118}
+      \range{pages}{22}
+      \verb{urlraw}
+      \verb http://isyou.info/jowua/papers/jowua-v4n3-6.pdf
+      \endverb
+      \verb{url}
+      \verb http://isyou.info/jowua/papers/jowua-v4n3-6.pdf
+      \endverb
+    \endentry
+    \entry{gitlab}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=49f6d0811ae78d21353b13921d05527a}{%
+           family={Kapoor},
+           familyi={K\bibinitperiod},
+           given={Abhishek},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{49f6d0811ae78d21353b13921d05527a}
+      \strng{fullhash}{49f6d0811ae78d21353b13921d05527a}
+      \strng{bibnamehash}{49f6d0811ae78d21353b13921d05527a}
+      \strng{authorbibnamehash}{49f6d0811ae78d21353b13921d05527a}
+      \strng{authornamehash}{49f6d0811ae78d21353b13921d05527a}
+      \strng{authorfullhash}{49f6d0811ae78d21353b13921d05527a}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{30}
+      \field{month}{5}
+      \field{title}{Chair of Connected Mobility}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://gitlab.lrz.de/cm/2018-akapoor-masters-analysis
+      \endverb
+      \verb{url}
+      \verb https://gitlab.lrz.de/cm/2018-akapoor-masters-analysis
+      \endverb
+    \endentry
+    \entry{topologysimon}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=94b26880bafa54d6fa53aafa3141114c}{%
+           family={Knight},
+           familyi={K\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=08274f5cd0e5af6c36f37394433be002}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Hung\bibnamedelima X.},
+           giveni={H\bibinitperiod\bibinitdelim X\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=61963aeac9253ae11ebf19f9f0ad6ba7}{%
+           family={Falkner},
+           familyi={F\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=823a5a7a325ceb5e4758cf4026296ed6}{%
+           family={Bowden},
+           familyi={B\bibinitperiod},
+           given={Rhys\bibnamedelima Alistair},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=32acfdd2bf0f9102b5ca11d775cec218}{%
+           family={Roughan},
+           familyi={R\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7dd9a1079a4434676b715eb3d50d140e}
+      \strng{fullhash}{7f47b0d8bd799efd29c60a0cc28c6b17}
+      \strng{bibnamehash}{7f47b0d8bd799efd29c60a0cc28c6b17}
+      \strng{authorbibnamehash}{7f47b0d8bd799efd29c60a0cc28c6b17}
+      \strng{authornamehash}{7dd9a1079a4434676b715eb3d50d140e}
+      \strng{authorfullhash}{7f47b0d8bd799efd29c60a0cc28c6b17}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Journal on Selected Areas in Communications}
+      \field{number}{9}
+      \field{title}{The Internet Topology Zoo}
+      \field{volume}{29}
+      \field{year}{2011}
+      \field{pages}{1765\bibrangedash 1775}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1109/JSAC.2011.111002
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/JSAC.2011.111002
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/JSAC.2011.111002
+      \endverb
+    \endentry
+    \entry{mlabfaq}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=3242c22fbfcbc7b5f15ceaf1d2499870}{%
+           family={Lab},
+           familyi={L\bibinitperiod},
+           given={Measurement},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3242c22fbfcbc7b5f15ceaf1d2499870}
+      \strng{fullhash}{3242c22fbfcbc7b5f15ceaf1d2499870}
+      \strng{bibnamehash}{3242c22fbfcbc7b5f15ceaf1d2499870}
+      \strng{authorbibnamehash}{3242c22fbfcbc7b5f15ceaf1d2499870}
+      \strng{authornamehash}{3242c22fbfcbc7b5f15ceaf1d2499870}
+      \strng{authorfullhash}{3242c22fbfcbc7b5f15ceaf1d2499870}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{4}
+      \field{title}{Why are my M-Lab results different from other speed tests?}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.measurementlab.net/faq/#why-are-my-m-lab-results-different-from-other-speed-tests
+      \endverb
+      \verb{url}
+      \verb https://www.measurementlab.net/faq/#why-are-my-m-lab-results-different-from-other-speed-tests
+      \endverb
+    \endentry
+    \entry{topologycraig}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=b59035f2a68f0418acd141f5acc76852}{%
+           family={Labovitz},
+           familyi={L\bibinitperiod},
+           given={Craig},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8eaff4c75577d446a5be1a93ad5601fe}{%
+           family={Iekel{-}Johnson},
+           familyi={I\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fcd2fb375e2f5a87b5eee517d5fcbb31}{%
+           family={McPherson},
+           familyi={M\bibinitperiod},
+           given={Danny},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0790bfec4968257b786c6afd659d0f11}{%
+           family={Oberheide},
+           familyi={O\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=de97f0af2a84f9e98dbad04f4b968181}{%
+           family={Jahanian},
+           familyi={J\bibinitperiod},
+           given={Farnam},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{21f935c653b4df20a8efc0025b0b0a74}
+      \strng{fullhash}{25beb27af419e3ce4e2a4410dbe62145}
+      \strng{bibnamehash}{25beb27af419e3ce4e2a4410dbe62145}
+      \strng{authorbibnamehash}{25beb27af419e3ce4e2a4410dbe62145}
+      \strng{authornamehash}{21f935c653b4df20a8efc0025b0b0a74}
+      \strng{authorfullhash}{25beb27af419e3ce4e2a4410dbe62145}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the {ACM} {SIGCOMM} 2010 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communications, New Delhi, India, August 30 -September 3, 2010}
+      \field{title}{Internet inter-domain traffic}
+      \field{year}{2010}
+      \field{pages}{75\bibrangedash 86}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/1851182.1851194
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.acm.org/10.1145/1851182.1851194
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/1851182.1851194
+      \endverb
+    \endentry
+    \entry{addressli}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=1,uniquepart=given,hash=7499be8710f1266382a7c5dc3d784017}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Fuliang},
+           giveni={F\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=e0351f466a0e0d04d8b1fbe7c26a557c}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Jiahai},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=1b63b17553e4134eb51a900392211f13}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xingwei},
+           giveni={X\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=bd9724468083d131f8457812fa107935}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Tian},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8e09e036c3b49326437f692e665b5ff9}{%
+           family={An},
+           familyi={A\bibinitperiod},
+           given={Changqing},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e520ebe82672efaa2067b1d7adf5ba8b}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jianping},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ba6e4aea320be2f0097d5ebb2715ac03}
+      \strng{fullhash}{e061778a1cf57fd41a8bbfc9671df5f2}
+      \strng{bibnamehash}{e061778a1cf57fd41a8bbfc9671df5f2}
+      \strng{authorbibnamehash}{e061778a1cf57fd41a8bbfc9671df5f2}
+      \strng{authornamehash}{ba6e4aea320be2f0097d5ebb2715ac03}
+      \strng{authorfullhash}{e061778a1cf57fd41a8bbfc9671df5f2}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Network and Computer Applications}
+      \field{title}{Characteristics analysis at prefix granularity: A case study in an IPv6 network}
+      \field{volume}{70}
+      \field{year}{2016}
+      \field{pages}{156\bibrangedash 170}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.jnca.2016.02.022
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.jnca.2016.02.022
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.jnca.2016.02.022
+      \endverb
+    \endentry
+    \entry{46li}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{uniquename=1,uniquepart=given,hash=f495cdda14989886bcfdb65c02b7a19d}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Qiang},
+           giveni={Q\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=5588f729660dbe4dbf5af3850f858ae3}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=13da3a5b49f660a0ab0c21bd30d01ed8}{%
+           family={Guan},
+           familyi={G\bibinitperiod},
+           given={Xiaohong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7070801583814524c7a2fcd9118828cc}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Qinghua},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{095eee7bc91af47fab3c90be1f840854}
+      \strng{fullhash}{095eee7bc91af47fab3c90be1f840854}
+      \strng{bibnamehash}{095eee7bc91af47fab3c90be1f840854}
+      \strng{authorbibnamehash}{095eee7bc91af47fab3c90be1f840854}
+      \strng{authornamehash}{095eee7bc91af47fab3c90be1f840854}
+      \strng{authorfullhash}{095eee7bc91af47fab3c90be1f840854}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 18th {IEEE} International Conference on Networks, {ICON} 2012, Singapore, December 12-14, 2012}
+      \field{title}{Empirical analysis and comparison of IPv4-IPv6 traffic: A case study on the campus network}
+      \field{year}{2012}
+      \field{pages}{395\bibrangedash 399}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/ICON.2012.6506590
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/ICON.2012.6506590
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/ICON.2012.6506590
+      \endverb
+    \endentry
+    \entry{skyuk}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=52534448f6d218eb4024ccacdc6e8a0b}{%
+           family={Limited},
+           familyi={L\bibinitperiod},
+           given={SKY\bibnamedelima UK},
+           giveni={S\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{52534448f6d218eb4024ccacdc6e8a0b}
+      \strng{fullhash}{52534448f6d218eb4024ccacdc6e8a0b}
+      \strng{bibnamehash}{52534448f6d218eb4024ccacdc6e8a0b}
+      \strng{authorbibnamehash}{52534448f6d218eb4024ccacdc6e8a0b}
+      \strng{authornamehash}{52534448f6d218eb4024ccacdc6e8a0b}
+      \strng{authorfullhash}{52534448f6d218eb4024ccacdc6e8a0b}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{2}
+      \field{title}{SKY UK Official Website}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.sky.com/
+      \endverb
+      \verb{url}
+      \verb https://www.sky.com/
+      \endverb
+    \endentry
+    \entry{ipv6ahmed}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=3bd26e00821f0cf4ec5787c8ec1d3b27}{%
+           family={Livadariu},
+           familyi={L\bibinitperiod},
+           given={Ioana},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=81d4a8574ddca70777e7760ed5dfda99}{%
+           family={Elmokashfi},
+           familyi={E\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=58a5bc577442cf78504e115c874bce14}{%
+           family={Dhamdhere},
+           familyi={D\bibinitperiod},
+           given={Amogh},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2070f4fe6f6ac1b37e23bf39156cce5b}
+      \strng{fullhash}{2070f4fe6f6ac1b37e23bf39156cce5b}
+      \strng{bibnamehash}{2070f4fe6f6ac1b37e23bf39156cce5b}
+      \strng{authorbibnamehash}{2070f4fe6f6ac1b37e23bf39156cce5b}
+      \strng{authornamehash}{2070f4fe6f6ac1b37e23bf39156cce5b}
+      \strng{authorfullhash}{2070f4fe6f6ac1b37e23bf39156cce5b}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{35th Annual {IEEE} International Conference on Computer Communications, {INFOCOM} 2016, San Francisco, CA, USA, April 10-14, 2016}
+      \field{title}{Characterizing IPv6 control and data plane stability}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/INFOCOM.2016.7524465
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/INFOCOM.2016.7524465
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/INFOCOM.2016.7524465
+      \endverb
+    \endentry
+    \entry{46liva}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=3bd26e00821f0cf4ec5787c8ec1d3b27}{%
+           family={Livadariu},
+           familyi={L\bibinitperiod},
+           given={Ioana},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=81d4a8574ddca70777e7760ed5dfda99}{%
+           family={Elmokashfi},
+           familyi={E\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=58a5bc577442cf78504e115c874bce14}{%
+           family={Dhamdhere},
+           familyi={D\bibinitperiod},
+           given={Amogh},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2070f4fe6f6ac1b37e23bf39156cce5b}
+      \strng{fullhash}{2070f4fe6f6ac1b37e23bf39156cce5b}
+      \strng{bibnamehash}{2070f4fe6f6ac1b37e23bf39156cce5b}
+      \strng{authorbibnamehash}{2070f4fe6f6ac1b37e23bf39156cce5b}
+      \strng{authornamehash}{2070f4fe6f6ac1b37e23bf39156cce5b}
+      \strng{authorfullhash}{2070f4fe6f6ac1b37e23bf39156cce5b}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{35th Annual {IEEE} International Conference on Computer Communications, {INFOCOM} 2016, San Francisco, CA, USA, April 10-14, 2016}
+      \field{title}{Characterizing IPv6 control and data plane stability}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/INFOCOM.2016.7524465
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/INFOCOM.2016.7524465
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/INFOCOM.2016.7524465
+      \endverb
+    \endentry
+    \entry{status2}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=1,uniquepart=given,hash=f51c750936d780686cd83d2686ed8318}{%
+           family={Luckie},
+           familyi={L\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{f51c750936d780686cd83d2686ed8318}
+      \strng{fullhash}{f51c750936d780686cd83d2686ed8318}
+      \strng{bibnamehash}{f51c750936d780686cd83d2686ed8318}
+      \strng{authorbibnamehash}{f51c750936d780686cd83d2686ed8318}
+      \strng{authornamehash}{f51c750936d780686cd83d2686ed8318}
+      \strng{authorfullhash}{f51c750936d780686cd83d2686ed8318}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{4}
+      \field{title}{Scamper data collection}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://mailman.caida.org/pipermail/scamper-dev/2004-July/000076.html
+      \endverb
+      \verb{url}
+      \verb https://mailman.caida.org/pipermail/scamper-dev/2004-July/000076.html
+      \endverb
+    \endentry
+    \entry{scamper}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{uniquename=1,uniquepart=given,hash=71cde155f72e476d9ffd2720552abb7c}{%
+           family={Luckie},
+           familyi={L\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{71cde155f72e476d9ffd2720552abb7c}
+      \strng{fullhash}{71cde155f72e476d9ffd2720552abb7c}
+      \strng{bibnamehash}{71cde155f72e476d9ffd2720552abb7c}
+      \strng{authorbibnamehash}{71cde155f72e476d9ffd2720552abb7c}
+      \strng{authornamehash}{71cde155f72e476d9ffd2720552abb7c}
+      \strng{authorfullhash}{71cde155f72e476d9ffd2720552abb7c}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 10th {ACM} {SIGCOMM} Internet Measurement Conference, {IMC} 2010, Melbourne, Australia - November 1-3, 2010}
+      \field{title}{Scamper: a scalable and extensible packet prober for active measurement of the internet}
+      \field{year}{2010}
+      \field{pages}{239\bibrangedash 245}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1145/1879141.1879171
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.acm.org/10.1145/1879141.1879171
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/1879141.1879171
+      \endverb
+    \endentry
+    \entry{status1}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{uniquename=1,uniquepart=given,hash=71cde155f72e476d9ffd2720552abb7c}{%
+           family={Luckie},
+           familyi={L\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=1,uniquepart=given,hash=2d71021270b1a631720bb4e2e3623098}{%
+           family={Hyun},
+           familyi={H\bibinitperiod},
+           given={Young},
+           giveni={Y\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=edad816245ed83531a7faced4c86b7fc}{%
+           family={Huffaker},
+           familyi={H\bibinitperiod},
+           given={Bradley},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0cdf5c656ac9d492b91fc703b9a0ecc8}
+      \strng{fullhash}{0cdf5c656ac9d492b91fc703b9a0ecc8}
+      \strng{bibnamehash}{0cdf5c656ac9d492b91fc703b9a0ecc8}
+      \strng{authorbibnamehash}{0cdf5c656ac9d492b91fc703b9a0ecc8}
+      \strng{authornamehash}{0cdf5c656ac9d492b91fc703b9a0ecc8}
+      \strng{authorfullhash}{0cdf5c656ac9d492b91fc703b9a0ecc8}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 8th {ACM} {SIGCOMM} Internet Measurement Conference, {IMC} 2008, Vouliagmeni, Greece, October 20-22, 2008}
+      \field{title}{Traceroute probe method and forward {IP} path inference}
+      \field{year}{2008}
+      \field{pages}{311\bibrangedash 324}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1145/1452520.1452557
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.acm.org/10.1145/1452520.1452557
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/1452520.1452557
+      \endverb
+    \endentry
+    \entry{addresslutu}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=bba7ecfc0e48a91091a6e494e825af37}{%
+           family={Lutu},
+           familyi={L\bibinitperiod},
+           given={Andra},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b7f65283636265f338c6b94867fdd837}{%
+           family={Bagnulo},
+           familyi={B\bibinitperiod},
+           given={Marcelo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3cbb4ae07679e6d8996e2d8a1ceb4858}{%
+           family={Pelsser},
+           familyi={P\bibinitperiod},
+           given={Cristel},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2fe1453a4afbb8eddbd62b3826b6c998}{%
+           family={Maennel},
+           familyi={M\bibinitperiod},
+           given={Olaf},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fddfbc93746ced0dc7c483ba808faa08}
+      \strng{fullhash}{fddfbc93746ced0dc7c483ba808faa08}
+      \strng{bibnamehash}{fddfbc93746ced0dc7c483ba808faa08}
+      \strng{authorbibnamehash}{fddfbc93746ced0dc7c483ba808faa08}
+      \strng{authornamehash}{fddfbc93746ced0dc7c483ba808faa08}
+      \strng{authorfullhash}{fddfbc93746ced0dc7c483ba808faa08}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Passive and Active Measurement - 15th International Conference, {PAM} 2014, Los Angeles, CA, USA, March 10-11, 2014, Proceedings}
+      \field{title}{Understanding the Reachability of IPv6 Limited Visibility Prefixes}
+      \field{year}{2014}
+      \field{pages}{163\bibrangedash 172}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/978-3-319-04918-2_16
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-319-04918-2_16
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-319-04918-2_16
+      \endverb
+    \endentry
+    \entry{martinnetflix}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=d92960ce8af51df6a98cb4d73cac8d45}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=52bbc5a606ac22e466228edc64bddafe}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Yunhui},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a64f7a8d984a926581f6ea74d88d9f46}{%
+           family={Wourms},
+           familyi={W\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bb63c28a57f960462731f43ac97c9c77}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Terry},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ec687656581f3b691af088804d5c6154}
+      \strng{fullhash}{ec687656581f3b691af088804d5c6154}
+      \strng{bibnamehash}{ec687656581f3b691af088804d5c6154}
+      \strng{authorbibnamehash}{ec687656581f3b691af088804d5c6154}
+      \strng{authornamehash}{ec687656581f3b691af088804d5c6154}
+      \strng{authorfullhash}{ec687656581f3b691af088804d5c6154}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{10th {IEEE} Consumer Communications and Networking Conference, {CCNC} 2013, Las Vegas, NV, USA, January 11-14, 2013}
+      \field{title}{Characterizing Netflix bandwidth consumption}
+      \field{year}{2013}
+      \field{pages}{230\bibrangedash 235}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/CCNC.2013.6488451
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/CCNC.2013.6488451
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/CCNC.2013.6488451
+      \endverb
+    \endentry
+    \entry{tum}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=ba68e42f8a05120154a39dd901ed1f67}{%
+           family={München},
+           familyi={M\bibinitperiod},
+           given={Technische\bibnamedelima Universität},
+           giveni={T\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ba68e42f8a05120154a39dd901ed1f67}
+      \strng{fullhash}{ba68e42f8a05120154a39dd901ed1f67}
+      \strng{bibnamehash}{ba68e42f8a05120154a39dd901ed1f67}
+      \strng{authorbibnamehash}{ba68e42f8a05120154a39dd901ed1f67}
+      \strng{authornamehash}{ba68e42f8a05120154a39dd901ed1f67}
+      \strng{authorfullhash}{ba68e42f8a05120154a39dd901ed1f67}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{5}
+      \field{title}{Chair of Connected Mobility}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://www.cm.in.tum.de/en/home/
+      \endverb
+      \verb{url}
+      \verb http://www.cm.in.tum.de/en/home/
+      \endverb
+    \endentry
+    \entry{fastcom}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=170b1d363bd8516fbf3a3eb05d4faff6}{%
+           family={Netflix},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{170b1d363bd8516fbf3a3eb05d4faff6}
+      \strng{fullhash}{170b1d363bd8516fbf3a3eb05d4faff6}
+      \strng{bibnamehash}{170b1d363bd8516fbf3a3eb05d4faff6}
+      \strng{authorbibnamehash}{170b1d363bd8516fbf3a3eb05d4faff6}
+      \strng{authornamehash}{170b1d363bd8516fbf3a3eb05d4faff6}
+      \strng{authorfullhash}{170b1d363bd8516fbf3a3eb05d4faff6}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{3}
+      \field{title}{Fast.com}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://fast.com/
+      \endverb
+      \verb{url}
+      \verb https://fast.com/
+      \endverb
+    \endentry
+    \entry{netflix}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=170b1d363bd8516fbf3a3eb05d4faff6}{%
+           family={Netflix},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{170b1d363bd8516fbf3a3eb05d4faff6}
+      \strng{fullhash}{170b1d363bd8516fbf3a3eb05d4faff6}
+      \strng{bibnamehash}{170b1d363bd8516fbf3a3eb05d4faff6}
+      \strng{authorbibnamehash}{170b1d363bd8516fbf3a3eb05d4faff6}
+      \strng{authornamehash}{170b1d363bd8516fbf3a3eb05d4faff6}
+      \strng{authorfullhash}{170b1d363bd8516fbf3a3eb05d4faff6}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{12}
+      \field{title}{Netflix Official Website}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.netflix.com/
+      \endverb
+      \verb{url}
+      \verb https://www.netflix.com/
+      \endverb
+    \endentry
+    \entry{ocaoverview}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=170b1d363bd8516fbf3a3eb05d4faff6}{%
+           family={Netflix},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{170b1d363bd8516fbf3a3eb05d4faff6}
+      \strng{fullhash}{170b1d363bd8516fbf3a3eb05d4faff6}
+      \strng{bibnamehash}{170b1d363bd8516fbf3a3eb05d4faff6}
+      \strng{authorbibnamehash}{170b1d363bd8516fbf3a3eb05d4faff6}
+      \strng{authornamehash}{170b1d363bd8516fbf3a3eb05d4faff6}
+      \strng{authorfullhash}{170b1d363bd8516fbf3a3eb05d4faff6}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{3}
+      \field{title}{Open Connect Overview}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://openconnect.netflix.com/Open-Connect-Overview.pdf
+      \endverb
+      \verb{url}
+      \verb https://openconnect.netflix.com/Open-Connect-Overview.pdf
+      \endverb
+    \endentry
+    \entry{mehdiprogress}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=6c0f35cf0b5f37ce384c2bc3288b7afb}{%
+           family={Nikkhah},
+           familyi={N\bibinitperiod},
+           given={Mehdi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6c0f35cf0b5f37ce384c2bc3288b7afb}
+      \strng{fullhash}{6c0f35cf0b5f37ce384c2bc3288b7afb}
+      \strng{bibnamehash}{6c0f35cf0b5f37ce384c2bc3288b7afb}
+      \strng{authorbibnamehash}{6c0f35cf0b5f37ce384c2bc3288b7afb}
+      \strng{authornamehash}{6c0f35cf0b5f37ce384c2bc3288b7afb}
+      \strng{authorfullhash}{6c0f35cf0b5f37ce384c2bc3288b7afb}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer Networks}
+      \field{title}{Maintaining the progress of IPv6 adoption}
+      \field{volume}{102}
+      \field{year}{2016}
+      \field{pages}{50\bibrangedash 69}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1016/j.comnet.2016.02.027
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.comnet.2016.02.027
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.comnet.2016.02.027
+      \endverb
+    \endentry
+    \entry{mehdicoordination}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=6c0f35cf0b5f37ce384c2bc3288b7afb}{%
+           family={Nikkhah},
+           familyi={N\bibinitperiod},
+           given={Mehdi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b02d868efdb7cadcee560caeed58e5cd}{%
+           family={Gu{é}rin},
+           familyi={G\bibinitperiod},
+           given={Roch},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{02a55bd4f1708231d85e3334225b7ee2}
+      \strng{fullhash}{02a55bd4f1708231d85e3334225b7ee2}
+      \strng{bibnamehash}{02a55bd4f1708231d85e3334225b7ee2}
+      \strng{authorbibnamehash}{02a55bd4f1708231d85e3334225b7ee2}
+      \strng{authornamehash}{02a55bd4f1708231d85e3334225b7ee2}
+      \strng{authorfullhash}{02a55bd4f1708231d85e3334225b7ee2}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2014 {IFIP} Networking Conference, Trondheim, Norway, June 2-4, 2014}
+      \field{title}{Migrating to Ipv6 - The role of basic coordination}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/IFIPNetworking.2014.6857119
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/IFIPNetworking.2014.6857119
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/IFIPNetworking.2014.6857119
+      \endverb
+    \endentry
+    \entry{ipv6mehdi}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=6c0f35cf0b5f37ce384c2bc3288b7afb}{%
+           family={Nikkhah},
+           familyi={N\bibinitperiod},
+           given={Mehdi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b02d868efdb7cadcee560caeed58e5cd}{%
+           family={Gu{é}rin},
+           familyi={G\bibinitperiod},
+           given={Roch},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=77af9f2e6f0c71887fad8ffc921facf4}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Yiu},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b298838d2b92d9844fa3aaaf8c46bf29}{%
+           family={Woundy},
+           familyi={W\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d393d26af42cec6a7aba8ad2efee9910}
+      \strng{fullhash}{d393d26af42cec6a7aba8ad2efee9910}
+      \strng{bibnamehash}{d393d26af42cec6a7aba8ad2efee9910}
+      \strng{authorbibnamehash}{d393d26af42cec6a7aba8ad2efee9910}
+      \strng{authornamehash}{d393d26af42cec6a7aba8ad2efee9910}
+      \strng{authorfullhash}{d393d26af42cec6a7aba8ad2efee9910}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2011 Conference on Emerging Networking Experiments and Technologies, Co-NEXT '11, Tokyo, Japan, December 6-9, 2011}
+      \field{title}{Assessing IPv6 through web access a measurement study and its findings}
+      \field{year}{2011}
+      \field{pages}{26}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1145/2079296.2079322
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.acm.org/10.1145/2079296.2079322
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2079296.2079322
+      \endverb
+    \endentry
+    \entry{whoregions}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=07025dc7a22c08e61d41e77563b30557}{%
+           family={Organization},
+           familyi={O\bibinitperiod},
+           given={World\bibnamedelima Health},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{07025dc7a22c08e61d41e77563b30557}
+      \strng{fullhash}{07025dc7a22c08e61d41e77563b30557}
+      \strng{bibnamehash}{07025dc7a22c08e61d41e77563b30557}
+      \strng{authorbibnamehash}{07025dc7a22c08e61d41e77563b30557}
+      \strng{authornamehash}{07025dc7a22c08e61d41e77563b30557}
+      \strng{authorfullhash}{07025dc7a22c08e61d41e77563b30557}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{11}
+      \field{title}{WHO Regions}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://www.who.int/about/regions/en/
+      \endverb
+      \verb{url}
+      \verb http://www.who.int/about/regions/en/
+      \endverb
+    \endentry
+    \entry{peeringdb}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=2b31107bad5cb3341b139041da0184ce}{%
+           family={PeeringDB},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{2b31107bad5cb3341b139041da0184ce}
+      \strng{fullhash}{2b31107bad5cb3341b139041da0184ce}
+      \strng{bibnamehash}{2b31107bad5cb3341b139041da0184ce}
+      \strng{authorbibnamehash}{2b31107bad5cb3341b139041da0184ce}
+      \strng{authornamehash}{2b31107bad5cb3341b139041da0184ce}
+      \strng{authorfullhash}{2b31107bad5cb3341b139041da0184ce}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{3}
+      \field{title}{AS Classification}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.peeringdb.com/
+      \endverb
+      \verb{url}
+      \verb https://www.peeringdb.com/
+      \endverb
+    \endentry
+    \entry{cc2}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=4d268051e3e6d47435f19f65bbf99936}{%
+           family={Poese},
+           familyi={P\bibinitperiod},
+           given={Ingmar},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=07b511f9a5f9149c3be1205ad023ce9e}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a65aaad0735617703570b9c9bd717308}{%
+           family={Ager},
+           familyi={A\bibinitperiod},
+           given={Bernhard},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=56fded7befb3875729495204823feadf}{%
+           family={Smaragdakis},
+           familyi={S\bibinitperiod},
+           given={Georgios},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a2f03739ecbec5fd41971c58f390f197}{%
+           family={Feldmann},
+           familyi={F\bibinitperiod},
+           given={Anja},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2649434df38faccce3fc3acdd45c27ee}
+      \strng{fullhash}{6e75f1356965cd9ddb0de6af7d98bc20}
+      \strng{bibnamehash}{6e75f1356965cd9ddb0de6af7d98bc20}
+      \strng{authorbibnamehash}{6e75f1356965cd9ddb0de6af7d98bc20}
+      \strng{authornamehash}{2649434df38faccce3fc3acdd45c27ee}
+      \strng{authorfullhash}{6e75f1356965cd9ddb0de6af7d98bc20}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 10th {ACM} {SIGCOMM} Internet Measurement Conference, {IMC} 2010, Melbourne, Australia - November 1-3, 2010}
+      \field{title}{Improving content delivery using provider-aided distance information}
+      \field{year}{2010}
+      \field{pages}{22\bibrangedash 34}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1145/1879141.1879145
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.acm.org/10.1145/1879141.1879145
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/1879141.1879145
+      \endverb
+    \endentry
+    \entry{dualpujol}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=c26f77a2435a3339deafdf1b1e972e3a}{%
+           family={Pujol},
+           familyi={P\bibinitperiod},
+           given={Enric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=39abbf88c9cffc3b287c24746b424b3c}{%
+           family={Richter},
+           familyi={R\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a2f03739ecbec5fd41971c58f390f197}{%
+           family={Feldmann},
+           familyi={F\bibinitperiod},
+           given={Anja},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1ce0779714405227b1d38f0fa2ff9ee4}
+      \strng{fullhash}{1ce0779714405227b1d38f0fa2ff9ee4}
+      \strng{bibnamehash}{1ce0779714405227b1d38f0fa2ff9ee4}
+      \strng{authorbibnamehash}{1ce0779714405227b1d38f0fa2ff9ee4}
+      \strng{authornamehash}{1ce0779714405227b1d38f0fa2ff9ee4}
+      \strng{authorfullhash}{1ce0779714405227b1d38f0fa2ff9ee4}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Passive and Active Measurement - 18th International Conference, {PAM} 2017, Sydney, NSW, Australia, March 30-31, 2017, Proceedings}
+      \field{title}{Understanding the Share of IPv6 Traffic in a Dual-Stack {ISP}}
+      \field{year}{2017}
+      \field{pages}{3\bibrangedash 16}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/978-3-319-54328-4_1
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-319-54328-4_1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-319-54328-4_1
+      \endverb
+    \endentry
+    \entry{he1}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=c26f77a2435a3339deafdf1b1e972e3a}{%
+           family={Pujol},
+           familyi={P\bibinitperiod},
+           given={Enric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=39abbf88c9cffc3b287c24746b424b3c}{%
+           family={Richter},
+           familyi={R\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a2f03739ecbec5fd41971c58f390f197}{%
+           family={Feldmann},
+           familyi={F\bibinitperiod},
+           given={Anja},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1ce0779714405227b1d38f0fa2ff9ee4}
+      \strng{fullhash}{1ce0779714405227b1d38f0fa2ff9ee4}
+      \strng{bibnamehash}{1ce0779714405227b1d38f0fa2ff9ee4}
+      \strng{authorbibnamehash}{1ce0779714405227b1d38f0fa2ff9ee4}
+      \strng{authornamehash}{1ce0779714405227b1d38f0fa2ff9ee4}
+      \strng{authorfullhash}{1ce0779714405227b1d38f0fa2ff9ee4}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Passive and Active Measurement - 18th International Conference, {PAM} 2017, Sydney, NSW, Australia, March 30-31, 2017, Proceedings}
+      \field{title}{Understanding the Share of IPv6 Traffic in a Dual-Stack {ISP}}
+      \field{year}{2017}
+      \field{pages}{3\bibrangedash 16}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/978-3-319-54328-4_1
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-319-54328-4_1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-319-54328-4_1
+      \endverb
+    \endentry
+    \entry{rfc2460}{misc}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=6c931d7796455058101c218802b65c9c}{%
+           family={Deering},
+           familyi={D\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=833a25d45957e39fe252f8ec59135fa0}{%
+           family={Hinden},
+           familyi={H\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {RFC Editor}%
+      }
+      \list{location}{1}{%
+        {Fremont, CA, USA}%
+      }
+      \list{organization}{1}{%
+        {RFC Editor}%
+      }
+      \list{publisher}{1}{%
+        {RFC Editor}%
+      }
+      \strng{namehash}{184dbafad09ffc8e0a15911c4219a912}
+      \strng{fullhash}{184dbafad09ffc8e0a15911c4219a912}
+      \strng{bibnamehash}{184dbafad09ffc8e0a15911c4219a912}
+      \strng{authorbibnamehash}{184dbafad09ffc8e0a15911c4219a912}
+      \strng{authornamehash}{184dbafad09ffc8e0a15911c4219a912}
+      \strng{authorfullhash}{184dbafad09ffc8e0a15911c4219a912}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This document specifies version 6 of the Internet Protocol (IPv6), also sometimes referred to as IP Next Generation or IPng. [STANDARDS-TRACK]}
+      \field{howpublished}{RFC 2460 (Draft Standard)}
+      \field{issn}{2070-1721}
+      \field{month}{12}
+      \field{note}{Obsoleted by RFC 8200, updated by RFCs 5095, 5722, 5871, 6437, 6564, 6935, 6946, 7045, 7112}
+      \field{number}{2460}
+      \field{series}{Internet Request for Comments}
+      \field{title}{{Internet Protocol, Version 6 (IPv6) Specification}}
+      \field{type}{RFC}
+      \field{year}{1998}
+      \field{pages}{1\bibrangedash 39}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.17487/RFC2460
+      \endverb
+      \verb{urlraw}
+      \verb https://www.rfc-editor.org/rfc/rfc2460.txt
+      \endverb
+      \verb{url}
+      \verb https://www.rfc-editor.org/rfc/rfc2460.txt
+      \endverb
+      \keyw{IPV6,internet,protocol,next,generation,ipng}
+    \endentry
+    \entry{rfc2616}{misc}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,uniquepart=base,hash=447143e16ba29e67a16b0b5813fc7cde}{%
+           family={Fielding},
+           familyi={F\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=317a7bd00f4884d348f9f9482fac24f0}{%
+           family={Gettys},
+           familyi={G\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f84ae078e171654e7453bf9d1b634f08}{%
+           family={Mogul},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e861df7b46cf7cf1119e355d304c4ff5}{%
+           family={Frystyk},
+           familyi={F\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2c65c9463cf643e809bb9e197caa2e75}{%
+           family={Masinter},
+           familyi={M\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f31bb1fe6ada0f168f038a61dd0a064a}{%
+           family={Leach},
+           familyi={L\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d3b04a4085a0f678d557954b0a80dd60}{%
+           family={Berners-Lee},
+           familyi={B\bibinithyphendelim L\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {RFC Editor}%
+      }
+      \list{location}{1}{%
+        {Fremont, CA, USA}%
+      }
+      \list{organization}{1}{%
+        {RFC Editor}%
+      }
+      \list{publisher}{1}{%
+        {RFC Editor}%
+      }
+      \strng{namehash}{c00e773925622f799b48aba6f5c32e19}
+      \strng{fullhash}{0b00fe9669a807ab03483168a41c3809}
+      \strng{bibnamehash}{0b00fe9669a807ab03483168a41c3809}
+      \strng{authorbibnamehash}{0b00fe9669a807ab03483168a41c3809}
+      \strng{authornamehash}{c00e773925622f799b48aba6f5c32e19}
+      \strng{authorfullhash}{0b00fe9669a807ab03483168a41c3809}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{HTTP has been in use by the World-Wide Web global information initiative since 1990. This specification defines the protocol referred to as ``HTTP/1.1'', and is an update to RFC 2068. [STANDARDS-TRACK]}
+      \field{howpublished}{RFC 2616 (Draft Standard)}
+      \field{issn}{2070-1721}
+      \field{month}{6}
+      \field{note}{Obsoleted by RFCs 7230, 7231, 7232, 7233, 7234, 7235, updated by RFCs 2817, 5785, 6266, 6585}
+      \field{number}{2616}
+      \field{series}{Internet Request for Comments}
+      \field{title}{{Hypertext Transfer Protocol -- HTTP/1.1}}
+      \field{type}{RFC}
+      \field{year}{1999}
+      \field{pages}{1\bibrangedash 176}
+      \range{pages}{176}
+      \verb{doi}
+      \verb 10.17487/RFC2616
+      \endverb
+      \verb{urlraw}
+      \verb https://www.rfc-editor.org/rfc/rfc2616.txt
+      \endverb
+      \verb{url}
+      \verb https://www.rfc-editor.org/rfc/rfc2616.txt
+      \endverb
+      \keyw{HTTP,World Wide Web,WWW,hypermedia}
+    \endentry
+    \entry{rfc3443}{misc}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=503d9dab134c272530e47bbeef28d916}{%
+           family={Agarwal},
+           familyi={A\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f9c3fca546f36db7c3415739cd58b3bb}{%
+           family={Akyol},
+           familyi={A\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {RFC Editor}%
+      }
+      \list{location}{1}{%
+        {Fremont, CA, USA}%
+      }
+      \list{organization}{1}{%
+        {RFC Editor}%
+      }
+      \list{publisher}{1}{%
+        {RFC Editor}%
+      }
+      \strng{namehash}{8384a4548aa6cb377f8c1b59a74484ae}
+      \strng{fullhash}{8384a4548aa6cb377f8c1b59a74484ae}
+      \strng{bibnamehash}{8384a4548aa6cb377f8c1b59a74484ae}
+      \strng{authorbibnamehash}{8384a4548aa6cb377f8c1b59a74484ae}
+      \strng{authornamehash}{8384a4548aa6cb377f8c1b59a74484ae}
+      \strng{authorfullhash}{8384a4548aa6cb377f8c1b59a74484ae}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This document describes Time To Live (TTL) processing in hierarchical Multi-Protocol Label Switching (MPLS) networks and is motivated by the need to formalize a TTL-transparent mode of operation for an MPLS label-switched path. It updates RFC 3032, ``MPLS Label Stack Encoding''. TTL processing in both Pipe and Uniform Model hierarchical tunnels are specified with examples for both ``push'' and ``pop'' cases. The document also complements RFC 3270, ``MPLS Support of Differentiated Services'' and ties together the terminology introduced in that document with TTL processing in hierarchical MPLS networks. [STANDARDS-TRACK]}
+      \field{howpublished}{RFC 3443 (Proposed Standard)}
+      \field{issn}{2070-1721}
+      \field{month}{1}
+      \field{note}{Updated by RFC 5462}
+      \field{number}{3443}
+      \field{series}{Internet Request for Comments}
+      \field{title}{{Time To Live (TTL) Processing in Multi-Protocol Label Switching (MPLS) Networks}}
+      \field{type}{RFC}
+      \field{year}{2003}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.17487/RFC3443
+      \endverb
+      \verb{urlraw}
+      \verb https://www.rfc-editor.org/rfc/rfc3443.txt
+      \endverb
+      \verb{url}
+      \verb https://www.rfc-editor.org/rfc/rfc3443.txt
+      \endverb
+      \keyw{label stack encoding,uniform model,pipe model}
+    \endentry
+    \entry{rfc6555}{misc}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=fe8ef0db4b24cce9c02bb231d2be60a1}{%
+           family={Wing},
+           familyi={W\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bc8ae1b212d72e4e23d50213f857a664}{%
+           family={Yourtchenko},
+           familyi={Y\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {RFC Editor}%
+      }
+      \list{location}{1}{%
+        {Fremont, CA, USA}%
+      }
+      \list{organization}{1}{%
+        {RFC Editor}%
+      }
+      \list{publisher}{1}{%
+        {RFC Editor}%
+      }
+      \strng{namehash}{2dc7fe77979493d67c83f28a1fd7a052}
+      \strng{fullhash}{2dc7fe77979493d67c83f28a1fd7a052}
+      \strng{bibnamehash}{2dc7fe77979493d67c83f28a1fd7a052}
+      \strng{authorbibnamehash}{2dc7fe77979493d67c83f28a1fd7a052}
+      \strng{authornamehash}{2dc7fe77979493d67c83f28a1fd7a052}
+      \strng{authorfullhash}{2dc7fe77979493d67c83f28a1fd7a052}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{When a server's IPv4 path and protocol are working, but the server's IPv6 path and protocol are not working, a dual-stack client application experiences significant connection delay compared to an IPv4-only client. This is undesirable because it causes the dual- stack client to have a worse user experience. This document specifies requirements for algorithms that reduce this user-visible delay and provides an algorithm. [STANDARDS-TRACK]}
+      \field{howpublished}{RFC 6555 (Proposed Standard)}
+      \field{issn}{2070-1721}
+      \field{month}{4}
+      \field{note}{Obsoleted by RFC 8305}
+      \field{number}{6555}
+      \field{series}{Internet Request for Comments}
+      \field{title}{{Happy Eyeballs: Success with Dual-Stack Hosts}}
+      \field{type}{RFC}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.17487/RFC6555
+      \endverb
+      \verb{urlraw}
+      \verb https://www.rfc-editor.org/rfc/rfc6555.txt
+      \endverb
+      \verb{url}
+      \verb https://www.rfc-editor.org/rfc/rfc6555.txt
+      \endverb
+    \endentry
+    \entry{rfc6724}{misc}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=eb943d5c977ccaf19f0332706e653e1c}{%
+           family={{Thaler (Ed.)}},
+           familyi={T\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=29853cc7b74b6e0a486f7d8f54e16f5f}{%
+           family={Draves},
+           familyi={D\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b62112120068add218e52b83128820d5}{%
+           family={Matsumoto},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=117e024834fb181f35e60eaf2a255eae}{%
+           family={Chown},
+           familyi={C\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {RFC Editor}%
+      }
+      \list{location}{1}{%
+        {Fremont, CA, USA}%
+      }
+      \list{organization}{1}{%
+        {RFC Editor}%
+      }
+      \list{publisher}{1}{%
+        {RFC Editor}%
+      }
+      \strng{namehash}{a2b419c4e1311b22c3014aa3a1cd4dd0}
+      \strng{fullhash}{a2b419c4e1311b22c3014aa3a1cd4dd0}
+      \strng{bibnamehash}{a2b419c4e1311b22c3014aa3a1cd4dd0}
+      \strng{authorbibnamehash}{a2b419c4e1311b22c3014aa3a1cd4dd0}
+      \strng{authornamehash}{a2b419c4e1311b22c3014aa3a1cd4dd0}
+      \strng{authorfullhash}{a2b419c4e1311b22c3014aa3a1cd4dd0}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This document describes two algorithms, one for source address selection and one for destination address selection. The algorithms specify default behavior for all Internet Protocol version 6 (IPv6) implementations. They do not override choices made by applications or upper-layer protocols, nor do they preclude the development of more advanced mechanisms for address selection. The two algorithms share a common context, including an optional mechanism for allowing administrators to provide policy that can override the default behavior. In dual-stack implementations, the destination address selection algorithm can consider both IPv4 and IPv6 addresses -- depending on the available source addresses, the algorithm might prefer IPv6 addresses over IPv4 addresses, or vice versa. Default address selection as defined in this specification applies to all IPv6 nodes, including both hosts and routers. This document obsoletes RFC 3484. [STANDARDS-TRACK]}
+      \field{howpublished}{RFC 6724 (Proposed Standard)}
+      \field{issn}{2070-1721}
+      \field{month}{9}
+      \field{number}{6724}
+      \field{series}{Internet Request for Comments}
+      \field{title}{{Default Address Selection for Internet Protocol Version 6 (IPv6)}}
+      \field{type}{RFC}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 32}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.17487/RFC6724
+      \endverb
+      \verb{urlraw}
+      \verb https://www.rfc-editor.org/rfc/rfc6724.txt
+      \endverb
+      \verb{url}
+      \verb https://www.rfc-editor.org/rfc/rfc6724.txt
+      \endverb
+      \keyw{source,destination,sort,sorting}
+    \endentry
+    \entry{rfc791}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=88dbbe3e4d39db7b8c935a7fc792eb10}{%
+           family={Postel},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {RFC Editor}%
+      }
+      \list{location}{1}{%
+        {Fremont, CA, USA}%
+      }
+      \list{organization}{1}{%
+        {RFC Editor}%
+      }
+      \list{publisher}{1}{%
+        {RFC Editor}%
+      }
+      \strng{namehash}{88dbbe3e4d39db7b8c935a7fc792eb10}
+      \strng{fullhash}{88dbbe3e4d39db7b8c935a7fc792eb10}
+      \strng{bibnamehash}{88dbbe3e4d39db7b8c935a7fc792eb10}
+      \strng{authorbibnamehash}{88dbbe3e4d39db7b8c935a7fc792eb10}
+      \strng{authornamehash}{88dbbe3e4d39db7b8c935a7fc792eb10}
+      \strng{authorfullhash}{88dbbe3e4d39db7b8c935a7fc792eb10}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{RFC 791 (Internet Standard)}
+      \field{issn}{2070-1721}
+      \field{month}{9}
+      \field{note}{Updated by RFCs 1349, 2474, 6864}
+      \field{number}{791}
+      \field{series}{Internet Request for Comments}
+      \field{title}{{Internet Protocol}}
+      \field{type}{RFC}
+      \field{year}{1981}
+      \field{pages}{1\bibrangedash 51}
+      \range{pages}{51}
+      \verb{doi}
+      \verb 10.17487/RFC0791
+      \endverb
+      \verb{urlraw}
+      \verb https://www.rfc-editor.org/rfc/rfc791.txt
+      \endverb
+      \verb{url}
+      \verb https://www.rfc-editor.org/rfc/rfc791.txt
+      \endverb
+      \keyw{IP,IPv4}
+    \endentry
+    \entry{rfc8200}{misc}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=6c931d7796455058101c218802b65c9c}{%
+           family={Deering},
+           familyi={D\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=833a25d45957e39fe252f8ec59135fa0}{%
+           family={Hinden},
+           familyi={H\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {RFC Editor}%
+      }
+      \list{location}{1}{%
+        {Fremont, CA, USA}%
+      }
+      \list{organization}{1}{%
+        {RFC Editor}%
+      }
+      \list{publisher}{1}{%
+        {RFC Editor}%
+      }
+      \strng{namehash}{184dbafad09ffc8e0a15911c4219a912}
+      \strng{fullhash}{184dbafad09ffc8e0a15911c4219a912}
+      \strng{bibnamehash}{184dbafad09ffc8e0a15911c4219a912}
+      \strng{authorbibnamehash}{184dbafad09ffc8e0a15911c4219a912}
+      \strng{authornamehash}{184dbafad09ffc8e0a15911c4219a912}
+      \strng{authorfullhash}{184dbafad09ffc8e0a15911c4219a912}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This document specifies version 6 of the Internet Protocol (IPv6). It obsoletes RFC 2460.}
+      \field{howpublished}{RFC 8200 (Internet Standard)}
+      \field{issn}{2070-1721}
+      \field{month}{7}
+      \field{number}{8200}
+      \field{series}{Internet Request for Comments}
+      \field{title}{{Internet Protocol, Version 6 (IPv6) Specification}}
+      \field{type}{RFC}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 42}
+      \range{pages}{42}
+      \verb{doi}
+      \verb 10.17487/RFC8200
+      \endverb
+      \verb{urlraw}
+      \verb https://www.rfc-editor.org/rfc/rfc8200.txt
+      \endverb
+      \verb{url}
+      \verb https://www.rfc-editor.org/rfc/rfc8200.txt
+      \endverb
+      \keyw{IPv6,internet,protocol,next,generation,ipng,flow label}
+    \endentry
+    \entry{httperror}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=8d79c77541316cc76c791596f52ba87c}{%
+           family={RFC2616},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{8d79c77541316cc76c791596f52ba87c}
+      \strng{fullhash}{8d79c77541316cc76c791596f52ba87c}
+      \strng{bibnamehash}{8d79c77541316cc76c791596f52ba87c}
+      \strng{authorbibnamehash}{8d79c77541316cc76c791596f52ba87c}
+      \strng{authornamehash}{8d79c77541316cc76c791596f52ba87c}
+      \strng{authorfullhash}{8d79c77541316cc76c791596f52ba87c}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{12}
+      \field{title}{HTTP Status Codes}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+      \endverb
+    \endentry
+    \entry{ripestat}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=a88da4064f67fb76d95469f6354f4ead}{%
+           family={RIPE},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{a88da4064f67fb76d95469f6354f4ead}
+      \strng{fullhash}{a88da4064f67fb76d95469f6354f4ead}
+      \strng{bibnamehash}{a88da4064f67fb76d95469f6354f4ead}
+      \strng{authorbibnamehash}{a88da4064f67fb76d95469f6354f4ead}
+      \strng{authornamehash}{a88da4064f67fb76d95469f6354f4ead}
+      \strng{authorfullhash}{a88da4064f67fb76d95469f6354f4ead}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{20}
+      \field{month}{12}
+      \field{title}{RIPE NCC - Stats}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://stat.ripe.net/
+      \endverb
+      \verb{url}
+      \verb https://stat.ripe.net/
+      \endverb
+    \endentry
+    \entry{ripeatlas}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=a88da4064f67fb76d95469f6354f4ead}{%
+           family={RIPE},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{a88da4064f67fb76d95469f6354f4ead}
+      \strng{fullhash}{a88da4064f67fb76d95469f6354f4ead}
+      \strng{bibnamehash}{a88da4064f67fb76d95469f6354f4ead}
+      \strng{authorbibnamehash}{a88da4064f67fb76d95469f6354f4ead}
+      \strng{authornamehash}{a88da4064f67fb76d95469f6354f4ead}
+      \strng{authorfullhash}{a88da4064f67fb76d95469f6354f4ead}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{20}
+      \field{month}{1}
+      \field{title}{RIPE NCC - Stats}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://atlas.ripe.net/
+      \endverb
+      \verb{url}
+      \verb https://atlas.ripe.net/
+      \endverb
+    \endentry
+    \entry{samknows}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e25b4105f4402b6620723aa3e547f088}{%
+           family={SamKnows},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e25b4105f4402b6620723aa3e547f088}
+      \strng{fullhash}{e25b4105f4402b6620723aa3e547f088}
+      \strng{bibnamehash}{e25b4105f4402b6620723aa3e547f088}
+      \strng{authorbibnamehash}{e25b4105f4402b6620723aa3e547f088}
+      \strng{authornamehash}{e25b4105f4402b6620723aa3e547f088}
+      \strng{authorfullhash}{e25b4105f4402b6620723aa3e547f088}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{5}
+      \field{title}{SamKnows}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.samknows.com/
+      \endverb
+      \verb{url}
+      \verb https://www.samknows.com/
+      \endverb
+    \endentry
+    \entry{samknowswhitepaper}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e25b4105f4402b6620723aa3e547f088}{%
+           family={SamKnows},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e25b4105f4402b6620723aa3e547f088}
+      \strng{fullhash}{e25b4105f4402b6620723aa3e547f088}
+      \strng{bibnamehash}{e25b4105f4402b6620723aa3e547f088}
+      \strng{authorbibnamehash}{e25b4105f4402b6620723aa3e547f088}
+      \strng{authornamehash}{e25b4105f4402b6620723aa3e547f088}
+      \strng{authorfullhash}{e25b4105f4402b6620723aa3e547f088}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{12}
+      \field{title}{SAMKNOWS TEST METHODOLOGY Methodology and technical information relating to the SamKnows testing platform.}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://files.samknows.com/~whitepapers/SQ301-005-EN-Test-Suite-Whitepaper-4.pdf
+      \endverb
+      \verb{url}
+      \verb https://files.samknows.com/~whitepapers/SQ301-005-EN-Test-Suite-Whitepaper-4.pdf
+      \endverb
+    \endentry
+    \entry{sandvine}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=fe252893738401afc0afb57cccfcc212}{%
+           family={Sandvine},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe252893738401afc0afb57cccfcc212}
+      \strng{fullhash}{fe252893738401afc0afb57cccfcc212}
+      \strng{bibnamehash}{fe252893738401afc0afb57cccfcc212}
+      \strng{authorbibnamehash}{fe252893738401afc0afb57cccfcc212}
+      \strng{authornamehash}{fe252893738401afc0afb57cccfcc212}
+      \strng{authorfullhash}{fe252893738401afc0afb57cccfcc212}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{30}
+      \field{month}{4}
+      \field{title}{2016 Global Internet Phenomena}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.sandvine.com/hubfs/downloads/archive/2016-global-internet-phenomena-report-latin-america-and-north-america.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.sandvine.com/hubfs/downloads/archive/2016-global-internet-phenomena-report-latin-america-and-north-america.pdf
+      \endverb
+    \endentry
+    \entry{sarraripv6}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=a822f5cd26486de5e98f98f21b65a9bd}{%
+           family={Sarrar},
+           familyi={S\bibinitperiod},
+           given={Nadi},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=238b1ef8e0f247d167e1361e4db003b4}{%
+           family={Maier},
+           familyi={M\bibinitperiod},
+           given={Gregor},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a65aaad0735617703570b9c9bd717308}{%
+           family={Ager},
+           familyi={A\bibinitperiod},
+           given={Bernhard},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=89e69b54791d2b34a5291052b4238fae}{%
+           family={Sommer},
+           familyi={S\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dca47f4b18518e82eda22c0ad4f297c7}{%
+           family={Uhlig},
+           familyi={U\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2a78a46707b2a625b8214cccca1745a7}
+      \strng{fullhash}{2720351010daa4f16ec84f5eb25a4ed3}
+      \strng{bibnamehash}{2720351010daa4f16ec84f5eb25a4ed3}
+      \strng{authorbibnamehash}{2720351010daa4f16ec84f5eb25a4ed3}
+      \strng{authornamehash}{2a78a46707b2a625b8214cccca1745a7}
+      \strng{authorfullhash}{2720351010daa4f16ec84f5eb25a4ed3}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Passive and Active Measurement - 13th International Conference, {PAM} 2012, Vienna, Austria, March 12-14th, 2012. Proceedings}
+      \field{title}{Investigating IPv6 Traffic - What Happened at the World IPv6 Day?}
+      \field{year}{2012}
+      \field{pages}{11\bibrangedash 20}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/978-3-642-28537-0_2
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-642-28537-0_2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-642-28537-0_2
+      \endverb
+    \endentry
+    \entry{tunnelbroker}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=14b64ddcb7acecd73091c8b8d37b52ab}{%
+           family={Services},
+           familyi={S\bibinitperiod},
+           given={Hurrican\bibnamedelimb Electric\bibnamedelima Internet},
+           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{14b64ddcb7acecd73091c8b8d37b52ab}
+      \strng{fullhash}{14b64ddcb7acecd73091c8b8d37b52ab}
+      \strng{bibnamehash}{14b64ddcb7acecd73091c8b8d37b52ab}
+      \strng{authorbibnamehash}{14b64ddcb7acecd73091c8b8d37b52ab}
+      \strng{authornamehash}{14b64ddcb7acecd73091c8b8d37b52ab}
+      \strng{authorfullhash}{14b64ddcb7acecd73091c8b8d37b52ab}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{30}
+      \field{month}{1}
+      \field{title}{IPv6 Tunnel Broker}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.tunnelbroker.net/
+      \endverb
+      \verb{url}
+      \verb https://www.tunnelbroker.net/
+      \endverb
+    \endentry
+    \entry{btuk}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e3148e1f7f30876e30ff737947adb824}{%
+           family={Telecommunications},
+           familyi={T\bibinitperiod},
+           given={British},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e3148e1f7f30876e30ff737947adb824}
+      \strng{fullhash}{e3148e1f7f30876e30ff737947adb824}
+      \strng{bibnamehash}{e3148e1f7f30876e30ff737947adb824}
+      \strng{authorbibnamehash}{e3148e1f7f30876e30ff737947adb824}
+      \strng{authornamehash}{e3148e1f7f30876e30ff737947adb824}
+      \strng{authorfullhash}{e3148e1f7f30876e30ff737947adb824}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{2}
+      \field{title}{British TelecommunicationsOfficial Website}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://home.bt.com/
+      \endverb
+      \verb{url}
+      \verb http://home.bt.com/
+      \endverb
+    \endentry
+    \entry{mlabtool}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=159f2a57b704445b3e2ef69e6ad4ed44}{%
+           family={Tool},
+           familyi={T\bibinitperiod},
+           given={Measurement\bibnamedelimb Lab\bibnamedelimb Network\bibnamedelima Diagnostic},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{159f2a57b704445b3e2ef69e6ad4ed44}
+      \strng{fullhash}{159f2a57b704445b3e2ef69e6ad4ed44}
+      \strng{bibnamehash}{159f2a57b704445b3e2ef69e6ad4ed44}
+      \strng{authorbibnamehash}{159f2a57b704445b3e2ef69e6ad4ed44}
+      \strng{authornamehash}{159f2a57b704445b3e2ef69e6ad4ed44}
+      \strng{authorfullhash}{159f2a57b704445b3e2ef69e6ad4ed44}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{4}
+      \field{title}{Network Diagnostic Tool}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.measurementlab.net/tests/ndt/
+      \endverb
+      \verb{url}
+      \verb https://www.measurementlab.net/tests/ndt/
+      \endverb
+    \endentry
+    \entry{loststars}{online}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=45df7356829da0de0baa5defed7a5cbc}{%
+           family={Trenaman},
+           familyi={T\bibinitperiod},
+           given={Nathalie},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a710381d51663ca80e9c83beb98de242}{%
+           family={Kiessling},
+           familyi={K\bibinitperiod},
+           given={Arne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=307bc44f3bae641fbf09cfeab2f97ff2}{%
+           family={Wilhelm},
+           familyi={W\bibinitperiod},
+           given={Rene},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b6d5331d84503d990ba8a5833d1fdf2f}
+      \strng{fullhash}{b6d5331d84503d990ba8a5833d1fdf2f}
+      \strng{bibnamehash}{b6d5331d84503d990ba8a5833d1fdf2f}
+      \strng{authorbibnamehash}{b6d5331d84503d990ba8a5833d1fdf2f}
+      \strng{authornamehash}{b6d5331d84503d990ba8a5833d1fdf2f}
+      \strng{authorfullhash}{b6d5331d84503d990ba8a5833d1fdf2f}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{30}
+      \field{month}{1}
+      \field{title}{“Lost Stars” Why Operators Switch Off IPv6}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nanog.org/sites/default/files/Aben_Lost_Stars_-_v1.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.nanog.org/sites/default/files/Aben_Lost_Stars_-_v1.pdf
+      \endverb
+    \endentry
+    \entry{cc1}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{uniquename=1,uniquepart=given,hash=76fe526dee4fa119f96fe9818abdace8}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yonggong},
+           giveni={Y\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=1,uniquepart=given,hash=2417ebd22656cf191aa499af3b5bd956}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhenyu},
+           giveni={Z\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=1a658b812e3374b348ad6585d05af4d6}{%
+           family={Tyson},
+           familyi={T\bibinitperiod},
+           given={Gareth},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dca47f4b18518e82eda22c0ad4f297c7}{%
+           family={Uhlig},
+           familyi={U\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c072e5a6de5664c0f547cc49304d757c}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Gaogang},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e7bd6d21d2d7a0a033516f7cd3020fba}
+      \strng{fullhash}{0e548d91211749989d70440fc62e8ea1}
+      \strng{bibnamehash}{0e548d91211749989d70440fc62e8ea1}
+      \strng{authorbibnamehash}{0e548d91211749989d70440fc62e8ea1}
+      \strng{authornamehash}{e7bd6d21d2d7a0a033516f7cd3020fba}
+      \strng{authorfullhash}{0e548d91211749989d70440fc62e8ea1}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2013 21st {IEEE} International Conference on Network Protocols, {ICNP} 2013, G{ö}ttingen, Germany, October 7-10, 2013}
+      \field{title}{Optimal cache allocation for Content-Centric Networking}
+      \field{year}{2013}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/ICNP.2013.6733577
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/ICNP.2013.6733577
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/ICNP.2013.6733577
+      \endverb
+    \endentry
+    \entry{ipv6transition}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=1,uniquepart=given,hash=8ee2464c666949638e7727e1d1d00985}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=7f5c485f091d4d6ec80b92b0dc5f0fce}{%
+           family={Cui},
+           familyi={C\bibinitperiod},
+           given={Yong},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=e520ebe82672efaa2067b1d7adf5ba8b}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jianping},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=7b6ee7253d0b6ff8d31a7d6daed3d88e}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jiangchuan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b020bb8cd82078536eaad0dc29e0bf48}{%
+           family={Metz},
+           familyi={M\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8b2b96c4d6da7ae5bdb1abacac10df89}
+      \strng{fullhash}{c127b95012c8cf9404e0e9ff88f60b10}
+      \strng{bibnamehash}{c127b95012c8cf9404e0e9ff88f60b10}
+      \strng{authorbibnamehash}{c127b95012c8cf9404e0e9ff88f60b10}
+      \strng{authornamehash}{8b2b96c4d6da7ae5bdb1abacac10df89}
+      \strng{authorfullhash}{c127b95012c8cf9404e0e9ff88f60b10}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Communications Surveys and Tutorials}
+      \field{number}{3}
+      \field{title}{Transition from IPv4 to IPv6: A State-of-the-Art Survey}
+      \field{volume}{15}
+      \field{year}{2013}
+      \field{pages}{1407\bibrangedash 1424}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1109/SURV.2012.110112.00200
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/SURV.2012.110112.00200
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/SURV.2012.110112.00200
+      \endverb
+    \endentry
+    \entry{46wu}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=1,uniquepart=given,hash=8f7af25d02b85073e6507c5bfe0520ce}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Yingjiao},
+           giveni={Y\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=0db8a2b2935f785d58b7031f843ebfeb}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Xiaoqing},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ea06ec4a8b60e92c8ae0f9be203aa9c3}
+      \strng{fullhash}{ea06ec4a8b60e92c8ae0f9be203aa9c3}
+      \strng{bibnamehash}{ea06ec4a8b60e92c8ae0f9be203aa9c3}
+      \strng{authorbibnamehash}{ea06ec4a8b60e92c8ae0f9be203aa9c3}
+      \strng{authornamehash}{ea06ec4a8b60e92c8ae0f9be203aa9c3}
+      \strng{authorfullhash}{ea06ec4a8b60e92c8ae0f9be203aa9c3}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2011 6th International Conference on Computer Science & Education (ICCSE)}
+      \field{title}{Research on the IPv6 performance analysis based on dual-protocol stack and tunnel transition}
+      \field{year}{2011}
+    \endentry
+    \entry{he5}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=1,uniquepart=given,hash=8f7af25d02b85073e6507c5bfe0520ce}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Yingjiao},
+           giveni={Y\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=0db8a2b2935f785d58b7031f843ebfeb}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Xiaoqing},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ea06ec4a8b60e92c8ae0f9be203aa9c3}
+      \strng{fullhash}{ea06ec4a8b60e92c8ae0f9be203aa9c3}
+      \strng{bibnamehash}{ea06ec4a8b60e92c8ae0f9be203aa9c3}
+      \strng{authorbibnamehash}{ea06ec4a8b60e92c8ae0f9be203aa9c3}
+      \strng{authornamehash}{ea06ec4a8b60e92c8ae0f9be203aa9c3}
+      \strng{authorfullhash}{ea06ec4a8b60e92c8ae0f9be203aa9c3}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{6th International Conference on Computer Science and Education ICCSE}
+      \field{title}{Research on the IPv6 performance analysis based on dual-protocol stack and tunnel transition}
+      \field{year}{2011}
+      \field{pages}{1091\bibrangedash 1093}
+      \range{pages}{3}
+    \endentry
+    \entry{46zhou}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=a9e8b27d3b13ec7995e59f78837390bc}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Xiaoming},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=335f82de64b60cfce17cb8c8d70acd76}{%
+           family={Mieghem},
+           familyi={M\bibinitperiod},
+           given={Piet\bibnamedelima Van},
+           giveni={P\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e6de5fbb167a465580a5658300471ea4}
+      \strng{fullhash}{e6de5fbb167a465580a5658300471ea4}
+      \strng{bibnamehash}{e6de5fbb167a465580a5658300471ea4}
+      \strng{authorbibnamehash}{e6de5fbb167a465580a5658300471ea4}
+      \strng{authornamehash}{e6de5fbb167a465580a5658300471ea4}
+      \strng{authorfullhash}{e6de5fbb167a465580a5658300471ea4}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Passive and Active Network Measurement, 6th International Workshop, {PAM} 2005, Boston, MA, USA, March 31 - April 1, 2005, Proceedings}
+      \field{title}{Hopcount and {E2E} Delay: IPv6 Versus IPv4}
+      \field{year}{2005}
+      \field{pages}{345\bibrangedash 348}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1007/978-3-540-31966-5_31
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-540-31966-5_31
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-540-31966-5_31
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{netflixoca}
+\endrefsection
+\endinput
+

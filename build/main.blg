@@ -1,0 +1,56 @@
+[8] Config.pm:302> INFO - This is Biber 2.9
+[11] Config.pm:305> INFO - Logfile is 'build/main.blg'
+[279] biber-MSWIN64:313> INFO - === 
+[585] Biber.pm:371> INFO - Reading 'build/main.bcf'
+[1519] Biber.pm:857> INFO - Found 103 citekeys in bib section 0
+[1670] Biber.pm:3981> INFO - Processing section 0
+[1874] Biber.pm:4154> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[1992] bibtex.pm:1479> INFO - LaTeX decoding ...
+[2990] bibtex.pm:1305> INFO - Found BibTeX data source 'bibliography.bib'
+[7069] Utils.pm:169> WARN - I didn't find a database entry for 'netflixoca' (section 0)
+[7095] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/sigcomm/2011' in entry 'hourglass' - ignoring (section 0)
+[7097] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/icnp/2013' in entry 'cc1' - ignoring (section 0)
+[7099] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/imc/2010' in entry 'cc2' - ignoring (section 0)
+[7101] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/networking/2014' in entry 'cc4' - ignoring (section 0)
+[7102] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/infocom/2011' in entry 'cc5' - ignoring (section 0)
+[7104] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/conext/2011' in entry 'ipv6mehdi' - ignoring (section 0)
+[7105] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/infocom/2016' in entry 'ipv6ahmed' - ignoring (section 0)
+[7107] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/pam/2008' in entry 'internetflat' - ignoring (section 0)
+[7108] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/pam/2015' in entry 'ipv6matthew' - ignoring (section 0)
+[7110] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/pam/2012' in entry 'sarraripv6' - ignoring (section 0)
+[7111] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/pam/2010' in entry 'colittiipv6' - ignoring (section 0)
+[7112] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/imc/2012' in entry 'dhamdhereipv6' - ignoring (section 0)
+[7113] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/networking/2014' in entry 'mehdicoordination' - ignoring (section 0)
+[7115] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/sigcomm/2014' in entry 'jakubipv6' - ignoring (section 0)
+[7117] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/conext/2010' in entry 'dhamdhereflat' - ignoring (section 0)
+[7118] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/sigcomm/2010' in entry 'topologycraig' - ignoring (section 0)
+[7120] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/imc/2007' in entry 'internetbrice' - ignoring (section 0)
+[7121] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/imc/2010' in entry 'scamper' - ignoring (section 0)
+[7123] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/pam/2017' in entry 'loadrafael' - ignoring (section 0)
+[7125] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/infocom/2014' in entry 'cachehasan' - ignoring (section 0)
+[7127] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/pam/2017' in entry 'dualpujol' - ignoring (section 0)
+[7128] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/anrw/2016' in entry 'bajpaihappy' - ignoring (section 0)
+[7130] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/pam/2005' in entry '46zhou' - ignoring (section 0)
+[7131] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/icon/2012' in entry '46li' - ignoring (section 0)
+[7132] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/pam/2015' in entry '46giotsas' - ignoring (section 0)
+[7134] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/networking/2015' in entry '46bajpai' - ignoring (section 0)
+[7136] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/apnoms/2015' in entry '46hyun' - ignoring (section 0)
+[7137] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/infocom/2016' in entry '46liva' - ignoring (section 0)
+[7139] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/pam/2014' in entry 'addresslutu' - ignoring (section 0)
+[7140] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/pam/2015' in entry 'addressbeverly' - ignoring (section 0)
+[7141] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/pam/2015' in entry 'beverly2' - ignoring (section 0)
+[7143] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/infocom/2012' in entry 'adhikarinetflix' - ignoring (section 0)
+[7145] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/ccnc/2013' in entry 'martinnetflix' - ignoring (section 0)
+[7146] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/imc/2007' in entry 'paris' - ignoring (section 0)
+[7148] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/imc/2008' in entry 'status1' - ignoring (section 0)
+[7149] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/pam/2017' in entry 'he1' - ignoring (section 0)
+[7150] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/pam/2015' in entry 'he2' - ignoring (section 0)
+[7152] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/imc/2012' in entry 'he3' - ignoring (section 0)
+[7153] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/pam/2015' in entry 'bajpaipam' - ignoring (section 0)
+[8133] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[8133] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[8134] Biber.pm:3809> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[8134] Biber.pm:3815> INFO - No sort tailoring available for locale 'en-US'
+[9117] bbl.pm:617> INFO - Writing 'build/main.bbl' with encoding 'UTF-8'
+[9603] bbl.pm:720> INFO - Output to build/main.bbl
+[9621] Biber.pm:110> INFO - WARNINGS: 40

@@ -1,0 +1,39 @@
+ \begin{titlepage}
+  \centering
+  %\oTUM{35mm}	
+  \IfFileExists{logos/tum.pdf}{%
+    \includegraphics[height=20mm]{logos/tum.pdf}
+  }{%
+    \vspace*{20mm}
+  }
+
+  \vspace{5mm}
+  {\large\MakeUppercase{\getUniversity{}}}\\
+  
+  \vspace{5mm}
+  {\huge\MakeUppercase{\getFaculty{}}}\\
+
+ 
+
+  \vspace{20mm}
+  {\Large \getDoctype{}}
+
+  \vspace{15mm}
+  {\color{cyan}\huge\bfseries \getTitle{}}
+
+  \vspace{10mm}
+  {\color{cyan}\huge\bfseries \foreignlanguage{ngerman}{\getTitleGer{}}}
+
+  \vspace{15mm}
+  \begin{tabular}{l l}
+    Author:          & \getAuthor{} \\
+    Supervisor:      & \getSupervisor{} \\
+    Advisor:         & \getAdvisor{} \\
+    Submission Date: & \getSubmissionDate{} \\
+  \end{tabular}
+
+  \IfFileExists{logos/infologo.jpg	}{%
+    \vfill{}
+    \includegraphics[height=20mm]{logos/infologo.jpg}
+  }{}
+\end{titlepage}

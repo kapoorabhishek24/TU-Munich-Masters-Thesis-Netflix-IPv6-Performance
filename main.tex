@@ -1,0 +1,87 @@
+ \RequirePackage[l2tabu,orthodox]{nag}
+ 
+% TODO: decide if one-sided/two-sided
+%\documentclass[headsepline,footsepline,footinclude=false,fontsize=11pt,paper=a4,listof=totoc,bibliography=totoc,BCOR=12mm,DIV=12]{scrbook} % two-sided
+\documentclass[headsepline,chapterprefix=on,footinclude=false,oneside,fontsize=11pt,paper=a4,listof=totoc,bibliography=totoc]{scrbook} % one-sided
+%\documentclass{report}
+%path for thesis
+\newcommand*{\MyPath}{../2018-akapoor-masters-thesis}
+% TODO: change citation style in settings
+\input{settings}
+\input{logos/tumlogo}
+\usepackage[utf8]{inputenc}
+\usepackage[section]{placeins}
+\usepackage{verbatim}
+\usepackage{appendix}
+\usepackage{dirtree}
+\usepackage{cleveref}
+\usepackage{subcaption}
+\usepackage{color}
+\usepackage[T1]{fontenc} 
+\usepackage{newunicodechar} 
+\DeclareUnicodeCharacter{FFFD}{?????}
+
+% TODO: change thesis information
+\newcommand*{\getUniversity}{Technische Universität München}
+\newcommand*{\getFaculty}{Department of Informatics}
+\newcommand*{\getTitle}{Large-Scale Data Analysis of Netflix Performance over IPv6}
+\newcommand*{\getTitleGer}{Umfangreiche Datenanalyse der Netflix-Performance über IPv6}
+\newcommand*{\getAuthor}{Abhishek Kapoor}
+\newcommand*{\getDoctype}{Master's Thesis in Informatics}
+\newcommand*{\getSupervisor}{Prof. Dr. Jörg Ott}
+\newcommand*{\getAdvisor}{Dr. Vaibhav Bajpai}
+\newcommand*{\getSubmissionDate}{15.06.2018}
+\newcommand*{\getSubmissionLocation}{Munich}
+\begin{document}
+
+% Set page numbering to avoid "destination with the same identifier has been already used" warning for cover page.
+% (see https://en.wikibooks.org/wiki/LaTeX/Hyperlinks#Problems_with_Links_and_Pages).
+\pagenumbering{alpha}
+
+\input{pages/cover}
+\frontmatter{}
+\newpage\null\thispagestyle{empty}\newpage
+
+\input{pages/title}
+\newpage\null\thispagestyle{empty}\newpage
+\input{pages/disclaimer}
+\newpage\null\thispagestyle{empty}\newpage
+\input{pages/acknowledgements}
+\newpage\null\thispagestyle{empty}\newpage
+\input{pages/abstract}
+\microtypesetup{protrusion=false}
+\tableofcontents{}
+\microtypesetup{protrusion=true}
+\listoffigures{}
+\listoftables{}
+\mainmatter{}
+\part*{Introduction}
+\input{chapters/01_introduction}
+\part*{Related Work}
+\input{chapters/02_relatedwork}
+% TODO: add more chapters here
+\part*{Datasets}
+\input{chapters/03_datasets.tex}
+\part*{Data Analysis}
+\input{chapters/04_1.tex}
+\input{chapters/04_2.tex}
+\input{chapters/04_3.tex}
+\input{chapters/04_4.tex}
+\part*{Conclusion}
+\input{chapters/05_conclusion}
+\part*{Reproducibility}
+\input{chapters/06_reproducibility}
+
+
+\microtypesetup{protrusion=false}
+\microtypesetup{protrusion=true}
+\appendix{}\label{appendix}
+\appendixpage
+\addappheadtotoc
+\input{appendix/dataset.tex}
+\newpage\null\thispagestyle{empty}\newpage
+\part*{Bibliography}
+\printbibliography{}
+
+
+\end{document}
